@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1949348213561156070",
+    "created_at": "2025-07-27T05:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949348213561156070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798503654498201601",
+          "start": 3,
+          "username": "suitiicake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949348213561156070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949346845190185303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suitiicake: 男性は女性を煩わせるのを止めるタイミングを学ぶ必要がある"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1949348213561156070",
+        "created_at": "2025-07-27T05:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949348213561156070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798503654498201601",
+              "start": 3,
+              "username": "suitiicake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949348213561156070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949346845190185303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suitiicake: 男性は女性を煩わせるのを止めるタイミングを学ぶ必要がある"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798503654498201601",
+        "conversation_id": "1949346845190185303",
+        "created_at": "2025-07-27T05:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949346845190185303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949346845190185303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "男性は女性を煩わせるのを止めるタイミングを学ぶ必要がある"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 262,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T23:54:37.000Z",
+        "description": "日本語/ENG/ESP (18歳以下) ||地雷系|| #shtwt #sh || jiraikei ||うつ病||自殺|| vkei || #地雷系 || #自殺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "shtwt"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "sh"
+              },
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "地雷系"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "自殺"
+              }
+            ]
+          }
+        },
+        "id": "1798503654498201601",
+        "name": "スイティイ🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948558580149600256/kVNKpMN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 321,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 164
+        },
+        "username": "suitiicake",
+        "verified": false
+      }
+    ]
+  }
+}

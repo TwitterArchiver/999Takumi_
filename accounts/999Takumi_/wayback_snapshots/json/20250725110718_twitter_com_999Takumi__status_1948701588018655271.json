@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1948701588018655271",
+    "created_at": "2025-07-25T11:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T12:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948701588018655271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1639203203890970624",
+          "start": 3,
+          "username": "PHIphi_idkwhoUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948701588018655271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948695427043524813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PHIphi_idkwhoUR: 来财"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1948701588018655271",
+        "created_at": "2025-07-25T11:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T12:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948701588018655271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1639203203890970624",
+              "start": 3,
+              "username": "PHIphi_idkwhoUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948701588018655271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948695427043524813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PHIphi_idkwhoUR: 来财"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1948695427043524813",
+        "created_at": "2025-07-25T10:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948695427043524813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11neruuu_/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/11neruuu_/status/1947326109118263640",
+              "start": 3,
+              "url": "https://t.co/v4w4lXtMZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948695427043524813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947326109118263640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来财 https://t.co/v4w4lXtMZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1947182070679388220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 217,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "El recuerdo de una espada",
+        "id": "1639203203890970624",
+        "location": "🗡️",
+        "name": "φ",
+        "pinned_tweet_id": "1943695125130936462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900579565518602240/oCVdKfzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 397,
+          "like_count": 11417,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 2857
+        },
+        "username": "PHIphi_idkwhoUR",
+        "verified": false
+      }
+    ]
+  }
+}

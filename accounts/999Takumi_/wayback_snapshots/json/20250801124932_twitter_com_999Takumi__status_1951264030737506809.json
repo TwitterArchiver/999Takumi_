@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1951264030737506809",
+    "created_at": "2025-08-01T12:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T13:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951264030737506809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11neruuu_/stat…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/11neruuu_/status/1951245596989485567",
+          "start": 66,
+          "url": "https://t.co/4EoSMMUmfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951264030737506809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951245596989485567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8月1了 我们处关系吧\n当炮友扣1\n对象扣2\n老婆扣3\n宝宝扣4\n暧昧对象扣5\n情人扣6\n小三扣7\n谈的扣8\n复合k9\n上位k10 https://t.co/4EoSMMUmfO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1951264030737506809",
+        "created_at": "2025-08-01T12:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T13:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951264030737506809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11neruuu_/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/11neruuu_/status/1951245596989485567",
+              "start": 66,
+              "url": "https://t.co/4EoSMMUmfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951264030737506809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951245596989485567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月1了 我们处关系吧\n当炮友扣1\n对象扣2\n老婆扣3\n宝宝扣4\n暧昧对象扣5\n情人扣6\n小三扣7\n谈的扣8\n复合k9\n上位k10 https://t.co/4EoSMMUmfO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824655235073314817",
+        "conversation_id": "1951245596989485567",
+        "created_at": "2025-08-01T11:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951245596989485567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu_huacs/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/yu_huacs/status/1951234966924489076",
+              "start": 66,
+              "url": "https://t.co/vdqkhLYLHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951245596989485567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951234966924489076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月1了 我们处关系吧\n当炮友扣1\n对象扣2\n老婆扣3\n宝宝扣4\n暧昧对象扣5\n情人扣6\n小三扣7\n谈的扣8\n复合k9\n上位k10 https://t.co/vdqkhLYLHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 尸體 | 藥物濫用 | 精神障礙 | Hip-Hop音樂 | 💙主隊:@ChelseaFC | Lover:@xxxtentacion | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "ChelseaFC"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "xxxtentacion"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 319,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "あ「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1947326109118263640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 541,
+          "like_count": 24164,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 240
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

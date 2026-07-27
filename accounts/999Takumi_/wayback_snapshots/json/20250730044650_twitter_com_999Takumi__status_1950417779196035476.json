@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Travis Scott",
+          "id": "870277822790619136",
+          "name": "Travis Scott"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Travis Scott",
+          "id": "870277822790619136",
+          "name": "Travis Scott"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travis Scott",
+          "id": "870277822790619136",
+          "name": "Travis Scott"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1950417779196035476",
+    "created_at": "2025-07-30T04:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T05:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950417779196035476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "135019364",
+          "start": 3,
+          "username": "trvisXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950417779196035476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3797
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944487144455827807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trvisXX: I FUCKING LOVE YALLL CANT EXPRESSS ENOUGH. AN REMEMBER ANY YOUNG WILD YOUTE OUT THERE  WITH SOME WILD IDEAS THAT U SHARE WITH…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1950417779196035476",
+        "created_at": "2025-07-30T04:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950417779196035476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "135019364",
+              "start": 3,
+              "username": "trvisXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950417779196035476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3797
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944487144455827807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trvisXX: I FUCKING LOVE YALLL CANT EXPRESSS ENOUGH. AN REMEMBER ANY YOUNG WILD YOUTE OUT THERE  WITH SOME WILD IDEAS THAT U SHARE WITH…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "135019364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travis Scott",
+              "id": "870277822790619136",
+              "name": "Travis Scott"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1944487144455827807",
+        "created_at": "2025-07-13T20:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944487144455827807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944487144455827807",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1116,
+          "impression_count": 1140693,
+          "like_count": 37702,
+          "quote_count": 227,
+          "reply_count": 1047,
+          "retweet_count": 3797
+        },
+        "reply_settings": "everyone",
+        "text": "I FUCKING LOVE YALLL CANT EXPRESSS ENOUGH. AN REMEMBER ANY YOUNG WILD YOUTE OUT THERE  WITH SOME WILD IDEAS THAT U SHARE WITH YOUR  HOMIES U CONSIDER FAMILY GET TOGETHER AND GO AFTER IT. COULD INSPIRE  THE WORLD ONE DAY."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 尸體 | 藥物濫用 | 精神障礙 | Hip-Hop音樂 | 💙主隊:@ChelseaFC | Lover:@xxxtentacion | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "ChelseaFC"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "xxxtentacion"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 302,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-20T03:25:10.000Z",
+        "description": "2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "JB2.com",
+                "end": 23,
+                "expanded_url": "http://JB2.com",
+                "start": 0,
+                "url": "https://t.co/VPWcOwKx3G"
+              }
+            ]
+          }
+        },
+        "id": "135019364",
+        "name": "TRAVIS SCOTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/634514155261833216/czgYrPLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12230592,
+          "following_count": 655,
+          "like_count": 1042,
+          "listed_count": 4400,
+          "media_count": 344,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/VPWcOwKx3G",
+        "username": "trvisXX",
+        "verified": true
+      }
+    ]
+  }
+}

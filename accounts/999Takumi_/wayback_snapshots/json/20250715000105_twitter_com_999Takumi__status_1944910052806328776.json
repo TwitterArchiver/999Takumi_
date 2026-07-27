@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1944733291124330791",
+    "created_at": "2025-07-15T00:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T01:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944910052806328776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773217004797022208",
+          "start": 0,
+          "username": "qingniaosufferi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944910052806328776",
+    "in_reply_to_user_id": "1773217004797022208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944748640427454646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingniaosufferi 🫶👌👈👎🤜🤘👐🔫🔫🔫💀💀💀🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1944733291124330791",
+        "created_at": "2025-07-15T00:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T01:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944910052806328776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773217004797022208",
+              "start": 0,
+              "username": "qingniaosufferi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944910052806328776",
+        "in_reply_to_user_id": "1773217004797022208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944748640427454646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingniaosufferi 🫶👌👈👎🤜🤘👐🔫🔫🔫💀💀💀🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773217004797022208",
+        "conversation_id": "1944733291124330791",
+        "created_at": "2025-07-14T13:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944748640427454646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944748640427454646",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944733291124330791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 萌物😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "pinned_tweet_id": "1944733291124330791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 156,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T05:14:24.000Z",
+        "description": "没关系 一切都不会过去的 活着只会越来越痛苦",
+        "id": "1773217004797022208",
+        "location": "🚪78",
+        "name": "请幸福降临",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915914020340559873/rc4I5vGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 166,
+          "like_count": 5515,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 388
+        },
+        "username": "qingniaosufferi",
+        "verified": false
+      }
+    ]
+  }
+}

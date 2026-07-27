@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2024790062597304452",
+    "created_at": "2026-02-20T17:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024892413551280272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024892413551280272",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024790062597304452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 全草坪最忧郁的人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2024790054334541825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBl_051asAELTjE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2024790062597304452",
+        "created_at": "2026-02-20T17:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024892413551280272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024892413551280272",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024790062597304452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 全草坪最忧郁的人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024790054334541825"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2024790062597304452",
+        "created_at": "2026-02-20T10:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024790062597304452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkgUjLelFF",
+              "end": 45,
+              "expanded_url": "https://x.com/kuma02150128/status/2024790062597304452/photo/1",
+              "media_key": "3_2024790054334541825",
+              "start": 22,
+              "url": "https://t.co/qkgUjLelFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024790062597304452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和妹妹躺在草地上（其实垫着我的羽绒服外套🌚 https://t.co/qkgUjLelFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kawasaki, Kanagawa, Japan",
+              "geo": {
+                "coordinates": [
+                  139.71722,
+                  35.52056
+                ],
+                "type": "Point"
+              },
+              "locality": "Kawasaki",
+              "region": "Kanagawa",
+              "sub_region": "Kawasaki Shi"
+            }
+          ]
+        },
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 428,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 118,
+          "like_count": 1826,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 523
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

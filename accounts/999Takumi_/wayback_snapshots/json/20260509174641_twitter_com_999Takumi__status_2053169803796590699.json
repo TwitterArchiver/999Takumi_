@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2053169803796590699",
+    "created_at": "2026-05-09T17:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053169803796590699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1861227940924792832",
+          "start": 3,
+          "username": "e_rror___00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053169803796590699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052711846982074636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e_rror___00: 死ぬことで解決する事が多すぎる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2053169803796590699",
+        "created_at": "2026-05-09T17:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053169803796590699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1861227940924792832",
+              "start": 3,
+              "username": "e_rror___00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053169803796590699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052711846982074636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e_rror___00: 死ぬことで解決する事が多すぎる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861227940924792832",
+        "conversation_id": "2052711846982074636",
+        "created_at": "2026-05-08T11:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052711846982074636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052711846982074636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 39072,
+          "like_count": 2676,
+          "quote_count": 13,
+          "reply_count": 13,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬことで解決する事が多すぎる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 434,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 156
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T01:58:27.000Z",
+        "description": "死ねずにふらふら生きてます #病み垢 #OD #既読いいね",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "病み垢"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "OD"
+              },
+              {
+                "end": 29,
+                "start": 23,
+                "tag": "既読いいね"
+              }
+            ]
+          }
+        },
+        "id": "1861227940924792832",
+        "location": "酔生夢死 ",
+        "name": "zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026193485028786176/nOwstLsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 328,
+          "like_count": 7278,
+          "listed_count": 17,
+          "media_count": 2,
+          "tweet_count": 1531
+        },
+        "username": "e_rror___00",
+        "verified": false
+      }
+    ]
+  }
+}

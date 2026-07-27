@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2078192346844532839",
+    "created_at": "2026-07-17T23:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078256024902123808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077728357744275456",
+          "start": 0,
+          "username": "zerro00730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078256024902123808",
+    "in_reply_to_user_id": "2077728357744275456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078192346844532839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerro00730 板面吃吧吃吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2078192346844532839",
+        "created_at": "2026-07-17T23:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078256024902123808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077728357744275456",
+              "start": 0,
+              "username": "zerro00730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078256024902123808",
+        "in_reply_to_user_id": "2077728357744275456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078192346844532839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerro00730 板面吃吧吃吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077728357744275456",
+        "conversation_id": "2078192346844532839",
+        "created_at": "2026-07-17T18:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078192346844532839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078192346844532839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼泪流吧流吧 流完还要继续好好生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 490,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:14:42.000Z",
+        "description": "天使@Zzerro77\n（过🚪请看⬆️）\n我的賬號被制裁了…等我會來!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Zzerro77"
+              }
+            ]
+          }
+        },
+        "id": "2077728357744275456",
+        "name": "板面之王",
+        "pinned_tweet_id": "2077926252279898236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078175338656645120/xHkdTF0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 28,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "zerro00730",
+        "verified": false
+      }
+    ]
+  }
+}

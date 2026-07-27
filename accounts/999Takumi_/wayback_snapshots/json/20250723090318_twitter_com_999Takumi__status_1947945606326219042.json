@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947945603369205760",
+        "3_1947945603511803904"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1947945606326219042",
+    "created_at": "2025-07-23T09:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T10:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947945606326219042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VoUNc84eVt",
+          "end": 29,
+          "expanded_url": "https://x.com/999Takumi_/status/1947945606326219042/photo/1",
+          "media_key": "3_1947945603369205760",
+          "start": 6,
+          "url": "https://t.co/VoUNc84eVt"
+        },
+        {
+          "display_url": "pic.x.com/VoUNc84eVt",
+          "end": 29,
+          "expanded_url": "https://x.com/999Takumi_/status/1947945606326219042/photo/1",
+          "media_key": "3_1947945603511803904",
+          "start": 6,
+          "url": "https://t.co/VoUNc84eVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947945606326219042",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Mood: https://t.co/VoUNc84eVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_1947945603369205760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh-NKKbAAAauWk.jpg",
+        "width": 1018
+      },
+      {
+        "height": 976,
+        "media_key": "3_1947945603511803904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh-NKsa4AADz9Y.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947945603369205760",
+            "3_1947945603511803904"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947945606326219042",
+        "created_at": "2025-07-23T09:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947945606326219042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoUNc84eVt",
+              "end": 29,
+              "expanded_url": "https://x.com/999Takumi_/status/1947945606326219042/photo/1",
+              "media_key": "3_1947945603369205760",
+              "start": 6,
+              "url": "https://t.co/VoUNc84eVt"
+            },
+            {
+              "display_url": "pic.x.com/VoUNc84eVt",
+              "end": 29,
+              "expanded_url": "https://x.com/999Takumi_/status/1947945606326219042/photo/1",
+              "media_key": "3_1947945603511803904",
+              "start": 6,
+              "url": "https://t.co/VoUNc84eVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947945606326219042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mood: https://t.co/VoUNc84eVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "pinned_tweet_id": "1947182070679388220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 203,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

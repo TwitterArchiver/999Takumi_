@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1959980880170246168",
+    "created_at": "2025-08-25T14:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959980880170246168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959980880170246168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果蚊子吸脂肪而不是血 人類會更快樂嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1959980880170246168",
+        "created_at": "2025-08-25T14:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959980880170246168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959980880170246168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果蚊子吸脂肪而不是血 人類會更快樂嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| ODODOD | 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958496754867032064/uysXxHiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 421,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

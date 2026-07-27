@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953859494015869040",
+    "created_at": "2025-08-08T16:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953859494015869040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953859494015869040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不懂自己 自己一个人刷着视频看着那深有感触的文案 然后胡思乱想 我会想自己到底是个什么样的人 性格不好 声音不好听生气只会憋着爱胡思乱想敏感 讨厌自己会突然心情低落无法控制自己精神内耗 我也不是不快乐 和朋友在一起也会开怀大笑 但这些都不是真正让我感到快乐的东西 我究竟想要什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953859494015869040",
+        "created_at": "2025-08-08T16:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953859494015869040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953859494015869040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不懂自己 自己一个人刷着视频看着那深有感触的文案 然后胡思乱想 我会想自己到底是个什么样的人 性格不好 声音不好听生气只会憋着爱胡思乱想敏感 讨厌自己会突然心情低落无法控制自己精神内耗 我也不是不快乐 和朋友在一起也会开怀大笑 但这些都不是真正让我感到快乐的东西 我究竟想要什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 390,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

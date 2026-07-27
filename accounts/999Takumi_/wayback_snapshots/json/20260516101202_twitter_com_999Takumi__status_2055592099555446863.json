@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2055592099555446863",
+    "created_at": "2026-05-16T10:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055592099555446863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055592099555446863",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055270151260680331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 내가너무못생겨서\n눈물나옴\n내가너무뚱뚱해서\n눈물나옴\n내가너무찐따라서\n눈물나옴\n내가너무좆같아서\n눈물나옴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2055592099555446863",
+        "created_at": "2026-05-16T10:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055592099555446863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055592099555446863",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270151260680331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 내가너무못생겨서\n눈물나옴\n내가너무뚱뚱해서\n눈물나옴\n내가너무찐따라서\n눈물나옴\n내가너무좆같아서\n눈물나옴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2055270151260680331",
+        "created_at": "2026-05-15T12:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055270151260680331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055270151260680331",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 100779,
+          "like_count": 7319,
+          "quote_count": 160,
+          "reply_count": 14,
+          "retweet_count": 2210
+        },
+        "reply_settings": "everyone",
+        "text": "내가너무못생겨서\n눈물나옴\n내가너무뚱뚱해서\n눈물나옴\n내가너무찐따라서\n눈물나옴\n내가너무좆같아서\n눈물나옴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/OD/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055581938078126080/25d9rWkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 441,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 158
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "location": "썅노무시끼",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 96,
+          "like_count": 8459,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954158061637271553"
+      ],
+      "media_source_tweet_id": [
+        "1954158068318581106"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1954158514097516592",
+    "created_at": "2025-08-09T12:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954158514097516592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/05fFnU6Nsv",
+          "end": 42,
+          "expanded_url": "https://x.com/11neruuu_/status/1954158068318581106/photo/1",
+          "media_key": "3_1954158061637271553",
+          "start": 19,
+          "url": "https://t.co/05fFnU6Nsv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954158514097516592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954158068318581106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: 求包養 https://t.co/05fFnU6Nsv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1954158061637271553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6QZ0rbAAE2Hw_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954158061637271553"
+          ],
+          "media_source_tweet_id": [
+            "1954158068318581106"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1954158514097516592",
+        "created_at": "2025-08-09T12:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954158514097516592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05fFnU6Nsv",
+              "end": 42,
+              "expanded_url": "https://x.com/11neruuu_/status/1954158068318581106/photo/1",
+              "media_key": "3_1954158061637271553",
+              "start": 19,
+              "url": "https://t.co/05fFnU6Nsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954158514097516592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954158068318581106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: 求包養 https://t.co/05fFnU6Nsv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954158061637271553"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "conversation_id": "1954158068318581106",
+        "created_at": "2025-08-09T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954158068318581106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05fFnU6Nsv",
+              "end": 27,
+              "expanded_url": "https://x.com/11neruuu_/status/1954158068318581106/photo/1",
+              "media_key": "3_1954158061637271553",
+              "start": 4,
+              "url": "https://t.co/05fFnU6Nsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954158068318581106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求包養 https://t.co/05fFnU6Nsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 397,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "七葉「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1950400437036908919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 552,
+          "like_count": 24971,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 251
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

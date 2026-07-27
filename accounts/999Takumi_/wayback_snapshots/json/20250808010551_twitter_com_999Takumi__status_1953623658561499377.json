@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953440359402336610",
+    "created_at": "2025-08-08T01:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T02:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953623658561499377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707720317547003904",
+          "start": 0,
+          "username": "Yyyy857028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953623658561499377",
+    "in_reply_to_user_id": "1707720317547003904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953500881049272641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyy857028 偽如人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953440359402336610",
+        "created_at": "2025-08-08T01:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T02:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953623658561499377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707720317547003904",
+              "start": 0,
+              "username": "Yyyy857028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953623658561499377",
+        "in_reply_to_user_id": "1707720317547003904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953500881049272641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyy857028 偽如人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707720317547003904",
+        "conversation_id": "1953440359402336610",
+        "created_at": "2025-08-07T16:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953500881049272641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953500881049272641",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953440359402336610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 这是人类吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 394,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T11:34:10.000Z",
+        "description": "=岁（Sai）♀｜MHA🍰推 💥🍰 🍰右固定｜NRT🍆右固定｜自殘癖｜重焦重抑｜中文&日语勉强｜发的很杂 稿件不允许使用",
+        "id": "1707720317547003904",
+        "location": "🍰",
+        "name": "yshfn1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952797887743524864/ejZCh4YB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 350,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 380
+        },
+        "username": "Yyyy857028",
+        "verified": false
+      }
+    ]
+  }
+}

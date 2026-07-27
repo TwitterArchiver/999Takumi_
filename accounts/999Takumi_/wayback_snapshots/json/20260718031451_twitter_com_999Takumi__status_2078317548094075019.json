@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2078317548094075019",
+    "created_at": "2026-07-18T03:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078317548094075019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795276575887519744",
+          "start": 3,
+          "username": "Y_Kaixin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078317548094075019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078002291404407035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y_Kaixin: 要不是微信没消息我至于玩推特吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2078317548094075019",
+        "created_at": "2026-07-18T03:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078317548094075019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795276575887519744",
+              "start": 3,
+              "username": "Y_Kaixin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078317548094075019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078002291404407035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y_Kaixin: 要不是微信没消息我至于玩推特吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795276575887519744",
+        "conversation_id": "2078002291404407035",
+        "created_at": "2026-07-17T06:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078002291404407035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078002291404407035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8431,
+          "like_count": 187,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "要不是微信没消息我至于玩推特吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 494,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T02:11:12.000Z",
+        "description": "02｜ESFJ｜巨蟹｜南京人｜上海工作ing｜直男｜男同请远离我｜分享做饭日常｜碎碎念｜",
+        "id": "1795276575887519744",
+        "location": "距离你0.1km",
+        "name": "双层吉士堡",
+        "pinned_tweet_id": "1937802897624068218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995877533355823104/xDQZY9zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 165,
+          "like_count": 5202,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "Y_Kaixin",
+        "verified": true
+      }
+    ]
+  }
+}

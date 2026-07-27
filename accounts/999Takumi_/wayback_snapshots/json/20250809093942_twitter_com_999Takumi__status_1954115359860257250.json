@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1954115359860257250",
+    "created_at": "2025-08-09T09:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T10:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954115359860257250"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954115359860257250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "我好累，我难受，好痛，我好想哭，但全部都被我否定，一切都只不过是我自己在可怜...我不想传播负面能量，因为那样会被人讨厌，我不想再被抛弃，我渴望有人能拥抱我，来爱我，但我知道，我不会有爱了，我只会一遍一遍的否定，否定自己，否定他人，我问自己，你的愿望是什么，答案是没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1954115359860257250",
+        "created_at": "2025-08-09T09:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T10:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954115359860257250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954115359860257250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好累，我难受，好痛，我好想哭，但全部都被我否定，一切都只不过是我自己在可怜...我不想传播负面能量，因为那样会被人讨厌，我不想再被抛弃，我渴望有人能拥抱我，来爱我，但我知道，我不会有爱了，我只会一遍一遍的否定，否定自己，否定他人，我问自己，你的愿望是什么，答案是没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 396,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

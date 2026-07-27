@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953512571354365952"
+      ],
+      "media_source_tweet_id": [
+        "1953512573833297923"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "1953637342872482163",
+    "created_at": "2025-08-08T02:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T03:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953637342872482163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "840286695421595649",
+          "start": 3,
+          "username": "autoass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2YnKf3YKf",
+          "end": 55,
+          "expanded_url": "https://x.com/autoass/status/1953512573833297923/photo/1",
+          "media_key": "3_1953512571354365952",
+          "start": 32,
+          "url": "https://t.co/E2YnKf3YKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953637342872482163",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953512573833297923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @autoass: Toyota Supra Mk IV https://t.co/E2YnKf3YKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_1953512571354365952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxFVV_WQAA8yD4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953512571354365952"
+          ],
+          "media_source_tweet_id": [
+            "1953512573833297923"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1953637342872482163",
+        "created_at": "2025-08-08T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953637342872482163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "840286695421595649",
+              "start": 3,
+              "username": "autoass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2YnKf3YKf",
+              "end": 55,
+              "expanded_url": "https://x.com/autoass/status/1953512573833297923/photo/1",
+              "media_key": "3_1953512571354365952",
+              "start": 32,
+              "url": "https://t.co/E2YnKf3YKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953637342872482163",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953512573833297923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @autoass: Toyota Supra Mk IV https://t.co/E2YnKf3YKf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953512571354365952"
+          ]
+        },
+        "author_id": "840286695421595649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1953512573833297923",
+        "created_at": "2025-08-07T17:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T18:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953512573833297923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2YnKf3YKf",
+              "end": 42,
+              "expanded_url": "https://x.com/autoass/status/1953512573833297923/photo/1",
+              "media_key": "3_1953512571354365952",
+              "start": 19,
+              "url": "https://t.co/E2YnKf3YKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953512573833297923",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 21594,
+          "like_count": 2138,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "Toyota Supra Mk IV https://t.co/E2YnKf3YKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 394,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-10T19:42:14.000Z",
+        "description": "Follower Goal: 500k 🔥\nInsta @ AutoassOfficial\nDM your car for a shoutout/ post. All types of cars welcome. DMs open.",
+        "id": "840286695421595649",
+        "location": "New York, USA",
+        "name": "Autoass Media",
+        "pinned_tweet_id": "1948480890276917553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862077554884030464/1IH4AwSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499535,
+          "following_count": 160,
+          "like_count": 21669,
+          "listed_count": 639,
+          "media_count": 10082,
+          "tweet_count": 14949
+        },
+        "username": "autoass",
+        "verified": true
+      }
+    ]
+  }
+}

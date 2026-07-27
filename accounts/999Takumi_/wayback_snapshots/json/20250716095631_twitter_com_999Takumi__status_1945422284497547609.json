@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1945422284497547609",
+    "created_at": "2025-07-16T09:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T10:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945422284497547609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945422284497547609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打电话问过315了，他们说我的苦日子不是假的，无法维权。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1945422284497547609",
+        "created_at": "2025-07-16T09:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945422284497547609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945422284497547609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打电话问过315了，他们说我的苦日子不是假的，无法维权。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "pinned_tweet_id": "1944733291124330791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 161,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

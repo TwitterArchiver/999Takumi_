@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2025133452719522226",
+    "created_at": "2026-02-21T15:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025233202181521696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025233202181521696",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025133452719522226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 我要撕破我的脸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2025133383450603520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025133383450603520/img/etOA0UdGZozGn_S7.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025133383450603520/vid/avc1/320x568/X2aVE0cAA_PFrW23.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025133383450603520/vid/avc1/480x852/Rgx-xRwikMnmh6jo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025133383450603520/vid/avc1/720x1280/u5FIBn_AT4yFkbh2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025133383450603520/pl/hS6T_amfFrYDn2AS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2025133452719522226",
+        "created_at": "2026-02-21T15:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025233202181521696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025233202181521696",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025133452719522226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 我要撕破我的脸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025133383450603520"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2025133452719522226",
+        "created_at": "2026-02-21T09:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025133452719522226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzqqDhJvnd",
+              "end": 33,
+              "expanded_url": "https://x.com/kuma02150128/status/2025133452719522226/video/1",
+              "media_key": "13_2025133383450603520",
+              "start": 10,
+              "url": "https://t.co/PzqqDhJvnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025133452719522226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是如此萌🐻🐻🐻🐻 https://t.co/PzqqDhJvnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 428,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 1854,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 530
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

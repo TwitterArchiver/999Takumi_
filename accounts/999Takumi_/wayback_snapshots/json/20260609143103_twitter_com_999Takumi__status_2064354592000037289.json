@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061471531432337408",
+        "3_2061471531734335488"
+      ],
+      "media_source_tweet_id": [
+        "2061471539116339494",
+        "2061471539116339494"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064354592000037289",
+    "created_at": "2026-06-09T14:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064354592000037289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2046660159867400192",
+          "start": 3,
+          "username": "nyanyanya6767"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQO94nAbd7",
+          "end": 51,
+          "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+          "media_key": "3_2061471531432337408",
+          "start": 28,
+          "url": "https://t.co/fQO94nAbd7"
+        },
+        {
+          "display_url": "pic.x.com/fQO94nAbd7",
+          "end": 51,
+          "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+          "media_key": "3_2061471531734335488",
+          "start": 28,
+          "url": "https://t.co/fQO94nAbd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064354592000037289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061471539116339494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyanyanya6767: 價目表又双更新了 https://t.co/fQO94nAbd7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061471531432337408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvRb4ma4AAoO2t.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061471531734335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvRb5ubAAADtzJ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061471531432337408",
+            "3_2061471531734335488"
+          ],
+          "media_source_tweet_id": [
+            "2061471539116339494",
+            "2061471539116339494"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064354592000037289",
+        "created_at": "2026-06-09T14:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064354592000037289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2046660159867400192",
+              "start": 3,
+              "username": "nyanyanya6767"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQO94nAbd7",
+              "end": 51,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+              "media_key": "3_2061471531432337408",
+              "start": 28,
+              "url": "https://t.co/fQO94nAbd7"
+            },
+            {
+              "display_url": "pic.x.com/fQO94nAbd7",
+              "end": 51,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+              "media_key": "3_2061471531734335488",
+              "start": 28,
+              "url": "https://t.co/fQO94nAbd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064354592000037289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061471539116339494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyanyanya6767: 價目表又双更新了 https://t.co/fQO94nAbd7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061471531432337408",
+            "3_2061471531734335488"
+          ]
+        },
+        "author_id": "2046660159867400192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061471539116339494",
+        "created_at": "2026-06-01T15:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061471539116339494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQO94nAbd7",
+              "end": 32,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+              "media_key": "3_2061471531432337408",
+              "start": 9,
+              "url": "https://t.co/fQO94nAbd7"
+            },
+            {
+              "display_url": "pic.x.com/fQO94nAbd7",
+              "end": 32,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2061471539116339494/photo/1",
+              "media_key": "3_2061471531734335488",
+              "start": 9,
+              "url": "https://t.co/fQO94nAbd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061471539116339494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7467,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "價目表又双更新了 https://t.co/fQO94nAbd7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/我精神状态很不正常/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060555014511456256/4spZ5Kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 448,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 197
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth\n同圈子會互fo",
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 445,
+          "like_count": 6548,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 232
+        },
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

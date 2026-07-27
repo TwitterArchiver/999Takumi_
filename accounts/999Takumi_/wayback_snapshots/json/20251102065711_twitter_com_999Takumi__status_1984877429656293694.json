@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984831330614456320"
+      ],
+      "media_source_tweet_id": [
+        "1984831333487821300"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984877429656293694",
+    "created_at": "2025-11-02T06:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984877429656293694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOdFKDNBgF",
+          "end": 55,
+          "expanded_url": "https://x.com/IzayoiMarin/status/1984831333487821300/photo/1",
+          "media_key": "3_1984831330614456320",
+          "start": 32,
+          "url": "https://t.co/xOdFKDNBgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984877429656293694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984831333487821300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 我是真的恶心这种放假制度…… https://t.co/xOdFKDNBgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_1984831330614456320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uJlEBXMAAfTG0.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984831330614456320"
+          ],
+          "media_source_tweet_id": [
+            "1984831333487821300"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984877429656293694",
+        "created_at": "2025-11-02T06:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984877429656293694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOdFKDNBgF",
+              "end": 55,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1984831333487821300/photo/1",
+              "media_key": "3_1984831330614456320",
+              "start": 32,
+              "url": "https://t.co/xOdFKDNBgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984877429656293694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984831333487821300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 我是真的恶心这种放假制度…… https://t.co/xOdFKDNBgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984831330614456320"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984831333487821300",
+        "created_at": "2025-11-02T03:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984831333487821300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOdFKDNBgF",
+              "end": 38,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1984831333487821300/photo/1",
+              "media_key": "3_1984831330614456320",
+              "start": 15,
+              "url": "https://t.co/xOdFKDNBgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984831333487821300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的恶心这种放假制度…… https://t.co/xOdFKDNBgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975235878210654209/20GLmCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 448,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 110
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/互fo/フォロバ99%/🇨🇳人/🇯🇵好き/挂：@soyorin_chihaya @quasoawa @Panther194466 @satochocolat17 @Baixiaoming2952 @NovaBabelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "soyorin_chihaya"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "quasoawa"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Panther194466"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "satochocolat17"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Baixiaoming2952"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "NovaBabelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "ダーリン、頑張って",
+        "name": "まりん@もうヤンデレじゃない",
+        "pinned_tweet_id": "1984640367187103829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979839146601426944/LBpfTPIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1699,
+          "like_count": 25709,
+          "listed_count": 4,
+          "media_count": 960,
+          "tweet_count": 11811
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

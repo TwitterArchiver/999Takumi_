@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947326102399266816",
+        "3_1947326102445391872"
+      ],
+      "media_source_tweet_id": [
+        "1947326109118263640",
+        "1947326109118263640"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1947326597155189167",
+    "created_at": "2025-07-21T16:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947326597155189167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dcqCAQKIiN",
+          "end": 55,
+          "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+          "media_key": "3_1947326102399266816",
+          "start": 32,
+          "url": "https://t.co/dcqCAQKIiN"
+        },
+        {
+          "display_url": "pic.x.com/dcqCAQKIiN",
+          "end": 55,
+          "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+          "media_key": "3_1947326102445391872",
+          "start": 32,
+          "url": "https://t.co/dcqCAQKIiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947326597155189167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947326109118263640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: 我只是個窮鬼、謝謝投餵「🚪50」 https://t.co/dcqCAQKIiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1947326102399266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZKxdNasAAatNd.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1620,
+        "media_key": "3_1947326102445391872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZKxdYagAAGc2M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947326102399266816",
+            "3_1947326102445391872"
+          ],
+          "media_source_tweet_id": [
+            "1947326109118263640",
+            "1947326109118263640"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1947326597155189167",
+        "created_at": "2025-07-21T16:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947326597155189167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcqCAQKIiN",
+              "end": 55,
+              "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+              "media_key": "3_1947326102399266816",
+              "start": 32,
+              "url": "https://t.co/dcqCAQKIiN"
+            },
+            {
+              "display_url": "pic.x.com/dcqCAQKIiN",
+              "end": 55,
+              "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+              "media_key": "3_1947326102445391872",
+              "start": 32,
+              "url": "https://t.co/dcqCAQKIiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947326597155189167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947326109118263640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: 我只是個窮鬼、謝謝投餵「🚪50」 https://t.co/dcqCAQKIiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947326102399266816",
+            "3_1947326102445391872"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "conversation_id": "1947326109118263640",
+        "created_at": "2025-07-21T16:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947326109118263640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcqCAQKIiN",
+              "end": 40,
+              "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+              "media_key": "3_1947326102399266816",
+              "start": 17,
+              "url": "https://t.co/dcqCAQKIiN"
+            },
+            {
+              "display_url": "pic.x.com/dcqCAQKIiN",
+              "end": 40,
+              "expanded_url": "https://x.com/11neruuu_/status/1947326109118263640/photo/1",
+              "media_key": "3_1947326102445391872",
+              "start": 17,
+              "url": "https://t.co/dcqCAQKIiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947326109118263640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我只是個窮鬼、謝謝投餵「🚪50」 https://t.co/dcqCAQKIiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.\n低能兒💊",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "pinned_tweet_id": "1947182070679388220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 187,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "小睡「ねる」｜よ — @1neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "1neruuu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/11neruuu_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/11neruuu_?igsh=bmlsNTc3cHZhZDk3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/1SFgXE3EVj"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1947326109118263640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946560204319129600/qYvBG5vh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 552,
+          "like_count": 22641,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/1SFgXE3EVj",
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

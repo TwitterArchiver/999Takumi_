@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2032541170908401694",
+    "created_at": "2026-03-13T19:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T20:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032541170908401694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784645200532721664",
+          "start": 3,
+          "username": "makino100999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032541170908401694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032290239214244165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makino100999: 幸好我会翻墙\n有没有留子告诉我外面的就业怎么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2032541170908401694",
+        "created_at": "2026-03-13T19:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032541170908401694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784645200532721664",
+              "start": 3,
+              "username": "makino100999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032541170908401694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032290239214244165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makino100999: 幸好我会翻墙\n有没有留子告诉我外面的就业怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784645200532721664",
+        "conversation_id": "2032290239214244165",
+        "created_at": "2026-03-13T02:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032290239214244165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032290239214244165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 682026,
+          "like_count": 884,
+          "quote_count": 0,
+          "reply_count": 208,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "幸好我会翻墙\n有没有留子告诉我外面的就业怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 438,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 142
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T18:05:56.000Z",
+        "description": "推特发泄情绪日记/时而正常时而不正常/不卖号啊没有电报",
+        "id": "1784645200532721664",
+        "location": "小猫哭",
+        "name": "花火和热带鱼",
+        "pinned_tweet_id": "2028771894837805163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785154317651267584/GA_B2P3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16673,
+          "following_count": 165,
+          "like_count": 2048,
+          "listed_count": 55,
+          "media_count": 227,
+          "tweet_count": 2600
+        },
+        "username": "makino100999",
+        "verified": false
+      }
+    ]
+  }
+}

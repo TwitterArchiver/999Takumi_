@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1949977364466749735",
+    "created_at": "2025-07-28T23:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T00:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949977364466749735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783819937045237760",
+          "start": 3,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949977364466749735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949975517962158089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiihatehuman: 我還想和你談論宇宙和天空 或是沙灘上的碎石與人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1949977364466749735",
+        "created_at": "2025-07-28T23:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T00:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949977364466749735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783819937045237760",
+              "start": 3,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949977364466749735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949975517962158089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiihatehuman: 我還想和你談論宇宙和天空 或是沙灘上的碎石與人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1949975517962158089",
+        "created_at": "2025-07-28T23:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T00:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949975517962158089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949975517962158089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我還想和你談論宇宙和天空 或是沙灘上的碎石與人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 285,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎 @sekaiboom 鎖推小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "sekaiboom"
+              }
+            ]
+          }
+        },
+        "id": "1783819937045237760",
+        "location": "天國",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 386,
+          "like_count": 2197,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1816
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

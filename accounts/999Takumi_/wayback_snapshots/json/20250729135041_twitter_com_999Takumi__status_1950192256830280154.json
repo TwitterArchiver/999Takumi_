@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1950192256830280154",
+    "created_at": "2025-07-29T13:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950192256830280154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950192256830280154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950191225337708595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: Bro說要跟我面基可到現在都還沒買機票是不是不愛我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1950192256830280154",
+        "created_at": "2025-07-29T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950192256830280154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950192256830280154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950191225337708595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: Bro說要跟我面基可到現在都還沒買機票是不是不愛我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824655235073314817",
+        "conversation_id": "1950191225337708595",
+        "created_at": "2025-07-29T13:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950191225337708595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950191225337708595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Bro說要跟我面基可到現在都還沒買機票是不是不愛我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 尸體 | OD | 精神障礙 | Hip-Hop音樂 | 💙主隊:@ChelseaFC | Lover:@xxxtentacion | ^請關注@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ChelseaFC"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xxxtentacion"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 298,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "あ「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1947326109118263640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950185139822350336/jPqZYhPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 535,
+          "like_count": 23312,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 226
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

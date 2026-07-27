@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2060555351012020688",
+    "created_at": "2026-05-30T02:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060555351012020688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997292379385307136",
+          "start": 3,
+          "username": "baeghui_1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060555351012020688",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340821615055207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baeghui_1206: 다들 뭐땜에 살아갈까"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2060555351012020688",
+        "created_at": "2026-05-30T02:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060555351012020688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997292379385307136",
+              "start": 3,
+              "username": "baeghui_1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060555351012020688",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340821615055207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baeghui_1206: 다들 뭐땜에 살아갈까"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997292379385307136",
+        "conversation_id": "2060340821615055207",
+        "created_at": "2026-05-29T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340821615055207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340821615055207",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 63030,
+          "like_count": 581,
+          "quote_count": 321,
+          "reply_count": 409,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "다들 뭐땜에 살아갈까"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/我精神状态很不正常/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060555014511456256/4spZ5Kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 440,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 179
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T13:10:00.000Z",
+        "description": "낭랑십육세",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1070405205/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1070405205/",
+                "start": 0,
+                "url": "https://t.co/PwK9YagpLP"
+              }
+            ]
+          }
+        },
+        "id": "1997292379385307136",
+        "location": "정신병바이",
+        "name": "백희",
+        "pinned_tweet_id": "2058854182241853770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997293102290329600/QX4bkJ_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 346,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 9598
+        },
+        "url": "https://t.co/PwK9YagpLP",
+        "username": "baeghui_1206",
+        "verified": false
+      }
+    ]
+  }
+}

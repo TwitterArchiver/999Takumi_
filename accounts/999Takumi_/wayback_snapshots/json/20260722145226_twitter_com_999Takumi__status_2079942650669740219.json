@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2079942650669740219",
+    "created_at": "2026-07-22T14:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079942650669740219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/999Takumi_/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/999Takumi_/status/2079942490732298689",
+          "start": 141,
+          "url": "https://t.co/V5Gnqqr8Wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079942650669740219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079942490732298689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我不傻 当你回我信息越来越慢 话越来越少的时候不管我给你分享什么 你都没有情绪价值 我就应该明白我对你来说已经没有那么重要了 我放不下的只是那段真心付出的回忆与不甘那些彼此袒露心声的时刻你应该相信我我从未想过离开你其实我真的不理解不明白好多事情 特别想问你一个答案 但不重要了 https://t.co/V5Gnqqr8Wf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079942650669740219",
+        "created_at": "2026-07-22T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079942650669740219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/999Takumi_/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/999Takumi_/status/2079942490732298689",
+              "start": 141,
+              "url": "https://t.co/V5Gnqqr8Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079942650669740219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079942490732298689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我不傻 当你回我信息越来越慢 话越来越少的时候不管我给你分享什么 你都没有情绪价值 我就应该明白我对你来说已经没有那么重要了 我放不下的只是那段真心付出的回忆与不甘那些彼此袒露心声的时刻你应该相信我我从未想过离开你其实我真的不理解不明白好多事情 特别想问你一个答案 但不重要了 https://t.co/V5Gnqqr8Wf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079942490732298689",
+        "created_at": "2026-07-22T14:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079942490732298689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/999Takumi_/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/999Takumi_/status/2079942262323314892",
+              "start": 137,
+              "url": "https://t.co/g7QdZm5vAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079942490732298689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079942262323314892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样让我觉得在你心中我也很重要 也有人在乎我 或许有一天 我们也会没有新鲜感 我对你也没有那么重要 我的爱对你来说也会不值一提所以当你真正离开我时 我也会无能为力 才知道人心也是会变的 这让我不敢轻易向你展示我的真心丢下我后来我才明白 幸福只是短暂的 它需要我无数的泪来换 https://t.co/g7QdZm5vAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 506,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

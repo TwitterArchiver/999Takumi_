@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1960895382407237999",
+    "created_at": "2025-08-28T02:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T03:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960899800699945249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960899800699945249",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960895382407237999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 仙女下凡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960895363185041410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZ_8Yxa4AIlW1H.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1960895382407237999",
+        "created_at": "2025-08-28T02:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T03:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960899800699945249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960899800699945249",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960895382407237999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 仙女下凡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960895363185041410"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "conversation_id": "1960895382407237999",
+        "created_at": "2025-08-28T02:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T03:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960895382407237999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bf15VoS8zU",
+              "end": 37,
+              "expanded_url": "https://x.com/admi_n123456/status/1960895382407237999/photo/1",
+              "media_key": "3_1960895363185041410",
+              "start": 14,
+              "url": "https://t.co/Bf15VoS8zU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960895382407237999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停停宝子你在自杀群干什么了 https://t.co/Bf15VoS8zU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958496754867032064/uysXxHiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 420,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 84
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "「感觉诡异和焦躁正在爬出我的皮肤」 小男女生 150/45kg 🚪52 双相混合型 ADHD 📪 https://t.co/X79m2CL5Xh tg @Beiwo_Travis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Beiwo_Travis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yumemi43214",
+                "end": 72,
+                "expanded_url": "https://ngl.link/yumemi43214",
+                "start": 49,
+                "url": "https://t.co/X79m2CL5Xh"
+              }
+            ]
+          }
+        },
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi（混合版）",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959742651043094528/7-hAuOrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 958,
+          "like_count": 14681,
+          "listed_count": 5,
+          "media_count": 1317,
+          "tweet_count": 8905
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

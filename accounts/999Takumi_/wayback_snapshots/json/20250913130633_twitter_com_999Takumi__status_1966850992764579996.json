@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1966850992764579996",
+    "created_at": "2025-09-13T13:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T14:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966850992764579996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/999Takumi_/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/999Takumi_/status/1966849696749720004",
+          "start": 141,
+          "url": "https://t.co/YJ3TsyyNoV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966850992764579996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966849696749720004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不想交朋友害怕自己总会伤害到别人 但又害怕孤单又渴望去交很多朋友 看到讨厌的人那么多朋友会羡慕会嫉妒会恨会诅咒他们被车碾碎 这种恶心自私自利的心理我不知道我能不能摆脱我不想让他再伤害到任何一个人 我不会再去想着谈恋爱再去想发生性行为 我不需要这些东西 也可能我生下来只会给别人添乱 https://t.co/YJ3TsyyNoV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1966850992764579996",
+        "created_at": "2025-09-13T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966850992764579996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/999Takumi_/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/999Takumi_/status/1966849696749720004",
+              "start": 141,
+              "url": "https://t.co/YJ3TsyyNoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966850992764579996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966849696749720004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想交朋友害怕自己总会伤害到别人 但又害怕孤单又渴望去交很多朋友 看到讨厌的人那么多朋友会羡慕会嫉妒会恨会诅咒他们被车碾碎 这种恶心自私自利的心理我不知道我能不能摆脱我不想让他再伤害到任何一个人 我不会再去想着谈恋爱再去想发生性行为 我不需要这些东西 也可能我生下来只会给别人添乱 https://t.co/YJ3TsyyNoV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1966849696749720004",
+        "created_at": "2025-09-13T13:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966849696749720004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966849696749720004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在所有的东西都是我作来的都是我罪恶的应得 无缘无故恶骂人素质低下报复心好胜心强得要死 被孤立纯是我自己应得的 尽管我每次说要改变也真的去试过改变 但是总或多或少从现在看到过以前那个恶心人的影子 我只会是一个卖惨扭曲事实博同情博关注的傻逼 糟粕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958496754867032064/uysXxHiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 424,
+          "like_count": 212,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 93
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

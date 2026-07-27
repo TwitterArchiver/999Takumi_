@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2017434135586082827",
+    "created_at": "2026-01-31T03:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T04:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017434135586082827"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017434135586082827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干脆让我睡死算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2017434135586082827",
+        "created_at": "2026-01-31T03:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017434135586082827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017434135586082827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干脆让我睡死算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」我們不要自殘了，我們一起去過正常的生活吧，我們手牽手一起看電影吧，我們閉著眼躺在床上擁抱吧，我們在馬路邊上一起逛小吃街吧，我們去藥店買健胃消食片一起去吃自助餐吧，我們一起因為結婚被抓進民政局因為領證了被放出來吧，我們傍晚洗完澡穿著睡衣手牽手在小區樓下散步吧，我們手握手一起在幸福的現實",
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014958872658903040/twriCn9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 420,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 104
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

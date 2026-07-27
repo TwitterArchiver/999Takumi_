@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955667730050564096"
+      ],
+      "media_source_tweet_id": [
+        "1955667735297532264"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1955667982975390051",
+    "created_at": "2025-08-13T16:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T17:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955667982975390051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dWR1SmSciC",
+          "end": 61,
+          "expanded_url": "https://x.com/11neruuu_/status/1955667735297532264/photo/1",
+          "media_key": "3_1955667730050564096",
+          "start": 38,
+          "url": "https://t.co/dWR1SmSciC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955667982975390051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955667735297532264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: あー謝謝兄弟們300fo了誰想加我微信的速度 https://t.co/dWR1SmSciC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1955667730050564096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPtcFxbwAAwwAI.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955667730050564096"
+          ],
+          "media_source_tweet_id": [
+            "1955667735297532264"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1955667982975390051",
+        "created_at": "2025-08-13T16:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955667982975390051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWR1SmSciC",
+              "end": 61,
+              "expanded_url": "https://x.com/11neruuu_/status/1955667735297532264/photo/1",
+              "media_key": "3_1955667730050564096",
+              "start": 38,
+              "url": "https://t.co/dWR1SmSciC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955667982975390051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955667735297532264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: あー謝謝兄弟們300fo了誰想加我微信的速度 https://t.co/dWR1SmSciC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955667730050564096"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "conversation_id": "1955667735297532264",
+        "created_at": "2025-08-13T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955667735297532264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWR1SmSciC",
+              "end": 46,
+              "expanded_url": "https://x.com/11neruuu_/status/1955667735297532264/photo/1",
+              "media_key": "3_1955667730050564096",
+              "start": 23,
+              "url": "https://t.co/dWR1SmSciC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955667735297532264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "あー謝謝兄弟們300fo了誰想加我微信的速度 https://t.co/dWR1SmSciC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| ODODOD | 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "RUPA",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 394,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "七葉「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1951943584791642207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 553,
+          "like_count": 25328,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 277
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

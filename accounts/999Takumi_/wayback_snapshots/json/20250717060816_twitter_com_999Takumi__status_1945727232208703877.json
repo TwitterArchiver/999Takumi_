@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1945727232208703877",
+    "created_at": "2025-07-17T06:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945727232208703877"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945727232208703877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小心翼翼地趴在你的怀里，好冷好冷。突然一只沾着血的蛆虫掉到了我的脸上，我抬头看你眼睛里钻出来密密麻麻的蛆。可我还是好爱你，就算你是一具尸体我也会一直爱你。我们紧紧相拥，蛆虫爬到了我的手上，我吻上了你的唇，蛆虫顺着你的口腔爬到了我的嘴里，最后蛆虫吃掉了我的内脏。我们永远在一起了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1945727232208703877",
+        "created_at": "2025-07-17T06:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945727232208703877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945727232208703877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小心翼翼地趴在你的怀里，好冷好冷。突然一只沾着血的蛆虫掉到了我的脸上，我抬头看你眼睛里钻出来密密麻麻的蛆。可我还是好爱你，就算你是一具尸体我也会一直爱你。我们紧紧相拥，蛆虫爬到了我的手上，我吻上了你的唇，蛆虫顺着你的口腔爬到了我的嘴里，最后蛆虫吃掉了我的内脏。我们永远在一起了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.\n低能兒",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 173,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

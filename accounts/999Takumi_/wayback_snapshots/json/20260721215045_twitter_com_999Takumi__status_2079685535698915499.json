@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2079657293885677781",
+    "created_at": "2026-07-21T21:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079685535698915499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2074270585396531200",
+          "start": 0,
+          "username": "Chenpui2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079685535698915499",
+    "in_reply_to_user_id": "2074270585396531200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079657293885677781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenpui2 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079657293885677781",
+        "created_at": "2026-07-21T21:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079685535698915499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2074270585396531200",
+              "start": 0,
+              "username": "Chenpui2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079685535698915499",
+        "in_reply_to_user_id": "2074270585396531200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079657293885677781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenpui2 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074270585396531200",
+        "conversation_id": "2079657293885677781",
+        "created_at": "2026-07-21T19:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079657293885677781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079657293885677781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太崩溃了我也不知道我为什么要哭我停不下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 502,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T23:14:58.000Z",
+        "description": "小辰\n💊🩸🔪/LGBTQ友好/有fo就回 没回请私信我🥺/梦到什么发什么",
+        "id": "2074270585396531200",
+        "name": "辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074271271358230528/h-KK1N-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 139,
+          "like_count": 2143,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "Chenpui2",
+        "verified": false
+      }
+    ]
+  }
+}

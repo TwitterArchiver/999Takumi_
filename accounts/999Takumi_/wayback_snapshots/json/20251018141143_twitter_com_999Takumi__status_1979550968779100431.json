@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979538267834847232"
+      ],
+      "media_source_tweet_id": [
+        "1979538778998915543"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1979550968779100431",
+    "created_at": "2025-10-18T14:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T15:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979550968779100431"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "CFC",
+          "probability": 0.7098,
+          "start": 30,
+          "type": "Organization"
+        },
+        {
+          "end": 42,
+          "normalized_text": "NFOCHE",
+          "probability": 0.4085,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "CFC"
+        },
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "NFOCHE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "22910295",
+          "start": 3,
+          "username": "ChelseaFC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8lyDvEvQy",
+          "end": 67,
+          "expanded_url": "https://x.com/ChelseaFC/status/1979538778998915543/photo/1",
+          "media_key": "3_1979538267834847232",
+          "start": 44,
+          "url": "https://t.co/r8lyDvEvQy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979550968779100431",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4625
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979538778998915543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChelseaFC: GET IN!!! 👏🔵\n\n#CFC | #NFOCHE https://t.co/r8lyDvEvQy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1979538267834847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3i7kQmWkAAOJiz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979538267834847232"
+          ],
+          "media_source_tweet_id": [
+            "1979538778998915543"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1979550968779100431",
+        "created_at": "2025-10-18T14:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979550968779100431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "CFC",
+              "probability": 0.7098,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "NFOCHE",
+              "probability": 0.4085,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "CFC"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "NFOCHE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "22910295",
+              "start": 3,
+              "username": "ChelseaFC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8lyDvEvQy",
+              "end": 67,
+              "expanded_url": "https://x.com/ChelseaFC/status/1979538778998915543/photo/1",
+              "media_key": "3_1979538267834847232",
+              "start": 44,
+              "url": "https://t.co/r8lyDvEvQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979550968779100431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4625
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979538778998915543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChelseaFC: GET IN!!! 👏🔵\n\n#CFC | #NFOCHE https://t.co/r8lyDvEvQy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979538267834847232"
+          ]
+        },
+        "author_id": "22910295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1979538778998915543",
+        "created_at": "2025-10-18T13:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979538778998915543"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "CFC",
+              "probability": 0.75,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 27,
+              "normalized_text": "NFOCHE",
+              "probability": 0.3968,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "CFC"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "NFOCHE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8lyDvEvQy",
+              "end": 52,
+              "expanded_url": "https://x.com/ChelseaFC/status/1979538778998915543/photo/1",
+              "media_key": "3_1979538267834847232",
+              "start": 29,
+              "url": "https://t.co/r8lyDvEvQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979538778998915543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 341376,
+          "like_count": 20450,
+          "quote_count": 844,
+          "reply_count": 1015,
+          "retweet_count": 4625
+        },
+        "reply_settings": "everyone",
+        "text": "GET IN!!! 👏🔵\n\n#CFC | #NFOCHE https://t.co/r8lyDvEvQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975235878210654209/20GLmCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 445,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-05T11:54:25.000Z",
+        "description": "⭐️⭐️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chelseafc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chelseafc",
+                "start": 0,
+                "url": "https://t.co/ly4dgTgaOC"
+              }
+            ]
+          }
+        },
+        "id": "22910295",
+        "location": "Stamford Bridge",
+        "name": "Chelsea FC",
+        "pinned_tweet_id": "1979538778998915543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960781031147003905/-Kly-6G8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26347245,
+          "following_count": 265,
+          "like_count": 19017,
+          "listed_count": 29010,
+          "media_count": 42703,
+          "tweet_count": 126146
+        },
+        "url": "https://t.co/ly4dgTgaOC",
+        "username": "ChelseaFC",
+        "verified": true
+      }
+    ]
+  }
+}

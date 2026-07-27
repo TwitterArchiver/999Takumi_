@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2079595567492313332",
+    "created_at": "2026-07-21T22:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079688634022904288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611427229195505684",
+          "start": 0,
+          "username": "5xrw011zb26GBa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079688634022904288",
+    "in_reply_to_user_id": "1611427229195505684",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079672773790564410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5xrw011zb26GBa1 (´o̴̶̷̤ㅂo̴̶̷̤`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079595567492313332",
+        "created_at": "2026-07-21T22:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079688634022904288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1611427229195505684",
+              "start": 0,
+              "username": "5xrw011zb26GBa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079688634022904288",
+        "in_reply_to_user_id": "1611427229195505684",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079672773790564410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5xrw011zb26GBa1 (´o̴̶̷̤ㅂo̴̶̷̤`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611427229195505684",
+        "conversation_id": "2079595567492313332",
+        "created_at": "2026-07-21T21:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079672773790564410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079672773790564410",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079595567492313332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 你不是故意的，只是因为你觉得过不去而已。。。。唉呀抱抱你抱抱你。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 502,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T18:24:09.000Z",
+        "description": "我愿奉上所有的真心， 只为得到最真挚的缪斯。",
+        "id": "1611427229195505684",
+        "location": "幸福的月光下",
+        "name": "白疥世旯",
+        "pinned_tweet_id": "2077515053146775925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903072855190896640/Lafuz7at_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 95,
+          "like_count": 3610,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "5xrw011zb26GBa1",
+        "verified": false
+      }
+    ]
+  }
+}

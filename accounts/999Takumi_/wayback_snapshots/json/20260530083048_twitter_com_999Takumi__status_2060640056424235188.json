@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2060551976837136611",
+    "created_at": "2026-05-30T08:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060640056424235188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1646874954758254593",
+          "start": 0,
+          "username": "TvTnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060640056424235188",
+    "in_reply_to_user_id": "1646874954758254593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060551976837136611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTnow 在学校碰到两对这样了 两人跟玩碟中谍似的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2060551976837136611",
+        "created_at": "2026-05-30T08:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060640056424235188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1646874954758254593",
+              "start": 0,
+              "username": "TvTnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060640056424235188",
+        "in_reply_to_user_id": "1646874954758254593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060551976837136611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTnow 在学校碰到两对这样了 两人跟玩碟中谍似的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646874954758254593",
+        "conversation_id": "2060551976837136611",
+        "created_at": "2026-05-30T02:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060551976837136611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060551976837136611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一对情侣在一起分分合合十一年结婚了上一秒臭婊子下一秒想你了 一会又我早晚把你杀了转头送礼物转钱 一异地就要打要杀 一见面就老婆爱你一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/我精神状态很不正常/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060555014511456256/4spZ5Kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 443,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 189
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T13:56:11.000Z",
+        "description": "卖惨日记。🚪89.64",
+        "id": "1646874954758254593",
+        "location": "我的世界。",
+        "name": "旧版磁带",
+        "pinned_tweet_id": "1777354349217497303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916511733646348288/HEiQ04Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 414,
+          "like_count": 18376,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 6504
+        },
+        "username": "TvTnow",
+        "verified": false
+      }
+    ]
+  }
+}

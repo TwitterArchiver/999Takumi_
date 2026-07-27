@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2077953795905249537",
+    "created_at": "2026-07-17T05:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077987275624047080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077728357744275456",
+          "start": 0,
+          "username": "zerro00730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077987275624047080",
+    "in_reply_to_user_id": "2077728357744275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077953795905249537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerro00730 全世界都在欺负我极品辣条音😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32178,
+        "height": 720,
+        "media_key": "13_2077953738837495808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077953738837495808/img/GPEX8iNrcYWauWKp.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077953738837495808/vid/avc1/304x270/kNZcBAcDXazSX17E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077953738837495808/vid/avc1/406x360/gkOesJQgT2lPg02I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077953738837495808/vid/avc1/812x720/Gy3bsGbsd1oYyW_O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077953738837495808/pl/A2228PaxKz1F6xM4.m3u8"
+          }
+        ],
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2077953795905249537",
+        "created_at": "2026-07-17T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077987275624047080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077728357744275456",
+              "start": 0,
+              "username": "zerro00730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077987275624047080",
+        "in_reply_to_user_id": "2077728357744275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077953795905249537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerro00730 全世界都在欺负我极品辣条音😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077953738837495808"
+          ]
+        },
+        "author_id": "2077728357744275456",
+        "conversation_id": "2077953795905249537",
+        "created_at": "2026-07-17T03:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077953795905249537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BfvNIPUMm9",
+              "end": 36,
+              "expanded_url": "https://x.com/zerro00730/status/2077953795905249537/video/1",
+              "media_key": "13_2077953738837495808",
+              "start": 13,
+              "url": "https://t.co/BfvNIPUMm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077953795905249537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一场好梦经得起唧唧次惊吓 https://t.co/BfvNIPUMm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 480,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:14:42.000Z",
+        "description": "天使@Zzerro77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Zzerro77"
+              }
+            ]
+          }
+        },
+        "id": "2077728357744275456",
+        "name": "zero",
+        "pinned_tweet_id": "2077926252279898236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077728820925476864/9ut7nkb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "zerro00730",
+        "verified": false
+      }
+    ]
+  }
+}

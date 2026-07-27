@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943701519335030785"
+      ],
+      "media_source_tweet_id": [
+        "1943701528038256872"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943702031082070482",
+    "created_at": "2025-07-11T16:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943702031082070482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGxWZ0pSqk",
+          "end": 38,
+          "expanded_url": "https://x.com/11neruuu_/status/1943701528038256872/photo/1",
+          "media_key": "3_1943701519335030785",
+          "start": 15,
+          "url": "https://t.co/zGxWZ0pSqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943702031082070482",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943701528038256872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: https://t.co/zGxWZ0pSqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943701519335030785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlqO9FaAAE6f1w.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943701519335030785"
+          ],
+          "media_source_tweet_id": [
+            "1943701528038256872"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943702031082070482",
+        "created_at": "2025-07-11T16:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943702031082070482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGxWZ0pSqk",
+              "end": 38,
+              "expanded_url": "https://x.com/11neruuu_/status/1943701528038256872/photo/1",
+              "media_key": "3_1943701519335030785",
+              "start": 15,
+              "url": "https://t.co/zGxWZ0pSqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943702031082070482",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943701528038256872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: https://t.co/zGxWZ0pSqk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943701519335030785"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943701528038256872",
+        "created_at": "2025-07-11T15:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943701528038256872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGxWZ0pSqk",
+              "end": 23,
+              "expanded_url": "https://x.com/11neruuu_/status/1943701528038256872/photo/1",
+              "media_key": "3_1943701519335030785",
+              "start": 0,
+              "url": "https://t.co/zGxWZ0pSqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943701528038256872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zGxWZ0pSqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "底層的一顆憂鬱釘子",
+        "name": "胸腔hurts",
+        "pinned_tweet_id": "1928800276468637701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943664477720956928/h_YbZjxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 140,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "小睡「ねる」｜愛しただけで十分だ ｜၄၃ — @1neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "瑞士",
+        "name": "ねる",
+        "pinned_tweet_id": "1938532599514988612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933854721108000768/mxr3T50F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 548,
+          "like_count": 21984,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 175
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

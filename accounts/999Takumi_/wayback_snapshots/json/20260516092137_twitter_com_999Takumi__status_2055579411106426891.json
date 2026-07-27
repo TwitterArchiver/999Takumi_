@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055579407587414016"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2055579411106426891",
+    "created_at": "2026-05-16T09:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055579411106426891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqDJM5npC8",
+          "end": 62,
+          "expanded_url": "https://x.com/999Takumi_/status/2055579411106426891/photo/1",
+          "media_key": "3_2055579407587414016",
+          "start": 39,
+          "url": "https://t.co/YqDJM5npC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055579411106426891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界太倉促 请留给我一些哭泣的时间 把所有委屈与都哭完 再假装一切都没发生过 https://t.co/YqDJM5npC8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055579407587414016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbilIzbEAA_esl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055579407587414016"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2055579411106426891",
+        "created_at": "2026-05-16T09:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055579411106426891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqDJM5npC8",
+              "end": 62,
+              "expanded_url": "https://x.com/999Takumi_/status/2055579411106426891/photo/1",
+              "media_key": "3_2055579407587414016",
+              "start": 39,
+              "url": "https://t.co/YqDJM5npC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055579411106426891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界太倉促 请留给我一些哭泣的时间 把所有委屈与都哭完 再假装一切都没发生过 https://t.co/YqDJM5npC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/素晴日/我刚刚想吃老鼠药去死的 我一看老鼠药九十块钱一瓶我觉得我还是好好活着吧",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055578075099021312/T4_JFa45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 437,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 157
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

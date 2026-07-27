@@ -1,0 +1,772 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949319241339158528"
+      ],
+      "media_source_tweet_id": [
+        "1949319528887820616"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026295039",
+          "name": "Hyundai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026295039",
+          "name": "Hyundai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1949702273682022655",
+    "created_at": "2025-07-28T05:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T06:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949702273682022655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 68,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 90,
+          "start": 78,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 99,
+          "start": 91,
+          "tag": "Hyundai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1899405759945023488",
+          "start": 3,
+          "username": "SUZUKI_UZQueen"
+        },
+        {
+          "end": 50,
+          "id": "1883806885008359425",
+          "start": 36,
+          "username": "yugyugyug1116"
+        },
+        {
+          "end": 67,
+          "id": "1823312563272298496",
+          "start": 59,
+          "username": "6RR3Z75"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fudmF8aktH",
+          "end": 123,
+          "expanded_url": "https://x.com/SUZUKI_UZQueen/status/1949319528887820616/photo/1",
+          "media_key": "3_1949319241339158528",
+          "start": 100,
+          "url": "https://t.co/fudmF8aktH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949702273682022655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949319528887820616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUZUKI_UZQueen: 一緒に行こう！ \nPulana @yugyugyug1116\nShot By @6RR3Z75\n#kigurumi #BlueArchive #Hyundai https://t.co/fudmF8aktH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1949319241339158528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1fhaXawAAhekc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949319241339158528"
+          ],
+          "media_source_tweet_id": [
+            "1949319528887820616"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295039",
+              "name": "Hyundai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295039",
+              "name": "Hyundai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949702273682022655",
+        "created_at": "2025-07-28T05:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949702273682022655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 68,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 90,
+              "start": 78,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "Hyundai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1899405759945023488",
+              "start": 3,
+              "username": "SUZUKI_UZQueen"
+            },
+            {
+              "end": 50,
+              "id": "1883806885008359425",
+              "start": 36,
+              "username": "yugyugyug1116"
+            },
+            {
+              "end": 67,
+              "id": "1823312563272298496",
+              "start": 59,
+              "username": "6RR3Z75"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fudmF8aktH",
+              "end": 123,
+              "expanded_url": "https://x.com/SUZUKI_UZQueen/status/1949319528887820616/photo/1",
+              "media_key": "3_1949319241339158528",
+              "start": 100,
+              "url": "https://t.co/fudmF8aktH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949702273682022655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949319528887820616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUZUKI_UZQueen: 一緒に行こう！ \nPulana @yugyugyug1116\nShot By @6RR3Z75\n#kigurumi #BlueArchive #Hyundai https://t.co/fudmF8aktH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949319241339158528"
+          ]
+        },
+        "author_id": "1899405759945023488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295039",
+              "name": "Hyundai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295039",
+              "name": "Hyundai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949319528887820616",
+        "created_at": "2025-07-27T04:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949319528887820616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "Hyundai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1883806885008359425",
+              "start": 16,
+              "username": "yugyugyug1116"
+            },
+            {
+              "end": 47,
+              "id": "1823312563272298496",
+              "start": 39,
+              "username": "6RR3Z75"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fudmF8aktH",
+              "end": 103,
+              "expanded_url": "https://x.com/SUZUKI_UZQueen/status/1949319528887820616/photo/1",
+              "media_key": "3_1949319241339158528",
+              "start": 80,
+              "url": "https://t.co/fudmF8aktH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949319528887820616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2391,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に行こう！ \nPulana @yugyugyug1116\nShot By @6RR3Z75\n#kigurumi #BlueArchive #Hyundai https://t.co/fudmF8aktH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 279,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T10:23:29.000Z",
+        "description": "Peugeot 408(T93)  508L(R83) owner \nPeugeot Fans \nHave fun  XD\n\nThere is no commercial information!\nBiliBili :鈴木ユズ\nNetEase CloudMusic ：NekoEnz",
+        "id": "1899405759945023488",
+        "location": "Kivotos",
+        "name": "Yuzu By Peugeot",
+        "pinned_tweet_id": "1949319528887820616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948640870389231616/ieMILTOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 34,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 40
+        },
+        "username": "SUZUKI_UZQueen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:19:04.000Z",
+        "description": "我是个der",
+        "id": "1883806885008359425",
+        "location": "广东广州",
+        "name": "鱼钩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883807079728918528/kfWCw0da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 40,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "yugyugyug1116",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T10:56:16.000Z",
+        "description": "年华 似妖 不怕尖刀",
+        "id": "1823312563272298496",
+        "location": "坎通",
+        "name": "还山",
+        "pinned_tweet_id": "1921192613463327056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885072643386466305/uCTto1_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 74,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 28
+        },
+        "username": "6RR3Z75",
+        "verified": false
+      }
+    ]
+  }
+}

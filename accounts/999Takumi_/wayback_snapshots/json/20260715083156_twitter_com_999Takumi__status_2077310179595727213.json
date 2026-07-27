@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2077310179595727213",
+    "created_at": "2026-07-15T08:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077310179595727213"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077310179595727213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "农村旱厕没带纸。正当绝望时，看见砖缝里有黑乎乎的东西，是一坨干透了的苍蝇尸体聚合体。几十上百只苍蝇被屎浆裹住，在烈日下晒成了酥脆的苍蝇饼干。我犹豫了两秒，掰下一块。它比砂纸还粗粝，刮擦感极强，每只苍蝇的翅膀脉络都像微小的钩子。擦完后，那片皮肤红了一整天，还能看见翼膜的纹路印在上面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2077310179595727213",
+        "created_at": "2026-07-15T08:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077310179595727213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077310179595727213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "农村旱厕没带纸。正当绝望时，看见砖缝里有黑乎乎的东西，是一坨干透了的苍蝇尸体聚合体。几十上百只苍蝇被屎浆裹住，在烈日下晒成了酥脆的苍蝇饼干。我犹豫了两秒，掰下一块。它比砂纸还粗粝，刮擦感极强，每只苍蝇的翅膀脉络都像微小的钩子。擦完后，那片皮肤红了一整天，还能看见翼膜的纹路印在上面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/很温良愿意和所有人交朋友/点赞就是喜欢你",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 476,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1952343159645802513",
+    "created_at": "2025-08-04T12:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952343159645802513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952343159645802513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我到底是为了什么呢？我知不知道自己在做什么？我到底想做什么？我到底要不要一会儿脆弱一会儿坚强呢？我到底该不该相信自己的直觉去痛恨责怪这个世界？的人？或物？我有没有自己想要活下去的哪怕一个理由呢？我到底会不会分辨什么是不对什么是对呢？我什么时候分清过自己呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1952343159645802513",
+        "created_at": "2025-08-04T12:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952343159645802513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952343159645802513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底是为了什么呢？我知不知道自己在做什么？我到底想做什么？我到底要不要一会儿脆弱一会儿坚强呢？我到底该不该相信自己的直觉去痛恨责怪这个世界？的人？或物？我有没有自己想要活下去的哪怕一个理由呢？我到底会不会分辨什么是不对什么是对呢？我什么时候分清过自己呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 347,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2055577896656531673",
+    "created_at": "2026-05-16T09:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055577896656531673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055577896656531673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我們都活的柔軟一點吧，不強撐，不為難自己。原諒那些沒說出口的遺憾與錯過，允許自己偶爾脆弱，偶爾沉默，也允許有些事，就這様算了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2055577896656531673",
+        "created_at": "2026-05-16T09:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055577896656531673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055577896656531673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們都活的柔軟一點吧，不強撐，不為難自己。原諒那些沒說出口的遺憾與錯過，允許自己偶爾脆弱，偶爾沉默，也允許有些事，就這様算了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/素晴日/我刚刚想吃老鼠药去死的 我一看老鼠药九十块钱一瓶我觉得我还是好好活着吧",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053289156491767808/oYIcUXbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 437,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 163
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

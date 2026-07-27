@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974463093800673280"
+      ],
+      "media_source_tweet_id": [
+        "1974463096938004932"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1974467655731204412",
+    "created_at": "2025-10-04T13:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974467655731204412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "纸房子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738580629019901952",
+          "start": 3,
+          "username": "bian_fu61115"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOO8zuWgQS",
+          "end": 50,
+          "expanded_url": "https://x.com/bian_fu61115/status/1974463096938004932/photo/1",
+          "media_key": "3_1974463093800673280",
+          "start": 27,
+          "url": "https://t.co/pOO8zuWgQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974467655731204412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974463096938004932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bian_fu61115: 你继续 #纸房子 https://t.co/pOO8zuWgQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974463093800673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2azuQAboAAygO_.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974463093800673280"
+          ],
+          "media_source_tweet_id": [
+            "1974463096938004932"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1974467655731204412",
+        "created_at": "2025-10-04T13:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974467655731204412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "纸房子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738580629019901952",
+              "start": 3,
+              "username": "bian_fu61115"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOO8zuWgQS",
+              "end": 50,
+              "expanded_url": "https://x.com/bian_fu61115/status/1974463096938004932/photo/1",
+              "media_key": "3_1974463093800673280",
+              "start": 27,
+              "url": "https://t.co/pOO8zuWgQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974467655731204412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974463096938004932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bian_fu61115: 你继续 #纸房子 https://t.co/pOO8zuWgQS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974463093800673280"
+          ]
+        },
+        "author_id": "1738580629019901952",
+        "conversation_id": "1974463096938004932",
+        "created_at": "2025-10-04T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974463096938004932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "纸房子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOO8zuWgQS",
+              "end": 32,
+              "expanded_url": "https://x.com/bian_fu61115/status/1974463096938004932/photo/1",
+              "media_key": "3_1974463093800673280",
+              "start": 9,
+              "url": "https://t.co/pOO8zuWgQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974463096938004932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你继续 #纸房子 https://t.co/pOO8zuWgQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969668589293879297/43qpAPMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 438,
+          "like_count": 212,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 103
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T15:21:46.000Z",
+        "description": "人畜无害",
+        "id": "1738580629019901952",
+        "location": "🚪188",
+        "name": "qf",
+        "pinned_tweet_id": "1926867621225394623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807409751355244544/ffAqU2tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 115,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 503
+        },
+        "username": "bian_fu61115",
+        "verified": false
+      }
+    ]
+  }
+}

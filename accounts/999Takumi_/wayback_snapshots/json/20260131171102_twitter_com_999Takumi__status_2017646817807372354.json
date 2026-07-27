@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2017617274157600792",
+    "created_at": "2026-01-31T17:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017646817807372354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813566048769277952",
+          "start": 0,
+          "username": "miaomiaoalice11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017646817807372354",
+    "in_reply_to_user_id": "1813566048769277952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017628144182956117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomiaoalice11 好累人熬人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2017617274157600792",
+        "created_at": "2026-01-31T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017646817807372354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813566048769277952",
+              "start": 0,
+              "username": "miaomiaoalice11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017646817807372354",
+        "in_reply_to_user_id": "1813566048769277952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017628144182956117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomiaoalice11 好累人熬人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813566048769277952",
+        "conversation_id": "2017617274157600792",
+        "created_at": "2026-01-31T15:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017628144182956117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017628144182956117",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017617274157600792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 社交感觉能把我疲惫得眼袋掉到嘴角"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」\n什么是幸福 我觉得长在河边的草就挺幸福的",
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014958872658903040/twriCn9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 425,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:27:22.000Z",
+        "description": "不需要通关也能享受生活\n我活在网络现实里不存在",
+        "id": "1813566048769277952",
+        "location": "我没有目的不讨好任何",
+        "name": "喵᳐喵᳐੭",
+        "pinned_tweet_id": "2004355078728352159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017514717053689856/DKpBgm7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 282,
+          "like_count": 83331,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 10248
+        },
+        "username": "miaomiaoalice11",
+        "verified": false
+      }
+    ]
+  }
+}

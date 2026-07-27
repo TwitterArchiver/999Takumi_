@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1955636206391431583",
+    "created_at": "2025-08-13T14:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955636206391431583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940649080285184000",
+          "start": 3,
+          "username": "IsandroRey3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955636206391431583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955635475563303059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IsandroRey3s: 捅你一刀從我指縫流下的血怎麼不算你我之間的紅線"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1955636206391431583",
+        "created_at": "2025-08-13T14:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955636206391431583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940649080285184000",
+              "start": 3,
+              "username": "IsandroRey3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955636206391431583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955635475563303059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IsandroRey3s: 捅你一刀從我指縫流下的血怎麼不算你我之間的紅線"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940649080285184000",
+        "conversation_id": "1955635475563303059",
+        "created_at": "2025-08-13T14:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955635475563303059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955635475563303059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "捅你一刀從我指縫流下的血怎麼不算你我之間的紅線"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| ODODOD | 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "RUPA",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 393,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T05:49:40.000Z",
+        "description": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "id": "1940649080285184000",
+        "name": "深水灣不下雪",
+        "pinned_tweet_id": "1953483535416758649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 53,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 103
+        },
+        "username": "IsandroRey3s",
+        "verified": false
+      }
+    ]
+  }
+}

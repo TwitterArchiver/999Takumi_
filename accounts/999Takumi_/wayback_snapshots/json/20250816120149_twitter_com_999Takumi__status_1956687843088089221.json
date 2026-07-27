@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1956687843088089221",
+    "created_at": "2025-08-16T12:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T13:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956687843088089221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956687843088089221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956600953915715729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: 🚪好友位30\n^好友位➕聊天50\n^語音聊天100\n^一個月電子女友500\n「不收台幣、對不起(&gt;﹏&lt;)」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1956687843088089221",
+        "created_at": "2025-08-16T12:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956687843088089221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956687843088089221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956600953915715729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: 🚪好友位30\n^好友位➕聊天50\n^語音聊天100\n^一個月電子女友500\n「不收台幣、對不起(&gt;﹏&lt;)」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824655235073314817",
+        "conversation_id": "1956598973990629547",
+        "created_at": "2025-08-16T06:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956600953915715729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956600953915715729",
+        "in_reply_to_user_id": "1824655235073314817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956598973990629547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚪好友位30\n^好友位➕聊天50\n^語音聊天100\n^一個月電子女友500\n「不收台幣、對不起(&gt;﹏&lt;)」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| ODODOD | 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 394,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "七葉「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1956598973990629547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 550,
+          "like_count": 25563,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 296
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

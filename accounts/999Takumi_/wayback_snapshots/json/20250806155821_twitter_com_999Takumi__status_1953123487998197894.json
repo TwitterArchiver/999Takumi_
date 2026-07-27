@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953118861156597761"
+      ],
+      "media_source_tweet_id": [
+        "1953118870325346415"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953123487998197894",
+    "created_at": "2025-08-06T15:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T16:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953123487998197894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940649080285184000",
+          "start": 3,
+          "username": "IsandroRey3s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMdc3oYv0f",
+          "end": 51,
+          "expanded_url": "https://x.com/IsandroRey3s/status/1953118870325346415/photo/1",
+          "media_key": "3_1953118861156597761",
+          "start": 28,
+          "url": "https://t.co/yMdc3oYv0f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953123487998197894",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953118870325346415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IsandroRey3s: Sad b!tch https://t.co/yMdc3oYv0f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1953118861156597761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrfQZNawAEwzkE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953118861156597761"
+          ],
+          "media_source_tweet_id": [
+            "1953118870325346415"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953123487998197894",
+        "created_at": "2025-08-06T15:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953123487998197894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940649080285184000",
+              "start": 3,
+              "username": "IsandroRey3s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMdc3oYv0f",
+              "end": 51,
+              "expanded_url": "https://x.com/IsandroRey3s/status/1953118870325346415/photo/1",
+              "media_key": "3_1953118861156597761",
+              "start": 28,
+              "url": "https://t.co/yMdc3oYv0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953123487998197894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953118870325346415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IsandroRey3s: Sad b!tch https://t.co/yMdc3oYv0f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953118861156597761"
+          ]
+        },
+        "author_id": "1940649080285184000",
+        "conversation_id": "1953118870325346415",
+        "created_at": "2025-08-06T15:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953118870325346415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMdc3oYv0f",
+              "end": 33,
+              "expanded_url": "https://x.com/IsandroRey3s/status/1953118870325346415/photo/1",
+              "media_key": "3_1953118861156597761",
+              "start": 10,
+              "url": "https://t.co/yMdc3oYv0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953118870325346415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Sad b!tch https://t.co/yMdc3oYv0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 383,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T05:49:40.000Z",
+        "description": "",
+        "id": "1940649080285184000",
+        "name": "深水灣不下雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "IsandroRey3s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057405150927769600"
+      ],
+      "media_source_tweet_id": [
+        "2057405153096192010"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2057769846222540847",
+    "created_at": "2026-05-22T10:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057769846222540847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965353684143050752",
+          "start": 3,
+          "username": "MAZU6_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYwpNt6dap",
+          "end": 52,
+          "expanded_url": "https://x.com/MAZU6_/status/2057405153096192010/photo/1",
+          "media_key": "3_2057405150927769600",
+          "start": 29,
+          "url": "https://t.co/fYwpNt6dap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057769846222540847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057405153096192010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAZU6_: やっぱ日本やばいとおもうんすよ俺 https://t.co/fYwpNt6dap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2057405150927769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1fFYwb0AAbuoA.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057405150927769600"
+          ],
+          "media_source_tweet_id": [
+            "2057405153096192010"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2057769846222540847",
+        "created_at": "2026-05-22T10:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057769846222540847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965353684143050752",
+              "start": 3,
+              "username": "MAZU6_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYwpNt6dap",
+              "end": 52,
+              "expanded_url": "https://x.com/MAZU6_/status/2057405153096192010/photo/1",
+              "media_key": "3_2057405150927769600",
+              "start": 29,
+              "url": "https://t.co/fYwpNt6dap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057769846222540847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057405153096192010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MAZU6_: やっぱ日本やばいとおもうんすよ俺 https://t.co/fYwpNt6dap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057405150927769600"
+          ]
+        },
+        "author_id": "1965353684143050752",
+        "conversation_id": "2057405153096192010",
+        "created_at": "2026-05-21T10:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057405153096192010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYwpNt6dap",
+              "end": 40,
+              "expanded_url": "https://x.com/MAZU6_/status/2057405153096192010/photo/1",
+              "media_key": "3_2057405150927769600",
+              "start": 17,
+              "url": "https://t.co/fYwpNt6dap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057405153096192010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 22642,
+          "like_count": 1457,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱ日本やばいとおもうんすよ俺 https://t.co/fYwpNt6dap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/OD/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055581938078126080/25d9rWkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 438,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:57:02.000Z",
+        "description": "まずろです、はい。雑多垢(願望)\n@lbTkt0VqjP19538 サブ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "lbTkt0VqjP19538"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/x6smnsvg6l2imk…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/x6smnsvg6l2imke?t=KgaAin&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3ZvVyJ7a4h"
+              }
+            ]
+          }
+        },
+        "id": "1965353684143050752",
+        "location": "マロくれ",
+        "name": "まずろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057091882497490944/xOiE9ska_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 483,
+          "like_count": 39526,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/3ZvVyJ7a4h",
+        "username": "MAZU6_",
+        "verified": false
+      }
+    ]
+  }
+}

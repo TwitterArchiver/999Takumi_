@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1944733291124330791",
+    "created_at": "2025-07-14T23:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T00:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944909658638184644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_Tvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944909658638184644",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944829674242367567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_Tvv 中😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1944733291124330791",
+        "created_at": "2025-07-14T23:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T00:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944909658638184644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944909658638184644",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944829674242367567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_Tvv 中😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "1944733291124330791",
+        "created_at": "2025-07-14T18:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944829674242367567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944829674242367567",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944733291124330791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 其实我喜欢你很久了，我不知道你有没有注意到我，当然，眼里的喜欢是藏不住的，也许你只是没看出来。这次表白可能太突然了，先别想着怎么拒绝我，这次表白我考虑了好久，哪怕做不了朋友，我向你表白，只是告诉你我对你的心意，你不要有心理负担，如果你能接受我，当然是一件很高兴的事，如果你拒绝了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "Gunfire inside my head",
+        "name": "胸腔Hurts",
+        "pinned_tweet_id": "1944733291124330791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 156,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN ｜互fo大歡迎！｜尖酸刻薄｜不鍵政｜リトルライター｜ペンギンやで｜DM無視｜ENTP-T｜醫學｜ボカロ｜精神疾患｜蠢比再見｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜中度焦慮｜輕躁狂｜雙相｜討口子｜玻璃心｜知識儲備量極低｜低齡兒｜自殘｜賣慘｜ADHD｜",
+        "id": "1731670068189114368",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "楓糖小カ「ka」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938631620258586624/kMI2GGOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 542,
+          "like_count": 40214,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5246
+        },
+        "username": "Oori_Tvv",
+        "verified": false
+      }
+    ]
+  }
+}

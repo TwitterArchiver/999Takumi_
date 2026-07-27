@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077111910009384960",
+        "3_2077111917865205760"
+      ],
+      "media_source_tweet_id": [
+        "2077111925263958415",
+        "2077111925263958415"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077338289707884712",
+    "created_at": "2026-07-15T10:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077338289707884712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "905273907548221440",
+          "start": 3,
+          "username": "curren_murren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6Lymvgpb0",
+          "end": 66,
+          "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+          "media_key": "3_2077111910009384960",
+          "start": 43,
+          "url": "https://t.co/g6Lymvgpb0"
+        },
+        {
+          "display_url": "pic.x.com/g6Lymvgpb0",
+          "end": 66,
+          "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+          "media_key": "3_2077111917865205760",
+          "start": 43,
+          "url": "https://t.co/g6Lymvgpb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077338289707884712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077111925263958415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @curren_murren: this is so cute 😭😭😭😭😭😭😭 https://t.co/g6Lymvgpb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2077111910009384960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNiRvLXsAAmzVG.jpg",
+        "width": 720
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2077111917865205760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNiSMcWAAAEU15.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077111910009384960",
+            "3_2077111917865205760"
+          ],
+          "media_source_tweet_id": [
+            "2077111925263958415",
+            "2077111925263958415"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077338289707884712",
+        "created_at": "2026-07-15T10:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077338289707884712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "905273907548221440",
+              "start": 3,
+              "username": "curren_murren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6Lymvgpb0",
+              "end": 66,
+              "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+              "media_key": "3_2077111910009384960",
+              "start": 43,
+              "url": "https://t.co/g6Lymvgpb0"
+            },
+            {
+              "display_url": "pic.x.com/g6Lymvgpb0",
+              "end": 66,
+              "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+              "media_key": "3_2077111917865205760",
+              "start": 43,
+              "url": "https://t.co/g6Lymvgpb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077338289707884712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077111925263958415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @curren_murren: this is so cute 😭😭😭😭😭😭😭 https://t.co/g6Lymvgpb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077111910009384960",
+            "3_2077111917865205760"
+          ]
+        },
+        "author_id": "905273907548221440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077111925263958415",
+        "created_at": "2026-07-14T19:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077111925263958415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6Lymvgpb0",
+              "end": 47,
+              "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+              "media_key": "3_2077111910009384960",
+              "start": 24,
+              "url": "https://t.co/g6Lymvgpb0"
+            },
+            {
+              "display_url": "pic.x.com/g6Lymvgpb0",
+              "end": 47,
+              "expanded_url": "https://x.com/curren_murren/status/2077111925263958415/photo/1",
+              "media_key": "3_2077111917865205760",
+              "start": 24,
+              "url": "https://t.co/g6Lymvgpb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077111925263958415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 8527,
+          "like_count": 315,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "this is so cute 😭😭😭😭😭😭😭 https://t.co/g6Lymvgpb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 477,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-06T03:38:13.000Z",
+        "description": "soul's refrain | i might be moe | eng/esp",
+        "id": "905273907548221440",
+        "location": "La Serena, Chile",
+        "name": "angelchise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074371342665740288/jDUXkE8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 6007,
+          "like_count": 71098,
+          "listed_count": 8,
+          "media_count": 2646,
+          "tweet_count": 46838
+        },
+        "url": "",
+        "username": "curren_murren",
+        "verified": false
+      }
+    ]
+  }
+}

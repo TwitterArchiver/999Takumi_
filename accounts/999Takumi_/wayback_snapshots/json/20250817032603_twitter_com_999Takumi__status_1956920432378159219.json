@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956920429421195264"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1956920432378159219",
+    "created_at": "2025-08-17T03:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956920432378159219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h23PRqjmh7",
+          "end": 23,
+          "expanded_url": "https://x.com/999Takumi_/status/1956920432378159219/photo/1",
+          "media_key": "3_1956920429421195264",
+          "start": 0,
+          "url": "https://t.co/h23PRqjmh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956920432378159219",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/h23PRqjmh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1956920429421195264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhgwyla8AAKcSQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956920429421195264"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1956920432378159219",
+        "created_at": "2025-08-17T03:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956920432378159219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h23PRqjmh7",
+              "end": 23,
+              "expanded_url": "https://x.com/999Takumi_/status/1956920432378159219/photo/1",
+              "media_key": "3_1956920429421195264",
+              "start": 0,
+              "url": "https://t.co/h23PRqjmh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956920432378159219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h23PRqjmh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| ODODOD | 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 394,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

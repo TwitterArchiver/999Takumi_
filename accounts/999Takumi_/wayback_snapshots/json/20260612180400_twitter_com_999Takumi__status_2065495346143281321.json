@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2065495346143281321",
+    "created_at": "2026-06-12T18:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065495346143281321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065495346143281321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前男友幸福了 暧昧的男生成哥们了 微信上男神不回消息 常看的网站被封了 给朋友介绍的谈上了 我不喝一杯真的说不过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2065495346143281321",
+        "created_at": "2026-06-12T18:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065495346143281321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065495346143281321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前男友幸福了 暧昧的男生成哥们了 微信上男神不回消息 常看的网站被封了 给朋友介绍的谈上了 我不喝一杯真的说不过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/我精神状态很不正常/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060555014511456256/4spZ5Kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 457,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 203
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

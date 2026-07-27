@@ -1,0 +1,917 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974541671644684288"
+      ],
+      "media_source_tweet_id": [
+        "1974541763672166654"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053653751",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1956103554189471748",
+          "name": "Chelsea FC vs Liverpool FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226211804794880",
+          "name": "England - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1956103554189471748",
+          "name": "Chelsea FC vs Liverpool FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1956103554189471748",
+          "name": "Chelsea FC vs Liverpool FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      }
+    ],
+    "conversation_id": "1974643553185010174",
+    "created_at": "2025-10-05T01:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T02:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974643553185010174"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "CFC",
+          "probability": 0.8644,
+          "start": 36,
+          "type": "Organization"
+        },
+        {
+          "end": 48,
+          "normalized_text": "CHELIV",
+          "probability": 0.4292,
+          "start": 43,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "CFC"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "CHELIV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "22910295",
+          "start": 3,
+          "username": "ChelseaFC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/svGBQYFKSs",
+          "end": 73,
+          "expanded_url": "https://x.com/ChelseaFC/status/1974541763672166654/photo/1",
+          "media_key": "3_1974541671644684288",
+          "start": 50,
+          "url": "https://t.co/svGBQYFKSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974643553185010174",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14470
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974541763672166654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChelseaFC: GET INNNNNNN!!!! ✊\n\n#CFC | #CHELIV https://t.co/svGBQYFKSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1974541671644684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2b7MFSWYAAc0oz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974541671644684288"
+          ],
+          "media_source_tweet_id": [
+            "1974541763672166654"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          }
+        ],
+        "conversation_id": "1974643553185010174",
+        "created_at": "2025-10-05T01:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974643553185010174"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "CFC",
+              "probability": 0.8644,
+              "start": 36,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "CHELIV",
+              "probability": 0.4292,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "CFC"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "CHELIV"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "22910295",
+              "start": 3,
+              "username": "ChelseaFC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/svGBQYFKSs",
+              "end": 73,
+              "expanded_url": "https://x.com/ChelseaFC/status/1974541763672166654/photo/1",
+              "media_key": "3_1974541671644684288",
+              "start": 50,
+              "url": "https://t.co/svGBQYFKSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974643553185010174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14470
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974541763672166654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChelseaFC: GET INNNNNNN!!!! ✊\n\n#CFC | #CHELIV https://t.co/svGBQYFKSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974541671644684288"
+          ]
+        },
+        "author_id": "22910295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1956103554189471748",
+              "name": "Chelsea FC vs Liverpool FC"
+            }
+          }
+        ],
+        "conversation_id": "1974541763672166654",
+        "created_at": "2025-10-04T18:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974541763672166654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "CFC",
+              "probability": 0.8959,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "CHELIV",
+              "probability": 0.3831,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "CFC"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "CHELIV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/svGBQYFKSs",
+              "end": 58,
+              "expanded_url": "https://x.com/ChelseaFC/status/1974541763672166654/photo/1",
+              "media_key": "3_1974541671644684288",
+              "start": 35,
+              "url": "https://t.co/svGBQYFKSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974541763672166654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 1730818,
+          "like_count": 56143,
+          "quote_count": 2932,
+          "reply_count": 2746,
+          "retweet_count": 14470
+        },
+        "reply_settings": "everyone",
+        "text": "GET INNNNNNN!!!! ✊\n\n#CFC | #CHELIV https://t.co/svGBQYFKSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969668589293879297/43qpAPMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 438,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 103
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-05T11:54:25.000Z",
+        "description": "⭐️⭐️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chelseafc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chelseafc",
+                "start": 0,
+                "url": "https://t.co/ly4dgTgaOC"
+              }
+            ]
+          }
+        },
+        "id": "22910295",
+        "location": "Stamford Bridge",
+        "name": "Chelsea FC",
+        "pinned_tweet_id": "1974541763672166654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960781031147003905/-Kly-6G8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26352586,
+          "following_count": 265,
+          "like_count": 19018,
+          "listed_count": 29170,
+          "media_count": 42590,
+          "tweet_count": 125962
+        },
+        "url": "https://t.co/ly4dgTgaOC",
+        "username": "ChelseaFC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953492083005628513",
+    "created_at": "2025-08-07T16:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T17:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953492083005628513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866374161612124160",
+          "start": 3,
+          "username": "EastKanyeYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953492083005628513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953491858551644200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EastKanyeYE: IS THIS  ALL JUST A DREAM 😴?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953492083005628513",
+        "created_at": "2025-08-07T16:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953492083005628513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866374161612124160",
+              "start": 3,
+              "username": "EastKanyeYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953492083005628513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953491858551644200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EastKanyeYE: IS THIS  ALL JUST A DREAM 😴?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866374161612124160",
+        "conversation_id": "1953491858551644200",
+        "created_at": "2025-08-07T16:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953491858551644200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953491858551644200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "IS THIS  ALL JUST A DREAM 😴?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 399,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T06:47:40.000Z",
+        "description": "“ Kanye West is the Greatest Philosopher of all time.” 🕊️ philosophy/humour/meme/God ✝️🙏🏿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yeezy.com",
+                "end": 23,
+                "expanded_url": "http://yeezy.com",
+                "start": 0,
+                "url": "https://t.co/pvtTK3hxfP"
+              }
+            ]
+          }
+        },
+        "id": "1866374161612124160",
+        "name": "ye",
+        "pinned_tweet_id": "1895107027455602986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886736338285723648/rrFomZRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106301,
+          "following_count": 183,
+          "like_count": 13699,
+          "listed_count": 43,
+          "media_count": 2517,
+          "tweet_count": 6742
+        },
+        "url": "https://t.co/pvtTK3hxfP",
+        "username": "EastKanyeYE",
+        "verified": true
+      }
+    ]
+  }
+}

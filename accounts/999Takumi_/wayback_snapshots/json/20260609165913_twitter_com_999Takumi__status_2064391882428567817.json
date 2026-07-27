@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2064391882428567817",
+    "created_at": "2026-06-09T16:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064391882428567817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064391882428567817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【菜鸟驿站】你好,你的500斤猪大粪已送到代收点,请凭78-9167到停尸间取件Japanesechi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2064391882428567817",
+        "created_at": "2026-06-09T16:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064391882428567817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064391882428567817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【菜鸟驿站】你好,你的500斤猪大粪已送到代收点,请凭78-9167到停尸间取件Japanesechi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/我精神状态很不正常/互fo/很温良愿意和所有人交朋友",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "待我懂得我字怎写",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060555014511456256/4spZ5Kds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 450,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 198
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

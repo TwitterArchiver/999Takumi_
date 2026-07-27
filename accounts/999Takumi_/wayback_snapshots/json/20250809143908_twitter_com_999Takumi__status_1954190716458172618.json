@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1954190716458172618",
+    "created_at": "2025-08-09T14:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954190716458172618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11neruuu_/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/11neruuu_/status/1954190075501416547",
+          "start": 2,
+          "url": "https://t.co/XxFm96Kx6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954190716458172618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954190075501416547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "滾 https://t.co/XxFm96Kx6j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1954190716458172618",
+        "created_at": "2025-08-09T14:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954190716458172618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11neruuu_/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/11neruuu_/status/1954190075501416547",
+              "start": 2,
+              "url": "https://t.co/XxFm96Kx6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954190716458172618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954190075501416547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滾 https://t.co/XxFm96Kx6j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824655235073314817",
+        "conversation_id": "1954190075501416547",
+        "created_at": "2025-08-09T14:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954190075501416547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/999takumi_/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/999takumi_/status/1954189624194027698",
+              "start": 13,
+              "url": "https://t.co/alPShnChdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954190075501416547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954189624194027698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘴是租的也比你腦是空的強 https://t.co/alPShnChdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 390,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "七葉「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "日本",
+        "name": "ねる",
+        "pinned_tweet_id": "1950400437036908919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 553,
+          "like_count": 25136,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 257
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

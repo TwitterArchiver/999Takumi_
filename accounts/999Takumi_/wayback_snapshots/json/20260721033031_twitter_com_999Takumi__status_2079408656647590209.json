@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2079199077422846192",
+    "created_at": "2026-07-21T03:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079408656647590209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604387312863150080",
+          "start": 0,
+          "username": "sao_Y_yang163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079408656647590209",
+    "in_reply_to_user_id": "1604387312863150080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079353486903533581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sao_Y_yang163 咋用英文版微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079199077422846192",
+        "created_at": "2026-07-21T03:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079408656647590209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604387312863150080",
+              "start": 0,
+              "username": "sao_Y_yang163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079408656647590209",
+        "in_reply_to_user_id": "1604387312863150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079353486903533581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sao_Y_yang163 咋用英文版微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604387312863150080",
+        "conversation_id": "2079199077422846192",
+        "created_at": "2026-07-20T23:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079353486903533581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079353486903533581",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079199077422846192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ I've accepted your friend request. Now let's chat!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 493,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T08:05:30.000Z",
+        "description": "日本語/英語を勉強しています｜Welcome to send DM to me｜大一｜小0南梁｜168 55骗人是小狗｜泛性恋｜喜欢做自己的特别的人｜不混圈子｜好抽｜会割｜玉玉转双相｜喜欢音乐 电脑 语言 好多东西列举不完，欢迎dd我",
+        "id": "1604387312863150080",
+        "name": "呀喲YaYo",
+        "pinned_tweet_id": "2079086844323791306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077785823341334528/Sbv78u2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 141,
+          "like_count": 2928,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "sao_Y_yang163",
+        "verified": false
+      }
+    ]
+  }
+}

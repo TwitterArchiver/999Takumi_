@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953082932257800194"
+      ],
+      "media_source_tweet_id": [
+        "1953082940357001280"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953084986283966633",
+    "created_at": "2025-08-06T13:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953084986283966633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940649080285184000",
+          "start": 3,
+          "username": "IsandroRey3s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8CXExUOtl",
+          "end": 60,
+          "expanded_url": "https://x.com/IsandroRey3s/status/1953082940357001280/photo/1",
+          "media_key": "3_1953082932257800194",
+          "start": 37,
+          "url": "https://t.co/m8CXExUOtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953084986283966633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953082940357001280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IsandroRey3s: 直到你的眼底  再為我下一次 常青雨 https://t.co/m8CXExUOtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953082932257800194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxq-lDoawAI2qLq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953082932257800194"
+          ],
+          "media_source_tweet_id": [
+            "1953082940357001280"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953084986283966633",
+        "created_at": "2025-08-06T13:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953084986283966633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940649080285184000",
+              "start": 3,
+              "username": "IsandroRey3s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8CXExUOtl",
+              "end": 60,
+              "expanded_url": "https://x.com/IsandroRey3s/status/1953082940357001280/photo/1",
+              "media_key": "3_1953082932257800194",
+              "start": 37,
+              "url": "https://t.co/m8CXExUOtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953084986283966633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953082940357001280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IsandroRey3s: 直到你的眼底  再為我下一次 常青雨 https://t.co/m8CXExUOtl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953082932257800194"
+          ]
+        },
+        "author_id": "1940649080285184000",
+        "conversation_id": "1953082940357001280",
+        "created_at": "2025-08-06T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953082940357001280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8CXExUOtl",
+              "end": 42,
+              "expanded_url": "https://x.com/IsandroRey3s/status/1953082940357001280/photo/1",
+              "media_key": "3_1953082932257800194",
+              "start": 19,
+              "url": "https://t.co/m8CXExUOtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953082940357001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "直到你的眼底  再為我下一次 常青雨 https://t.co/m8CXExUOtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 381,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T05:49:40.000Z",
+        "description": "",
+        "id": "1940649080285184000",
+        "name": "深水灣不下雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 27,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "IsandroRey3s",
+        "verified": false
+      }
+    ]
+  }
+}

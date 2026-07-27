@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025533063707656193"
+      ],
+      "media_source_tweet_id": [
+        "2025533073547517962"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2025866875641700353",
+    "created_at": "2026-02-23T09:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025866875641700353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1935465724228812800",
+          "start": 3,
+          "username": "kerosenekarnage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWklR7Rbzl",
+          "end": 44,
+          "expanded_url": "https://x.com/kerosenekarnage/status/2025533073547517962/photo/1",
+          "media_key": "3_2025533063707656193",
+          "start": 21,
+          "url": "https://t.co/mWklR7Rbzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025866875641700353",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 915
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025533073547517962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kerosenekarnage: https://t.co/mWklR7Rbzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2025533063707656193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwjlvcagAEUUuA.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025533063707656193"
+          ],
+          "media_source_tweet_id": [
+            "2025533073547517962"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2025866875641700353",
+        "created_at": "2026-02-23T09:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025866875641700353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1935465724228812800",
+              "start": 3,
+              "username": "kerosenekarnage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWklR7Rbzl",
+              "end": 44,
+              "expanded_url": "https://x.com/kerosenekarnage/status/2025533073547517962/photo/1",
+              "media_key": "3_2025533063707656193",
+              "start": 21,
+              "url": "https://t.co/mWklR7Rbzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025866875641700353",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 915
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025533073547517962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kerosenekarnage: https://t.co/mWklR7Rbzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025533063707656193"
+          ]
+        },
+        "author_id": "1935465724228812800",
+        "conversation_id": "2025533073547517962",
+        "created_at": "2026-02-22T11:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025533073547517962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWklR7Rbzl",
+              "end": 23,
+              "expanded_url": "https://x.com/kerosenekarnage/status/2025533073547517962/photo/1",
+              "media_key": "3_2025533063707656193",
+              "start": 0,
+              "url": "https://t.co/mWklR7Rbzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025533073547517962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 35642,
+          "like_count": 3602,
+          "quote_count": 28,
+          "reply_count": 7,
+          "retweet_count": 915
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mWklR7Rbzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 432,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T22:34:43.000Z",
+        "description": "my name is kero or kerosene ⤷ tumblr: creeping-u-out",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yancopiumkero.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://yancopiumkero.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/g4ZiHdRhpK"
+              }
+            ]
+          }
+        },
+        "id": "1935465724228812800",
+        "location": "18 , she/her , taken",
+        "name": "yuno gasai of shedtwt",
+        "pinned_tweet_id": "1995508739366072328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991775041667887105/Z-MlKzyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3232,
+          "following_count": 240,
+          "like_count": 15160,
+          "listed_count": 6,
+          "media_count": 732,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/g4ZiHdRhpK",
+        "username": "kerosenekarnage",
+        "verified": false
+      }
+    ]
+  }
+}

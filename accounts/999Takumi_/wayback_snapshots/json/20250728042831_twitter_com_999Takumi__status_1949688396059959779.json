@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949670394954194945"
+      ],
+      "media_source_tweet_id": [
+        "1949670402646499630"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1949688396059959779",
+    "created_at": "2025-07-28T04:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T05:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949688396059959779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1748478702906646529",
+          "start": 3,
+          "username": "yuyuslivestream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxu4XJ3A9n",
+          "end": 44,
+          "expanded_url": "https://x.com/yuyuslivestream/status/1949670402646499630/photo/1",
+          "media_key": "3_1949670394954194945",
+          "start": 21,
+          "url": "https://t.co/rxu4XJ3A9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949688396059959779",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949670402646499630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuslivestream: https://t.co/rxu4XJ3A9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4028,
+        "media_key": "3_1949670394954194945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw6e5PhXIAEtk_n.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949670394954194945"
+          ],
+          "media_source_tweet_id": [
+            "1949670402646499630"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1949688396059959779",
+        "created_at": "2025-07-28T04:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T05:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949688396059959779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1748478702906646529",
+              "start": 3,
+              "username": "yuyuslivestream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxu4XJ3A9n",
+              "end": 44,
+              "expanded_url": "https://x.com/yuyuslivestream/status/1949670402646499630/photo/1",
+              "media_key": "3_1949670394954194945",
+              "start": 21,
+              "url": "https://t.co/rxu4XJ3A9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949688396059959779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949670402646499630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuslivestream: https://t.co/rxu4XJ3A9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949670394954194945"
+          ]
+        },
+        "author_id": "1748478702906646529",
+        "conversation_id": "1949670402646499630",
+        "created_at": "2025-07-28T03:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T04:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949670402646499630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxu4XJ3A9n",
+              "end": 23,
+              "expanded_url": "https://x.com/yuyuslivestream/status/1949670402646499630/photo/1",
+              "media_key": "3_1949670394954194945",
+              "start": 0,
+              "url": "https://t.co/rxu4XJ3A9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949670402646499630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 6087,
+          "like_count": 720,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rxu4XJ3A9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 277,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T22:53:10.000Z",
+        "description": "youtuber weguyfjitfhuyfg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuyuslivestreamdiary.straw.page",
+                "end": 23,
+                "expanded_url": "https://yuyuslivestreamdiary.straw.page",
+                "start": 0,
+                "url": "https://t.co/Y0sF1SMwEX"
+              }
+            ]
+          }
+        },
+        "id": "1748478702906646529",
+        "location": "yuyuland",
+        "name": "𓆟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199398664966144/01xWpveG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27723,
+          "following_count": 283,
+          "like_count": 2527,
+          "listed_count": 13,
+          "media_count": 432,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/Y0sF1SMwEX",
+        "username": "yuyuslivestream",
+        "verified": true
+      }
+    ]
+  }
+}

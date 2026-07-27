@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974063371172651008"
+      ],
+      "media_source_tweet_id": [
+        "1974063379359920377"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1974086829189312716",
+    "created_at": "2025-10-03T12:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974086829189312716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824655235073314817",
+          "start": 3,
+          "username": "11neruuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XqyXwYcVj",
+          "end": 52,
+          "expanded_url": "https://x.com/11neruuu_/status/1974063379359920377/photo/1",
+          "media_key": "3_1974063371172651008",
+          "start": 29,
+          "url": "https://t.co/3XqyXwYcVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974086829189312716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974063379359920377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11neruuu_: 有人想請我吃飯嗎我沒錢了🥹 https://t.co/3XqyXwYcVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1974063371172651008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VILVLbIAA6t3H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974063371172651008"
+          ],
+          "media_source_tweet_id": [
+            "1974063379359920377"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1974086829189312716",
+        "created_at": "2025-10-03T12:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974086829189312716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824655235073314817",
+              "start": 3,
+              "username": "11neruuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XqyXwYcVj",
+              "end": 52,
+              "expanded_url": "https://x.com/11neruuu_/status/1974063379359920377/photo/1",
+              "media_key": "3_1974063371172651008",
+              "start": 29,
+              "url": "https://t.co/3XqyXwYcVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974086829189312716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974063379359920377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11neruuu_: 有人想請我吃飯嗎我沒錢了🥹 https://t.co/3XqyXwYcVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974063371172651008"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "conversation_id": "1974063379359920377",
+        "created_at": "2025-10-03T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974063379359920377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XqyXwYcVj",
+              "end": 37,
+              "expanded_url": "https://x.com/11neruuu_/status/1974063379359920377/photo/1",
+              "media_key": "3_1974063371172651008",
+              "start": 14,
+              "url": "https://t.co/3XqyXwYcVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974063379359920377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有人想請我吃飯嗎我沒錢了🥹 https://t.co/3XqyXwYcVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969668589293879297/43qpAPMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 441,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "叫我小睡吧「よ^@1neruuu_」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "🛌",
+        "name": "ねる",
+        "pinned_tweet_id": "1947326109118263640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964691900692332544/j8tZ50-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 582,
+          "like_count": 27796,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 211
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

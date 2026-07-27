@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1944326943022669824"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1944326962799071604",
+    "created_at": "2025-07-13T09:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T10:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944326962799071604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmWpYs1JYE",
+          "end": 23,
+          "expanded_url": "https://x.com/999Takumi_/status/1944326962799071604/video/1",
+          "media_key": "7_1944326943022669824",
+          "start": 0,
+          "url": "https://t.co/bmWpYs1JYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944326962799071604",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/bmWpYs1JYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5038,
+        "height": 1088,
+        "media_key": "7_1944326943022669824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1944326943022669824/pu/img/MHR923xnAyegtezf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944326943022669824/pu/vid/avc1/320x588/ys0qU_6KGIN8ZFo6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944326943022669824/pu/vid/avc1/480x882/iYxpTuHzWbnGrSp3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944326943022669824/pu/vid/avc1/592x1088/4c8TZbXJgyPkYYR8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1944326943022669824/pu/pl/3uyDv739sb4rcj3J.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1944326943022669824"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1944326962799071604",
+        "created_at": "2025-07-13T09:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944326962799071604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmWpYs1JYE",
+              "end": 23,
+              "expanded_url": "https://x.com/999Takumi_/status/1944326962799071604/video/1",
+              "media_key": "7_1944326943022669824",
+              "start": 0,
+              "url": "https://t.co/bmWpYs1JYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944326962799071604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bmWpYs1JYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "底層的一顆憂鬱釘子",
+        "name": "胸腔hurts",
+        "pinned_tweet_id": "1928800276468637701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943815327210672128/L_ltcSw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 146,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

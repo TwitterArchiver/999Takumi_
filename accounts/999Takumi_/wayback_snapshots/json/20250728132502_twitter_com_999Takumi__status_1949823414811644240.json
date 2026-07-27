@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1949823414811644240",
+    "created_at": "2025-07-28T13:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949823414811644240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiihatehuman/s…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/iiihatehuman/status/1949814609587626093",
+          "start": 80,
+          "url": "https://t.co/HUGBp2YUJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949823414811644240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949814609587626093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/HUGBp2YUJG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1949823414811644240",
+        "created_at": "2025-07-28T13:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949823414811644240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiihatehuman/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/iiihatehuman/status/1949814609587626093",
+              "start": 80,
+              "url": "https://t.co/HUGBp2YUJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949823414811644240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949814609587626093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/HUGBp2YUJG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1949814609587626093",
+        "created_at": "2025-07-28T12:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T13:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949814609587626093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/edward_8964/status/1949780285568012656",
+              "start": 80,
+              "url": "https://t.co/INHiuoz6lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949814609587626093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949780285568012656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/INHiuoz6lN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 284,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎 @sekaiboom 鎖推小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "sekaiboom"
+              }
+            ]
+          }
+        },
+        "id": "1783819937045237760",
+        "location": "天國",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 385,
+          "like_count": 2166,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1807
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

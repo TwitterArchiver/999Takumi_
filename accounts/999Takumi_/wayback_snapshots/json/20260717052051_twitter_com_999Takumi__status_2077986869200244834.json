@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077986866507415552"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2077958977066029506",
+    "created_at": "2026-07-17T05:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077986869200244834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077728357744275456",
+          "start": 0,
+          "username": "zerro00730"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xgj6jc1Je",
+          "end": 43,
+          "expanded_url": "https://x.com/999Takumi_/status/2077986869200244834/photo/1",
+          "media_key": "3_2077986866507415552",
+          "start": 20,
+          "url": "https://t.co/4xgj6jc1Je"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077986869200244834",
+    "in_reply_to_user_id": "2077728357744275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077958977066029506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerro00730 总之嘎达嘎达吧 https://t.co/4xgj6jc1Je"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2077986866507415552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ-C6IaAAAURz0.jpg",
+        "width": 474
+      },
+      {
+        "height": 1893,
+        "media_key": "3_2077958963921076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZkqw5awAA8wQ7.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077986866507415552"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2077958977066029506",
+        "created_at": "2026-07-17T05:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077986869200244834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077728357744275456",
+              "start": 0,
+              "username": "zerro00730"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xgj6jc1Je",
+              "end": 43,
+              "expanded_url": "https://x.com/999Takumi_/status/2077986869200244834/photo/1",
+              "media_key": "3_2077986866507415552",
+              "start": 20,
+              "url": "https://t.co/4xgj6jc1Je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077986869200244834",
+        "in_reply_to_user_id": "2077728357744275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077958977066029506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerro00730 总之嘎达嘎达吧 https://t.co/4xgj6jc1Je"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077958963921076224"
+          ]
+        },
+        "author_id": "2077728357744275456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          }
+        ],
+        "conversation_id": "2077958977066029506",
+        "created_at": "2026-07-17T03:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077958977066029506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evMsgCKq25",
+              "end": 39,
+              "expanded_url": "https://x.com/zerro00730/status/2077958977066029506/photo/1",
+              "media_key": "3_2077958963921076224",
+              "start": 16,
+              "url": "https://t.co/evMsgCKq25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077958977066029506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的聪明程度blackpink https://t.co/evMsgCKq25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 480,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:14:42.000Z",
+        "description": "天使@Zzerro77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Zzerro77"
+              }
+            ]
+          }
+        },
+        "id": "2077728357744275456",
+        "name": "zero",
+        "pinned_tweet_id": "2077926252279898236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077728820925476864/9ut7nkb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "zerro00730",
+        "verified": false
+      }
+    ]
+  }
+}

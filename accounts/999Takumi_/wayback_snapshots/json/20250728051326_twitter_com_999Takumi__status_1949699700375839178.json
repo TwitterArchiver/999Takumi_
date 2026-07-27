@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949589772718239744"
+      ],
+      "media_source_tweet_id": [
+        "1949589779370361052"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1949699700375839178",
+    "created_at": "2025-07-28T05:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T06:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949699700375839178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783819937045237760",
+          "start": 3,
+          "username": "iiihatehuman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tKiZkeWJ2n",
+          "end": 57,
+          "expanded_url": "https://x.com/iiihatehuman/status/1949589779370361052/photo/1",
+          "media_key": "3_1949589772718239744",
+          "start": 34,
+          "url": "https://t.co/tKiZkeWJ2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949699700375839178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949589779370361052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiihatehuman: 在此乞討 八月要和朋友一起玩🥹 https://t.co/tKiZkeWJ2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1949589772718239744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw5VkaSa8AA7jOp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949589772718239744"
+          ],
+          "media_source_tweet_id": [
+            "1949589779370361052"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1949699700375839178",
+        "created_at": "2025-07-28T05:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949699700375839178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783819937045237760",
+              "start": 3,
+              "username": "iiihatehuman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKiZkeWJ2n",
+              "end": 57,
+              "expanded_url": "https://x.com/iiihatehuman/status/1949589779370361052/photo/1",
+              "media_key": "3_1949589772718239744",
+              "start": 34,
+              "url": "https://t.co/tKiZkeWJ2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949699700375839178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949589779370361052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiihatehuman: 在此乞討 八月要和朋友一起玩🥹 https://t.co/tKiZkeWJ2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949589772718239744"
+          ]
+        },
+        "author_id": "1783819937045237760",
+        "conversation_id": "1949589779370361052",
+        "created_at": "2025-07-27T21:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T22:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949589779370361052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKiZkeWJ2n",
+              "end": 39,
+              "expanded_url": "https://x.com/iiihatehuman/status/1949589779370361052/photo/1",
+              "media_key": "3_1949589772718239744",
+              "start": 16,
+              "url": "https://t.co/tKiZkeWJ2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949589779370361052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在此乞討 八月要和朋友一起玩🥹 https://t.co/tKiZkeWJ2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 278,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎 @sekaiboom 鎖推小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "sekaiboom"
+              }
+            ]
+          }
+        },
+        "id": "1783819937045237760",
+        "location": "天國",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 384,
+          "like_count": 2154,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1801
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2076681137708306687",
+    "created_at": "2026-07-13T15:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076696516383908054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "EggTarts_King"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076696516383908054",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076681137708306687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EggTarts_King 都入团了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2076681137708306687",
+        "created_at": "2026-07-13T15:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076696516383908054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "EggTarts_King"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076696516383908054",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076681137708306687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EggTarts_King 都入团了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483726186991669250",
+        "conversation_id": "2076681137708306687",
+        "created_at": "2026-07-13T14:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076681137708306687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "くろいタバコ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dJrP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dJrPPWlZbvKX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: くろいタバコ’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1dJrPPWlZbvKX/peek",
+              "url": "https://t.co/oGZ8Jqr7gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076681137708306687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oGZ8Jqr7gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/很温良愿意和所有人交朋友/点赞就是喜欢你",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 471,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 243,
+          "like_count": 230,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "EggTarts_King",
+        "verified": false
+      }
+    ]
+  }
+}

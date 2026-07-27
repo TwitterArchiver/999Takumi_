@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973219708498485251"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "1973219712105587038",
+    "created_at": "2025-10-01T02:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T03:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973219712105587038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMQQhtYy1F",
+          "end": 23,
+          "expanded_url": "https://x.com/999Takumi_/status/1973219712105587038/photo/1",
+          "media_key": "3_1973219708498485251",
+          "start": 0,
+          "url": "https://t.co/WMQQhtYy1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973219712105587038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WMQQhtYy1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_1973219708498485251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JI3szaIAME0hN.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973219708498485251"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "1973219712105587038",
+        "created_at": "2025-10-01T02:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T03:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973219712105587038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMQQhtYy1F",
+              "end": 23,
+              "expanded_url": "https://x.com/999Takumi_/status/1973219712105587038/photo/1",
+              "media_key": "3_1973219708498485251",
+              "start": 0,
+              "url": "https://t.co/WMQQhtYy1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973219712105587038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WMQQhtYy1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969668589293879297/43qpAPMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 431,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

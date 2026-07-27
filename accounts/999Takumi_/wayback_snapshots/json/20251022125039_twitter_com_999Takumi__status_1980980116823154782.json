@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1980980116823154782",
+    "created_at": "2025-10-22T12:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980980116823154782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850566498412318720",
+          "start": 3,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980980116823154782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980649075897925935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo4444: 因为穷穷的又来开放门槛了！\n🚪128可以加微信和我聊些有的没的，然后看我在朋友圈发疯👉👈\n🚪520我可以当你的电子宠物，情绪价值提供到位，随叫随到，可以打语音！\n求求了现在我很需要钱…风格很多变，也在努力瘦身🥺请支持这个努力的萝卜 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980649045895839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yt0DVWgAAtkz_.jpg",
+        "width": 944
+      },
+      {
+        "height": 720,
+        "media_key": "3_1980649045916880896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yt0DaXkAAufj-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980649045879107584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yt0DRXMAAX5qT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980649045929463808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yt0DdXkAAvUzf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1980980116823154782",
+        "created_at": "2025-10-22T12:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980980116823154782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850566498412318720",
+              "start": 3,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980980116823154782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980649075897925935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobo4444: 因为穷穷的又来开放门槛了！\n🚪128可以加微信和我聊些有的没的，然后看我在朋友圈发疯👉👈\n🚪520我可以当你的电子宠物，情绪价值提供到位，随叫随到，可以打语音！\n求求了现在我很需要钱…风格很多变，也在努力瘦身🥺请支持这个努力的萝卜 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980649045895839744",
+            "3_1980649045916880896",
+            "3_1980649045879107584",
+            "3_1980649045929463808"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1980649075897925935",
+        "created_at": "2025-10-21T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980649075897925935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2uvZHsn0F",
+              "end": 139,
+              "expanded_url": "https://x.com/luobo4444/status/1980649075897925935/photo/1",
+              "media_key": "3_1980649045895839744",
+              "start": 116,
+              "url": "https://t.co/P2uvZHsn0F"
+            },
+            {
+              "display_url": "pic.x.com/P2uvZHsn0F",
+              "end": 139,
+              "expanded_url": "https://x.com/luobo4444/status/1980649075897925935/photo/1",
+              "media_key": "3_1980649045916880896",
+              "start": 116,
+              "url": "https://t.co/P2uvZHsn0F"
+            },
+            {
+              "display_url": "pic.x.com/P2uvZHsn0F",
+              "end": 139,
+              "expanded_url": "https://x.com/luobo4444/status/1980649075897925935/photo/1",
+              "media_key": "3_1980649045879107584",
+              "start": 116,
+              "url": "https://t.co/P2uvZHsn0F"
+            },
+            {
+              "display_url": "pic.x.com/P2uvZHsn0F",
+              "end": 139,
+              "expanded_url": "https://x.com/luobo4444/status/1980649075897925935/photo/1",
+              "media_key": "3_1980649045929463808",
+              "start": 116,
+              "url": "https://t.co/P2uvZHsn0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980649075897925935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27286,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "因为穷穷的又来开放门槛了！\n🚪128可以加微信和我聊些有的没的，然后看我在朋友圈发疯👉👈\n🚪520我可以当你的电子宠物，情绪价值提供到位，随叫随到，可以打语音！\n求求了现在我很需要钱…风格很多变，也在努力瘦身🥺请支持这个努力的萝卜 https://t.co/P2uvZHsn0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975235878210654209/20GLmCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 444,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 107
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜06｜中推圈的大家都叫我萝卜哥｜和你想象中不一样很抱歉｜现充版本@luobodoul｜提问箱https://t.co/7PLNNU57jS｜柊赤莲私厕｜🚪128/520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "luobodoul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kwaii",
+                "end": 86,
+                "expanded_url": "https://ngl.link/yanyan_kwaii",
+                "start": 63,
+                "url": "https://t.co/7PLNNU57jS"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "我要做一个流着泪说完蛋了 但是依旧迎难而上的人",
+        "name": "hara",
+        "pinned_tweet_id": "1956533495397781880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 516,
+          "like_count": 4288,
+          "listed_count": 9,
+          "media_count": 642,
+          "tweet_count": 3294
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1950258658874642600",
+    "created_at": "2025-07-30T01:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T02:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950373187654693300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940215859219505156",
+          "start": 0,
+          "username": "Torilove1love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950373187654693300",
+    "in_reply_to_user_id": "1940215859219505156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950258658874642600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Torilove1love 早上起来看一期这个就是惬意👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_1950258590725656576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950258590725656576/img/FAKYMNwq1DPgng2U.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950258590725656576/vid/avc1/320x568/J-7dAhnlvViD6WFO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950258590725656576/vid/avc1/480x852/N-3prZJvGDTdY5ou.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950258590725656576/vid/avc1/720x1280/nlJBhHCQN2WqdLip.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950258590725656576/pl/zPtfQ1vznGn0zmky.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1950258658874642600",
+        "created_at": "2025-07-30T01:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950373187654693300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940215859219505156",
+              "start": 0,
+              "username": "Torilove1love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950373187654693300",
+        "in_reply_to_user_id": "1940215859219505156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950258658874642600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Torilove1love 早上起来看一期这个就是惬意👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950258590725656576"
+          ]
+        },
+        "author_id": "1940215859219505156",
+        "conversation_id": "1950258658874642600",
+        "created_at": "2025-07-29T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950258658874642600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7FSqQll2x",
+              "end": 23,
+              "expanded_url": "https://x.com/Torilove1love/status/1950258658874642600/video/1",
+              "media_key": "13_1950258590725656576",
+              "start": 0,
+              "url": "https://t.co/w7FSqQll2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950258658874642600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w7FSqQll2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 尸體 | OD | 精神障礙 | Hip-Hop音樂 | 💙主隊:@ChelseaFC | Lover:@xxxtentacion | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ChelseaFC"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xxxtentacion"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 298,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T01:08:13.000Z",
+        "description": "ToriTori❤️520 @DKR_World",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "1940215859219505156",
+        "name": "Tori重度依賴！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950260097164132354/gaWoHz9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 29,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 216
+        },
+        "username": "Torilove1love",
+        "verified": false
+      }
+    ]
+  }
+}

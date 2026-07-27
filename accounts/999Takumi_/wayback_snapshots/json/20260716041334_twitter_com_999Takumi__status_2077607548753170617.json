@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2077607548753170617",
+    "created_at": "2026-07-16T04:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077607548753170617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077607548753170617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛苦。学校除了上课其他的所有事情都让我颤栗，颤抖，恐惧。我按不住写字发抖的手，忍不住呼之欲出的心跳声，所有的事情转头就忘，怎么努力都没办法抓住，看着自己所有的所有全都慢慢流逝，那些似水年华的青春被偷走了大半。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2077607548753170617",
+        "created_at": "2026-07-16T04:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077607548753170617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077607548753170617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦。学校除了上课其他的所有事情都让我颤栗，颤抖，恐惧。我按不住写字发抖的手，忍不住呼之欲出的心跳声，所有的事情转头就忘，怎么努力都没办法抓住，看着自己所有的所有全都慢慢流逝，那些似水年华的青春被偷走了大半。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "「たくみ / Takumi」/病み垢/精神状态很不好/拉康精神分析/非文艺青/高三生/互fo/友跨/点赞就是喜欢你/\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 478,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

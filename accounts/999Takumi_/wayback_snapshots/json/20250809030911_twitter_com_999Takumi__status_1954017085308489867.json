@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1953976693166944365",
+    "created_at": "2025-08-09T03:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T04:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954017085308489867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954017085308489867",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953976693166944365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 這逼跟腦子缺幾百根筋怎麼誰都去騷擾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953976683201224704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx3rcNWa4AA7XLm.jpg",
+        "width": 1094
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953976683226443777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx3rcNcbsAE6kLK.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1953976693166944365",
+        "created_at": "2025-08-09T03:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954017085308489867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954017085308489867",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953976693166944365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 這逼跟腦子缺幾百根筋怎麼誰都去騷擾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953976683201224704",
+            "3_1953976683226443777"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "1953976693166944365",
+        "created_at": "2025-08-09T00:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T01:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953976693166944365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fY6YInjIVh",
+              "end": 28,
+              "expanded_url": "https://x.com/Re1_y0/status/1953976693166944365/photo/1",
+              "media_key": "3_1953976683201224704",
+              "start": 5,
+              "url": "https://t.co/fY6YInjIVh"
+            },
+            {
+              "display_url": "pic.x.com/fY6YInjIVh",
+              "end": 28,
+              "expanded_url": "https://x.com/Re1_y0/status/1953976693166944365/photo/1",
+              "media_key": "3_1953976683226443777",
+              "start": 5,
+              "url": "https://t.co/fY6YInjIVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953976693166944365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闹麻了😂 https://t.co/fY6YInjIVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop🖤 | 互fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "🚪0.99",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1952700006172897383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 390,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜MHA🍰推し｜OD&自傷｜焦虑抑郁障碍合并强迫｜直fo选回｜非互fo私信不回｜清水推 ｜⚠️DO NOT re-upload or use my photos｜GF @Asszeqr｜推广请私信联系｜📪 https://t.co/tAHbDDrybz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 151,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 128,
+                "url": "https://t.co/tAHbDDrybz"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "1948338656865140993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 237,
+          "like_count": 1930,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 4146
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

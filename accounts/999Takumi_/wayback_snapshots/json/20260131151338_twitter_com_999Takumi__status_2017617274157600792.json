@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2017617274157600792",
+    "created_at": "2026-01-31T15:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T16:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017617274157600792"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017617274157600792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摆脱社交敏感的方法就是摆脱社交吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2017617274157600792",
+        "created_at": "2026-01-31T15:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017617274157600792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017617274157600792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摆脱社交敏感的方法就是摆脱社交吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」\n什么是幸福 我觉得长在河边的草就挺幸福的",
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014958872658903040/twriCn9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 423,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

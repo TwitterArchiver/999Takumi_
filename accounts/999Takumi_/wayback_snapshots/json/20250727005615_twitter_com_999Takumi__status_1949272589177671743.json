@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "XXXTentacion",
+          "id": "1008813965898465280",
+          "name": "XXXTentacion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "XXXTentacion",
+          "id": "1008813965898465280",
+          "name": "XXXTentacion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "XXXTentacion",
+          "id": "1008813965898465280",
+          "name": "XXXTentacion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1949272589177671743",
+    "created_at": "2025-07-27T00:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T01:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949272589177671743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "754101056",
+          "start": 3,
+          "username": "xxxtentacion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949272589177671743",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1858
+    },
+    "referenced_tweets": [
+      {
+        "id": "705730170666283010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxtentacion: let's pretend we're numb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "XXXTentacion",
+              "id": "1008813965898465280",
+              "name": "XXXTentacion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "XXXTentacion",
+              "id": "1008813965898465280",
+              "name": "XXXTentacion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "XXXTentacion",
+              "id": "1008813965898465280",
+              "name": "XXXTentacion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1949272589177671743",
+        "created_at": "2025-07-27T00:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949272589177671743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "754101056",
+              "start": 3,
+              "username": "xxxtentacion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949272589177671743",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1858
+        },
+        "referenced_tweets": [
+          {
+            "id": "705730170666283010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxtentacion: let's pretend we're numb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "754101056",
+        "conversation_id": "705730170666283010",
+        "created_at": "2016-03-04T12:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2016-03-04T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "705730170666283010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "705730170666283010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 0,
+          "like_count": 7006,
+          "quote_count": 70,
+          "reply_count": 75,
+          "retweet_count": 1858
+        },
+        "reply_settings": "everyone",
+        "text": "let's pretend we're numb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 244,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-13T00:54:00.000Z",
+        "description": "the wolf in sheeps skin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "empire.lnk.to/BadVibesForever",
+                "end": 23,
+                "expanded_url": "https://empire.lnk.to/BadVibesForever",
+                "start": 0,
+                "url": "https://t.co/pcoXPjqaU8"
+              }
+            ]
+          }
+        },
+        "id": "754101056",
+        "location": "bad vibes forever",
+        "name": "MAKE OUT HILL - XXX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1008849711459995648/fujHPGBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030042,
+          "following_count": 0,
+          "like_count": 26175,
+          "listed_count": 875,
+          "media_count": 37,
+          "tweet_count": 47855
+        },
+        "url": "https://t.co/pcoXPjqaU8",
+        "username": "xxxtentacion",
+        "verified": true
+      }
+    ]
+  }
+}

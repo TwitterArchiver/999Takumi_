@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1979236614196072609",
+    "created_at": "2025-10-17T17:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T18:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979236614196072609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979236614196072609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从小到大我一直都很在意别人的眼光 在意别人的一句话一个眼神 一个动作 这都会让我判断出这个人喜不喜欢我 可能这都是我自己的以为 但这让我很痛苦 上学的时候 一个人去食堂的路太漫长 心中总在默念“快点到快点到”周围嬉笑的声音都让我感到不舒服甚至厌烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1979236614196072609",
+        "created_at": "2025-10-17T17:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T18:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979236614196072609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979236614196072609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小到大我一直都很在意别人的眼光 在意别人的一句话一个眼神 一个动作 这都会让我判断出这个人喜不喜欢我 可能这都是我自己的以为 但这让我很痛苦 上学的时候 一个人去食堂的路太漫长 心中总在默念“快点到快点到”周围嬉笑的声音都让我感到不舒服甚至厌烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」| 精神障礙 | Hip-Hop🖤 | 互Fo歡迎 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "川崎",
+        "name": "兇嗆Hurts💤",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975235878210654209/20GLmCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 444,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 102
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

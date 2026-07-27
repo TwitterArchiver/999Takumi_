@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1950757508890423654",
+    "created_at": "2025-07-31T03:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T04:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950757508890423654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226849579951243266",
+          "start": 3,
+          "username": "admi_n123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950757508890423654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950645621570023695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @admi_n123456: 你根本不是智性恋 你只是一个有学历歧视的中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1950757508890423654",
+        "created_at": "2025-07-31T03:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950757508890423654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226849579951243266",
+              "start": 3,
+              "username": "admi_n123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950757508890423654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950645621570023695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @admi_n123456: 你根本不是智性恋 你只是一个有学历歧视的中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226849579951243266",
+        "conversation_id": "1950645621570023695",
+        "created_at": "2025-07-30T19:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T20:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950645621570023695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950645621570023695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你根本不是智性恋 你只是一个有学历歧视的中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 尸體 | 藥物濫用 | 精神障礙 | Hip-Hop音樂 | 💙主隊:@ChelseaFC | Lover:@xxxtentacion | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "ChelseaFC"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "xxxtentacion"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 306,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "ゆめみ 雙相混合 150/42kg 🚪52 我一直在哭 不要視奸我 特別喜歡交朋友 擅長熱暴力 非二元 我一直在哭 fa～buk 自殘 幻覺 升天 解離 我需要很多錢 正在瞭解合理用藥知識 java 數碼控 政治 b 不回 fo 喜歡和萌妹子交朋友（我關注了你說明你真的特別特別萌）歡迎找我聊天我是客服",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1948061746914365669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 987,
+          "like_count": 14192,
+          "listed_count": 4,
+          "media_count": 1241,
+          "tweet_count": 8616
+        },
+        "username": "admi_n123456",
+        "verified": false
+      }
+    ]
+  }
+}

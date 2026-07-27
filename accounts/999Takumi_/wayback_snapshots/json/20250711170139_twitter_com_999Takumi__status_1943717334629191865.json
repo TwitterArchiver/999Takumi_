@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "1943717334629191865",
+    "created_at": "2025-07-11T17:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943717334629191865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943717334629191865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喝的从不是胡辣汤，是河南人的泪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "1943717334629191865",
+        "created_at": "2025-07-11T17:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943717334629191865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943717334629191865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喝的从不是胡辣汤，是河南人的泪！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧 | たくみ | Takumi.",
+        "id": "1884772546111049728",
+        "location": "底層的一顆憂鬱釘子",
+        "name": "胸腔hurts",
+        "pinned_tweet_id": "1928800276468637701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943664477720956928/h_YbZjxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 140,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 97
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

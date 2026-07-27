@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949133826032357376"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949133828821577836",
+    "created_at": "2025-07-26T15:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949133828821577836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhSc6or7Nw",
+          "end": 46,
+          "expanded_url": "https://x.com/999Takumi_/status/1949133828821577836/photo/1",
+          "media_key": "3_1949133826032357376",
+          "start": 23,
+          "url": "https://t.co/GhSc6or7Nw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949133828821577836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人觉得这两个emoji长得有点像旺仔小乔吗 https://t.co/GhSc6or7Nw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_1949133826032357376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwy240hbUAAKGr1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949133826032357376"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949133828821577836",
+        "created_at": "2025-07-26T15:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949133828821577836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhSc6or7Nw",
+              "end": 46,
+              "expanded_url": "https://x.com/999Takumi_/status/1949133828821577836/photo/1",
+              "media_key": "3_1949133826032357376",
+              "start": 23,
+              "url": "https://t.co/GhSc6or7Nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949133828821577836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得这两个emoji长得有点像旺仔小乔吗 https://t.co/GhSc6or7Nw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "^巧 | たくみ | Takumi^\n低能兒INFP💊",
+        "id": "1884772546111049728",
+        "location": "𐌃𐌏𐌍'𐌕  𐌋𐌄𐌀𐌖𐌄",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 243,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

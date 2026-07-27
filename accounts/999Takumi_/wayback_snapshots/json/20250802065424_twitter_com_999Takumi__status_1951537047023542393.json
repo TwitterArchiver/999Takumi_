@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1540264045382488065",
+          "name": "リコリス・リコイル"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      }
+    ],
+    "conversation_id": "1951537047023542393",
+    "created_at": "2025-08-02T06:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T07:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951537047023542393"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "井ノ上たきな"
+        },
+        {
+          "end": 83,
+          "start": 69,
+          "tag": "井ノ上たきな生誕祭2025"
+        },
+        {
+          "end": 96,
+          "start": 86,
+          "tag": "井ノ上たきな生誕祭"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "リコリコ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1339099795437150209",
+          "start": 3,
+          "username": "Cafe_LYCORECO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951537047023542393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 527
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951296879834362283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cafe_LYCORECO: ✨🎂HAPPY BIRTHDAY たきな🎉✨\n\n本日8/2は、#井ノ上たきな の誕生日🐟💙✨️\n\n「#井ノ上たきな生誕祭2025」\n「#井ノ上たきな生誕祭」をつけてポスト📝\n\n皆んなで沢山お祝いしましょう💙🫶✨\n\n#リコリコ\n#lycori…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1951296869105278976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRmKf5aIAAq2Iv.jpg",
+        "width": 1062
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1951296869080113162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRmKfzaIAocJHm.jpg",
+        "width": 1512
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1951296869096935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRmKf3a0AAicYr.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1951296869122105344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRmKf9a4AAi-ca.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1951537047023542393",
+        "created_at": "2025-08-02T06:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951537047023542393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "井ノ上たきな"
+            },
+            {
+              "end": 83,
+              "start": 69,
+              "tag": "井ノ上たきな生誕祭2025"
+            },
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "井ノ上たきな生誕祭"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "リコリコ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1339099795437150209",
+              "start": 3,
+              "username": "Cafe_LYCORECO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951537047023542393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 527
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951296879834362283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cafe_LYCORECO: ✨🎂HAPPY BIRTHDAY たきな🎉✨\n\n本日8/2は、#井ノ上たきな の誕生日🐟💙✨️\n\n「#井ノ上たきな生誕祭2025」\n「#井ノ上たきな生誕祭」をつけてポスト📝\n\n皆んなで沢山お祝いしましょう💙🫶✨\n\n#リコリコ\n#lycori…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951296869105278976",
+            "3_1951296869080113162",
+            "3_1951296869096935424",
+            "3_1951296869122105344"
+          ]
+        },
+        "author_id": "1339099795437150209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1951296879834362283",
+        "created_at": "2025-08-01T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951296879834362283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "井ノ上たきな"
+            },
+            {
+              "end": 64,
+              "start": 50,
+              "tag": "井ノ上たきな生誕祭2025"
+            },
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "井ノ上たきな生誕祭"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "リコリコ"
+            },
+            {
+              "end": 128,
+              "start": 113,
+              "tag": "lycoris_recoil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mJCjOECUT",
+              "end": 152,
+              "expanded_url": "https://x.com/Cafe_LYCORECO/status/1951296879834362283/photo/1",
+              "media_key": "3_1951296869105278976",
+              "start": 129,
+              "url": "https://t.co/2mJCjOECUT"
+            },
+            {
+              "display_url": "pic.x.com/2mJCjOECUT",
+              "end": 152,
+              "expanded_url": "https://x.com/Cafe_LYCORECO/status/1951296879834362283/photo/1",
+              "media_key": "3_1951296869080113162",
+              "start": 129,
+              "url": "https://t.co/2mJCjOECUT"
+            },
+            {
+              "display_url": "pic.x.com/2mJCjOECUT",
+              "end": 152,
+              "expanded_url": "https://x.com/Cafe_LYCORECO/status/1951296879834362283/photo/1",
+              "media_key": "3_1951296869096935424",
+              "start": 129,
+              "url": "https://t.co/2mJCjOECUT"
+            },
+            {
+              "display_url": "pic.x.com/2mJCjOECUT",
+              "end": 152,
+              "expanded_url": "https://x.com/Cafe_LYCORECO/status/1951296879834362283/photo/1",
+              "media_key": "3_1951296869122105344",
+              "start": 129,
+              "url": "https://t.co/2mJCjOECUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951296879834362283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 62667,
+          "like_count": 3219,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 527
+        },
+        "reply_settings": "everyone",
+        "text": "✨🎂HAPPY BIRTHDAY たきな🎉✨\n\n本日8/2は、#井ノ上たきな の誕生日🐟💙✨️\n\n「#井ノ上たきな生誕祭2025」\n「#井ノ上たきな生誕祭」をつけてポスト📝\n\n皆んなで沢山お祝いしましょう💙🫶✨\n\n#リコリコ\n#lycoris_recoil https://t.co/2mJCjOECUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^（たくみ / Takumi）| 藥物濫用 | 精神障礙 | Hip-Hop音樂💜 | ^七葉睡@11neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "11neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "Chicago south side",
+        "name": "胸腔Hurts💤",
+        "pinned_tweet_id": "1948864748331958576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 327,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T07:00:10.000Z",
+        "description": "🍡☕️❤️💙✨",
+        "id": "1339099795437150209",
+        "name": "リーコリコ",
+        "pinned_tweet_id": "1951296879834362283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922547405557530625/JzFSh5M8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 248,
+          "like_count": 11781,
+          "listed_count": 10,
+          "media_count": 3303,
+          "tweet_count": 7863
+        },
+        "username": "Cafe_LYCORECO",
+        "verified": true
+      }
+    ]
+  }
+}

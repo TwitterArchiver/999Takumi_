@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055578920058257408"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2055578923430449554",
+    "created_at": "2026-05-16T09:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055578923430449554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/44qR8QEDjx",
+          "end": 37,
+          "expanded_url": "https://x.com/999Takumi_/status/2055578923430449554/photo/1",
+          "media_key": "3_2055578920058257408",
+          "start": 14,
+          "url": "https://t.co/44qR8QEDjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055578923430449554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我們那莫比烏斯環般的痛苦. https://t.co/44qR8QEDjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055578920058257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbiIwnagAA4RQ4.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055578920058257408"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2055578923430449554",
+        "created_at": "2026-05-16T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055578923430449554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44qR8QEDjx",
+              "end": 37,
+              "expanded_url": "https://x.com/999Takumi_/status/2055578923430449554/photo/1",
+              "media_key": "3_2055578920058257408",
+              "start": 14,
+              "url": "https://t.co/44qR8QEDjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055578923430449554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們那莫比烏斯環般的痛苦. https://t.co/44qR8QEDjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/素晴日/我刚刚想吃老鼠药去死的 我一看老鼠药九十块钱一瓶我觉得我还是好好活着吧",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055578075099021312/T4_JFa45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 437,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 157
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}
