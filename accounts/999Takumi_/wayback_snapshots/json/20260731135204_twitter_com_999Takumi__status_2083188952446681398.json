@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2083188952446681398",
+    "created_at": "2026-07-31T13:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083188952446681398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021240614465986560",
+          "start": 3,
+          "username": "Zhu171717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083188952446681398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083152465583833322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhu171717: 生命常常下雨 我反复被打湿 然后放晴."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2083188952446681398",
+        "created_at": "2026-07-31T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083188952446681398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021240614465986560",
+              "start": 3,
+              "username": "Zhu171717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083188952446681398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152465583833322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhu171717: 生命常常下雨 我反复被打湿 然后放晴."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021240614465986560",
+        "conversation_id": "2083152465583833322",
+        "created_at": "2026-07-31T11:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083152465583833322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083152465583833322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生命常常下雨 我反复被打湿 然后放晴."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@Zhu171717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Zhu171717"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "距离你0.1km",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 517,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T15:11:42.000Z",
+        "description": "🥶",
+        "id": "2021240614465986560",
+        "name": "🐷1️⃣7️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080511296882221056/CQh-UFuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Zhu171717",
+        "verified": false
+      }
+    ]
+  }
+}

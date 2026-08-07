@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084652027041415168"
+      ],
+      "media_source_tweet_id": [
+        "2084652036818448411"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2085223101898633601",
+    "created_at": "2026-08-06T04:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085223101898633601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2084648559308378112",
+          "start": 3,
+          "username": "iiiiyuuuovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fkMkGoB36e",
+          "end": 60,
+          "expanded_url": "https://x.com/iiiiyuuuovo/status/2084652036818448411/photo/1",
+          "media_key": "3_2084652027041415168",
+          "start": 37,
+          "url": "https://t.co/fkMkGoB36e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085223101898633601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084652036818448411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiiiyuuuovo: 我重生了…这次…我将夺回属于我的一切! https://t.co/fkMkGoB36e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2084652027041415168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4r-UAaAAAiUPp.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084652027041415168"
+          ]
+        },
+        "author_id": "2084648559308378112",
+        "conversation_id": "2084652036818448411",
+        "created_at": "2026-08-04T14:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084652036818448411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkMkGoB36e",
+              "end": 43,
+              "expanded_url": "https://x.com/iiiiyuuuovo/status/2084652036818448411/photo/1",
+              "media_key": "3_2084652027041415168",
+              "start": 20,
+              "url": "https://t.co/fkMkGoB36e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084652036818448411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17187,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了…这次…我将夺回属于我的一切! https://t.co/fkMkGoB36e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084652027041415168"
+          ],
+          "media_source_tweet_id": [
+            "2084652036818448411"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2085223101898633601",
+        "created_at": "2026-08-06T04:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085223101898633601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2084648559308378112",
+              "start": 3,
+              "username": "iiiiyuuuovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkMkGoB36e",
+              "end": 60,
+              "expanded_url": "https://x.com/iiiiyuuuovo/status/2084652036818448411/photo/1",
+              "media_key": "3_2084652027041415168",
+              "start": 37,
+              "url": "https://t.co/fkMkGoB36e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085223101898633601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084652036818448411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiiiyuuuovo: 我重生了…这次…我将夺回属于我的一切! https://t.co/fkMkGoB36e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@Zhu171717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Zhu171717"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "距离你0.1km",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 516,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-04T14:40:11.000Z",
+        "description": "我想发什么发什么\n需要互fo麻烦私我一下🥺🥺🥺",
+        "id": "2084648559308378112",
+        "location": "🚪520",
+        "name": "魚4.0",
+        "pinned_tweet_id": "2085012324432445841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084650943954694144/vyX4NKlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 12,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "iiiiyuuuovo",
+        "verified": false
+      }
+    ]
+  }
+}
