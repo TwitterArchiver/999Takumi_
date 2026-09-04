@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089227475427762176"
+      ],
+      "media_source_tweet_id": [
+        "2089227486098035051"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2089574348097286147",
+    "created_at": "2026-08-18T04:45:21.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089574348097286147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800072059214598144",
+          "start": 3,
+          "username": "bnli270777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Clr9uGBHJ4",
+          "end": 45,
+          "expanded_url": "https://x.com/bnli270777/status/2089227486098035051/photo/1",
+          "media_key": "3_2089227475427762176",
+          "start": 22,
+          "url": "https://t.co/Clr9uGBHJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089574348097286147",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089227475427762176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089227486098035051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bnli270777: TWINS https://t.co/Clr9uGBHJ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2654,
+        "media_key": "3_2089227475427762176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5tUdfboAARf8g.jpg",
+        "width": 3390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089227475427762176"
+          ],
+          "media_source_tweet_id": [
+            "2089227486098035051"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2089574348097286147",
+        "created_at": "2026-08-18T04:45:21.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089574348097286147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800072059214598144",
+              "start": 3,
+              "username": "bnli270777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Clr9uGBHJ4",
+              "end": 45,
+              "expanded_url": "https://x.com/bnli270777/status/2089227486098035051/photo/1",
+              "media_key": "3_2089227475427762176",
+              "start": 22,
+              "url": "https://t.co/Clr9uGBHJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089574348097286147",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089227475427762176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089227486098035051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bnli270777: TWINS https://t.co/Clr9uGBHJ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089227475427762176"
+          ]
+        },
+        "author_id": "1800072059214598144",
+        "conversation_id": "2089227486098035051",
+        "created_at": "2026-08-17T05:47:03.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T06:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089227486098035051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Clr9uGBHJ4",
+              "end": 29,
+              "expanded_url": "https://x.com/bnli270777/status/2089227486098035051/photo/1",
+              "media_key": "3_2089227475427762176",
+              "start": 6,
+              "url": "https://t.co/Clr9uGBHJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089227486098035051",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089227475427762176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 23104,
+          "like_count": 4238,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 564
+        },
+        "reply_settings": "everyone",
+        "text": "TWINS https://t.co/Clr9uGBHJ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089574348097286147",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 489,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-10T07:47:09.000Z",
+        "description": "God Dammit//🇨🇳 🇺🇸 🇲🇲通用                    \n 10后            转载图片标明我的ID\n 外语回复都是翻译器",
+        "id": "1800072059214598144",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2089547809209147715",
+        "name": "U-M",
+        "pinned_tweet_id": "2053865036775579942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800072059214598144/1778326370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 55,
+          "like_count": 2724,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "bnli270777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

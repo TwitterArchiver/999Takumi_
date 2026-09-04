@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086100043623264256"
+      ],
+      "media_source_tweet_id": [
+        "2086100053916111164"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2086364919725973712",
+    "created_at": "2026-08-09T08:12:14.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086364919725973712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831799924805050368",
+          "start": 3,
+          "username": "byamarachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NMfPRUmjPM",
+          "end": 39,
+          "expanded_url": "https://x.com/byamarachi/status/2086100053916111164/photo/1",
+          "media_key": "3_2086100043623264256",
+          "start": 16,
+          "url": "https://t.co/NMfPRUmjPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086364919725973712",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086100043623264256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086100053916111164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @byamarachi: https://t.co/NMfPRUmjPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2086100043623264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNQ7-IXcAAwbLF.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086100043623264256"
+          ]
+        },
+        "author_id": "1831799924805050368",
+        "conversation_id": "2086100053916111164",
+        "created_at": "2026-08-08T14:39:45.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086100053916111164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMfPRUmjPM",
+              "end": 23,
+              "expanded_url": "https://x.com/byamarachi/status/2086100053916111164/photo/1",
+              "media_key": "3_2086100043623264256",
+              "start": 0,
+              "url": "https://t.co/NMfPRUmjPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086100053916111164",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086100043623264256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 92057,
+          "like_count": 7304,
+          "quote_count": 24,
+          "reply_count": 22,
+          "retweet_count": 2747
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NMfPRUmjPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086100043623264256"
+          ],
+          "media_source_tweet_id": [
+            "2086100053916111164"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2086364919725973712",
+        "created_at": "2026-08-09T08:12:14.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086364919725973712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831799924805050368",
+              "start": 3,
+              "username": "byamarachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMfPRUmjPM",
+              "end": 39,
+              "expanded_url": "https://x.com/byamarachi/status/2086100053916111164/photo/1",
+              "media_key": "3_2086100043623264256",
+              "start": 16,
+              "url": "https://t.co/NMfPRUmjPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086364919725973712",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086100043623264256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086100053916111164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @byamarachi: https://t.co/NMfPRUmjPM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "1nmru_"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 92,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 69,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2086364919725973712",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 524,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T21:02:01.000Z",
+        "description": "☁️🧘🏽‍♀️| bloom at your own time",
+        "id": "1831799924805050368",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086357148892647487",
+        "name": "𝝑𝝔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831799924805050368/1766946380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989947553568210946/u4f96xul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24749,
+          "following_count": 524,
+          "like_count": 46657,
+          "listed_count": 57,
+          "media_count": 2822,
+          "tweet_count": 7827
+        },
+        "url": "",
+        "username": "byamarachi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

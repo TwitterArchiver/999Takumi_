@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2089390318974324887",
+    "created_at": "2026-08-17T16:34:05.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089390318974324887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947520163999584258",
+          "start": 3,
+          "username": "Hayukoo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089390318974324887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086165693834350651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hayukoo233: 🔝自介/交友条\ncn：hayuko /生心女/0531/ip上海\n我喜欢恋跳的恋恋和超天酱糖糖\n我搞的ip很杂，什么都搞一点，喜欢cos画同人\n上海的女孩子可以找我一起搞同ip一起出cos\n可以来找我打游戏，steam好友1913196180…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2086163742467952640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOK3u0aEAA0AFx.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2086163887901327361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOLAMmbQAEyb2a.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086163889390342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOLASJb0AA-Kgj.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2086163942485987328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOLDX8bEAAfT2W.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2089390318974324887",
+        "created_at": "2026-08-17T16:34:05.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089390318974324887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947520163999584258",
+              "start": 3,
+              "username": "Hayukoo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089390318974324887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086165693834350651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hayukoo233: 🔝自介/交友条\ncn：hayuko /生心女/0531/ip上海\n我喜欢恋跳的恋恋和超天酱糖糖\n我搞的ip很杂，什么都搞一点，喜欢cos画同人\n上海的女孩子可以找我一起搞同ip一起出cos\n可以来找我打游戏，steam好友1913196180…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086163742467952640",
+            "3_2086163887901327361",
+            "3_2086163889390342144",
+            "3_2086163942485987328"
+          ]
+        },
+        "author_id": "1947520163999584258",
+        "conversation_id": "2086165693834350651",
+        "created_at": "2026-08-08T19:00:35.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086165693834350651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9URVP826xu",
+              "end": 188,
+              "expanded_url": "https://x.com/Hayukoo233/status/2086165693834350651/photo/1",
+              "media_key": "3_2086163742467952640",
+              "start": 165,
+              "url": "https://t.co/9URVP826xu"
+            },
+            {
+              "display_url": "pic.x.com/9URVP826xu",
+              "end": 188,
+              "expanded_url": "https://x.com/Hayukoo233/status/2086165693834350651/photo/1",
+              "media_key": "3_2086163887901327361",
+              "start": 165,
+              "url": "https://t.co/9URVP826xu"
+            },
+            {
+              "display_url": "pic.x.com/9URVP826xu",
+              "end": 188,
+              "expanded_url": "https://x.com/Hayukoo233/status/2086165693834350651/photo/1",
+              "media_key": "3_2086163889390342144",
+              "start": 165,
+              "url": "https://t.co/9URVP826xu"
+            },
+            {
+              "display_url": "pic.x.com/9URVP826xu",
+              "end": 188,
+              "expanded_url": "https://x.com/Hayukoo233/status/2086165693834350651/photo/1",
+              "media_key": "3_2086163942485987328",
+              "start": 165,
+              "url": "https://t.co/9URVP826xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086165693834350651",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086163742467952640"
+          },
+          {
+            "media_key": "3_2086163887901327361"
+          },
+          {
+            "media_key": "3_2086163889390342144"
+          },
+          {
+            "media_key": "3_2086163942485987328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6623,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝自介/交友条\ncn：hayuko /生心女/0531/ip上海\n我喜欢恋跳的恋恋和超天酱糖糖\n我搞的ip很杂，什么都搞一点，喜欢cos画同人\n上海的女孩子可以找我一起搞同ip一起出cos\n可以来找我打游戏，steam好友1913196180 \n我很温良只要不带有那方面想法来跟我聊天交朋友，我都很欢迎，不要对我包有那方面的幻想 https://t.co/9URVP826xu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089390318974324887",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 488,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T04:52:53.000Z",
+        "description": "自言自语/cosplay/画画/身心女\nip上海 /互fo查成分，喜欢我可以交友，打游戏都欢迎\n包有某种目的来的我直接草拟吗",
+        "id": "1947520163999584258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089144377524580771",
+        "name": "Hayuko233",
+        "pinned_tweet_id": "2086165693834350651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947520163999584258/1786214117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064015117419970560/A2gu8hFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 151,
+          "like_count": 1070,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Hayukoo233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

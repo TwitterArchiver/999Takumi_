@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2087631469376389430",
+    "created_at": "2026-08-13T17:57:35.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087961781692162159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1837542721298616320",
+          "start": 0,
+          "username": "Yosameko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087961781692162159",
+    "in_reply_to_user_id": "1837542721298616320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087631469376389430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yosameko 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2087631469376389430",
+        "created_at": "2026-08-13T17:57:35.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087961781692162159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1837542721298616320",
+              "start": 0,
+              "username": "Yosameko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087961781692162159",
+        "in_reply_to_user_id": "1837542721298616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087631469376389430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yosameko 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837542721298616320",
+        "conversation_id": "2087631469376389430",
+        "created_at": "2026-08-12T20:05:03.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087631469376389430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087631469376389430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3082,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "18了，祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2087961781692162159",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 526,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T17:21:55.000Z",
+        "description": "喜欢猫咪",
+        "id": "1837542721298616320",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087631469376389430",
+        "name": "长禾",
+        "pinned_tweet_id": "2065999689464586550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837542721298616320/1755934438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942114129327841280/00ON8H3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 47,
+          "like_count": 7652,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "Yosameko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

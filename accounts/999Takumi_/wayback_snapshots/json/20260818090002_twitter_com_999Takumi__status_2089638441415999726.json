@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2089638441415999726",
+    "created_at": "2026-08-18T09:00:02.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089638441415999726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089638441415999726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们七夕约会可以带上我吗？我坐在旁边吃 你们亲嘴我就闭眼吃 你们约会肯定不好意思吃太多 点那么多菜那不是浪费了吗 带我去可以不浪费粮食 我保证不说话只吃东西。对了我想吃火锅烤肉西餐饭后可以吃点水果甜点奶茶啥的 而且你们约会肯定不好意思让对方花钱 那不就没有消费的乐趣了吗 你们可以给我买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2089638441415999726",
+        "created_at": "2026-08-18T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089638441415999726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089638441415999726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们七夕约会可以带上我吗？我坐在旁边吃 你们亲嘴我就闭眼吃 你们约会肯定不好意思吃太多 点那么多菜那不是浪费了吗 带我去可以不浪费粮食 我保证不说话只吃东西。对了我想吃火锅烤肉西餐饭后可以吃点水果甜点奶茶啥的 而且你们约会肯定不好意思让对方花钱 那不就没有消费的乐趣了吗 你们可以给我买"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089638441415999726",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 488,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

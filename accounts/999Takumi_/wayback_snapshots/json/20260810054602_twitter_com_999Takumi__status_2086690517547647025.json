@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074488526184591363",
+        "3_2074488526239080448",
+        "13_2074488764055851008",
+        "3_2074488527019257856"
+      ],
+      "media_source_tweet_id": [
+        "2074489311433818415",
+        "2074489311433818415",
+        "2074489311433818415",
+        "2074489311433818415"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2086690517547647025",
+    "created_at": "2026-08-10T05:46:02.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086690517547647025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950521580288884736",
+          "start": 3,
+          "username": "AmeKam10623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JJ9qygiwCm",
+          "end": 110,
+          "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+          "media_key": "3_2074488526184591363",
+          "start": 87,
+          "url": "https://t.co/JJ9qygiwCm"
+        },
+        {
+          "display_url": "pic.x.com/JJ9qygiwCm",
+          "end": 110,
+          "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+          "media_key": "3_2074488526239080448",
+          "start": 87,
+          "url": "https://t.co/JJ9qygiwCm"
+        },
+        {
+          "display_url": "pic.x.com/JJ9qygiwCm",
+          "end": 110,
+          "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+          "media_key": "13_2074488764055851008",
+          "start": 87,
+          "url": "https://t.co/JJ9qygiwCm"
+        },
+        {
+          "display_url": "pic.x.com/JJ9qygiwCm",
+          "end": 110,
+          "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+          "media_key": "3_2074488527019257856",
+          "start": 87,
+          "url": "https://t.co/JJ9qygiwCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086690517547647025",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2074488526184591363"
+      },
+      {
+        "media_key": "3_2074488526239080448"
+      },
+      {
+        "media_key": "13_2074488764055851008"
+      },
+      {
+        "media_key": "3_2074488527019257856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074489311433818415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeKam10623: 我晕了最近好缺钱啊有没有单主想给我一个单子\n小宝贝们帮我转转好嘛我抽奖\n🎁抽一个52三个20\n包路費可以飞目前坐标重庆求你们了给我一个单子 https://t.co/JJ9qygiwCm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2074488526184591363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoQUs3bMAMrHsy.jpg",
+        "width": 682
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074488526239080448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoQUtEaoAAEMls.jpg",
+        "width": 1537
+      },
+      {
+        "duration_ms": 9700,
+        "height": 1280,
+        "media_key": "13_2074488764055851008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074488764055851008/img/TH6EDT9X8K43MT3v.jpg",
+        "public_metrics": {
+          "view_count": 3419
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074488764055851008/vid/avc1/320x568/6gAgVQocHctta3DN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074488764055851008/vid/avc1/480x852/23IVw09BkbqPVROG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074488764055851008/vid/avc1/720x1280/tfYZhg18JB-ije10.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074488764055851008/pl/wEhQTiZKhWZVbU-L.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1234,
+        "media_key": "3_2074488527019257856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoQUv-bMAAtGaL.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074488526184591363",
+            "3_2074488526239080448",
+            "13_2074488764055851008",
+            "3_2074488527019257856"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "2074489311433818415",
+        "created_at": "2026-07-07T13:42:48.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074489311433818415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 93,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488526184591363",
+              "start": 70,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 93,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488526239080448",
+              "start": 70,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 93,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "13_2074488764055851008",
+              "start": 70,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 93,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488527019257856",
+              "start": 70,
+              "url": "https://t.co/JJ9qygiwCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074489311433818415",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2074488526184591363"
+          },
+          {
+            "media_key": "3_2074488526239080448"
+          },
+          {
+            "media_key": "13_2074488764055851008"
+          },
+          {
+            "media_key": "3_2074488527019257856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14090,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我晕了最近好缺钱啊有没有单主想给我一个单子\n小宝贝们帮我转转好嘛我抽奖\n🎁抽一个52三个20\n包路費可以飞目前坐标重庆求你们了给我一个单子 https://t.co/JJ9qygiwCm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074488526184591363",
+            "3_2074488526239080448",
+            "13_2074488764055851008",
+            "3_2074488527019257856"
+          ],
+          "media_source_tweet_id": [
+            "2074489311433818415",
+            "2074489311433818415",
+            "2074489311433818415",
+            "2074489311433818415"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2086690517547647025",
+        "created_at": "2026-08-10T05:46:02.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086690517547647025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950521580288884736",
+              "start": 3,
+              "username": "AmeKam10623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 110,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488526184591363",
+              "start": 87,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 110,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488526239080448",
+              "start": 87,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 110,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "13_2074488764055851008",
+              "start": 87,
+              "url": "https://t.co/JJ9qygiwCm"
+            },
+            {
+              "display_url": "pic.x.com/JJ9qygiwCm",
+              "end": 110,
+              "expanded_url": "https://x.com/AmeKam10623/status/2074489311433818415/video/1",
+              "media_key": "3_2074488527019257856",
+              "start": 87,
+              "url": "https://t.co/JJ9qygiwCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086690517547647025",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2074488526184591363"
+          },
+          {
+            "media_key": "3_2074488526239080448"
+          },
+          {
+            "media_key": "13_2074488764055851008"
+          },
+          {
+            "media_key": "3_2074488527019257856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074489311433818415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeKam10623: 我晕了最近好缺钱啊有没有单主想给我一个单子\n小宝贝们帮我转转好嘛我抽奖\n🎁抽一个52三个20\n包路費可以飞目前坐标重庆求你们了给我一个单子 https://t.co/JJ9qygiwCm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "1nmru_"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 92,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 69,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2086690517547647025",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 530,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "坐标重庆/不定时去江浙沪 接线下包路費可🛩️",
+        "id": "1950521580288884736",
+        "is_identity_verified": false,
+        "location": "🚪199/288/388/520",
+        "most_recent_tweet_id": "2077614962592432574",
+        "name": "血",
+        "pinned_tweet_id": "1985976851093995534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1950521580288884736/1759548486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033661883077824512/e6G9Du_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6630,
+          "following_count": 130,
+          "like_count": 413,
+          "listed_count": 14,
+          "media_count": 71,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "AmeKam10623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

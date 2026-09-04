@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2086820053887164445",
+    "created_at": "2026-08-11T12:41:24.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087157432678260881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087157432678260881",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087135891890270690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer 已经生理性厌恶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2086820053887164445",
+        "created_at": "2026-08-11T12:41:24.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087157432678260881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087157432678260881",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087135891890270690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer 已经生理性厌恶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2086820053887164445",
+        "created_at": "2026-08-11T11:15:48.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087135891890270690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884772546111049728",
+              "start": 0,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087135891890270690",
+        "in_reply_to_user_id": "1884772546111049728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086820053887164445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@999Takumi_ 一群機器人我哭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2087157432678260881",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 528,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 酗酒嗑藥很溫良 非國人約的別找我我雙相精分自傷 傻逼死好了 查成分回fo\n匿名問👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tristesse_demer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tristesse_demer",
+                "start": 0,
+                "url": "https://t.co/VKVrwx3qbd"
+              }
+            ]
+          }
+        },
+        "id": "1850329593728917504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087156775329907026",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2078689056666333344",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850329593728917504/1756528813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078675461190627328/-QRb2quF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 452,
+          "like_count": 5768,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/VKVrwx3qbd",
+        "username": "Tristesse_demer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

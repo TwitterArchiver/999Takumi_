@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2086360581792252405",
+    "created_at": "2026-08-09T07:55:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086360581792252405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1260972782671855623",
+          "start": 3,
+          "username": "bobokiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086360581792252405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086229211921211791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bobokiui: 自取其辱15件套\n1.你在干嘛\n2.你对我好敷衍\n3.为什么不回我消息\n4.你不喜欢我了吗\n5.你之前不是这样的\n6.我们现在是什么关系\n7.我很烦吗\n8.你变了\n9.你之前不是答应过我了吗\n10.你又骗我\n11.我讨厌你\n12.你在忙是吗\n13.那…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2086360581792252405",
+        "created_at": "2026-08-09T07:55:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086360581792252405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1260972782671855623",
+              "start": 3,
+              "username": "bobokiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086360581792252405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086229211921211791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bobokiui: 自取其辱15件套\n1.你在干嘛\n2.你对我好敷衍\n3.为什么不回我消息\n4.你不喜欢我了吗\n5.你之前不是这样的\n6.我们现在是什么关系\n7.我很烦吗\n8.你变了\n9.你之前不是答应过我了吗\n10.你又骗我\n11.我讨厌你\n12.你在忙是吗\n13.那…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260972782671855623",
+        "conversation_id": "2086229211921211791",
+        "created_at": "2026-08-08T23:12:59.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T00:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086229211921211791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086229211921211791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 8937,
+          "like_count": 214,
+          "quote_count": 17,
+          "reply_count": 21,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "自取其辱15件套\n1.你在干嘛\n2.你对我好敷衍\n3.为什么不回我消息\n4.你不喜欢我了吗\n5.你之前不是这样的\n6.我们现在是什么关系\n7.我很烦吗\n8.你变了\n9.你之前不是答应过我了吗\n10.你又骗我\n11.我讨厌你\n12.你在忙是吗\n13.那你忙吧 忙完记得回我消息\n14.对不起\n15.我好想你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "1nmru_"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 92,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 69,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2086360581792252405",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 525,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-14T16:38:46.000Z",
+        "description": "很无聊的普通人/这是我的地盘",
+        "id": "1260972782671855623",
+        "is_identity_verified": false,
+        "location": "天堂是我家",
+        "most_recent_tweet_id": "2086229211921211791",
+        "name": "一只猫",
+        "pinned_tweet_id": "1732562296533115369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260972782671855623/1726196757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875396502098411520/KkuRViA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 297,
+          "like_count": 6480,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 4104
+        },
+        "url": "",
+        "username": "bobokiui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086345932225073152"
+      ],
+      "media_source_tweet_id": [
+        "2086345944996659524"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086671337293271042",
+    "created_at": "2026-08-10T04:29:49.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086671337293271042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083081810859466752",
+          "start": 3,
+          "username": "yuzhazha69"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsTBdXdYlg",
+          "end": 58,
+          "expanded_url": "https://x.com/yuzhazha69/status/2086345944996659524/photo/1",
+          "media_key": "3_2086345932225073152",
+          "start": 35,
+          "url": "https://t.co/zsTBdXdYlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086671337293271042",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086345932225073152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086345944996659524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzhazha69: 我是炸玉 大号又被封了 求帮转🥺🥺🥺 https://t.co/zsTBdXdYlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2086345932225073152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQwkkjbUAA71S3.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086345932225073152"
+          ]
+        },
+        "author_id": "2083081810859466752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086345944996659524",
+        "created_at": "2026-08-09T06:56:50.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086345944996659524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsTBdXdYlg",
+              "end": 42,
+              "expanded_url": "https://x.com/yuzhazha69/status/2086345944996659524/photo/1",
+              "media_key": "3_2086345932225073152",
+              "start": 19,
+              "url": "https://t.co/zsTBdXdYlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086345944996659524",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086345932225073152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2149,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我是炸玉 大号又被封了 求帮转🥺🥺🥺 https://t.co/zsTBdXdYlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086345932225073152"
+          ],
+          "media_source_tweet_id": [
+            "2086345944996659524"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086671337293271042",
+        "created_at": "2026-08-10T04:29:49.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086671337293271042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083081810859466752",
+              "start": 3,
+              "username": "yuzhazha69"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsTBdXdYlg",
+              "end": 58,
+              "expanded_url": "https://x.com/yuzhazha69/status/2086345944996659524/photo/1",
+              "media_key": "3_2086345932225073152",
+              "start": 35,
+              "url": "https://t.co/zsTBdXdYlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086671337293271042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086345932225073152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086345944996659524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzhazha69: 我是炸玉 大号又被封了 求帮转🥺🥺🥺 https://t.co/zsTBdXdYlg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "1nmru_"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 92,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 69,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2086671337293271042",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 530,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086671325880590347",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 95,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

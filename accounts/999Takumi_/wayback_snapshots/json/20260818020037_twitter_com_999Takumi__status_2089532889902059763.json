@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2089404008842871214",
+    "created_at": "2026-08-18T02:00:37.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089532889902059763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089532889902059763",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089404008842871214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skura_ku 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2089404002882752512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8N3tgbEAAlkzC.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2089404008842871214",
+        "created_at": "2026-08-18T02:00:37.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089532889902059763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089532889902059763",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089404008842871214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skura_ku 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089404002882752512"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "2089404008842871214",
+        "created_at": "2026-08-17T17:28:29.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089404008842871214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1C0ZclHCE",
+              "end": 31,
+              "expanded_url": "https://x.com/skura_ku/status/2089404008842871214/photo/1",
+              "media_key": "3_2089404002882752512",
+              "start": 8,
+              "url": "https://t.co/s1C0ZclHCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089404008842871214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089404002882752512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 917,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐！ https://t.co/s1C0ZclHCE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089532889902059763",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 488,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💙🌍 神@nagaikousi_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "nagaikousi_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UFB7LOMI2R6F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/uTbdtOmXZG"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089410895701287123",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "2087782412197765452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529112019013861376/1743151634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084839645486202880/uO_Cyg5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20920,
+          "following_count": 390,
+          "like_count": 16972,
+          "listed_count": 67,
+          "media_count": 951,
+          "tweet_count": 7179
+        },
+        "url": "https://t.co/uTbdtOmXZG",
+        "username": "skura_ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

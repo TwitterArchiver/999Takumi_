@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085986879984250880"
+      ],
+      "media_source_tweet_id": [
+        "2085986882354024858"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2086359371911713239",
+    "created_at": "2026-08-09T07:50:11.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086359371911713239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1133355060732354560",
+          "start": 3,
+          "username": "animeposts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRPXlCM35v",
+          "end": 41,
+          "expanded_url": "https://x.com/animeposts/status/2085986882354024858/photo/1",
+          "media_key": "3_2085986879984250880",
+          "start": 18,
+          "url": "https://t.co/nRPXlCM35v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086359371911713239",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2085986879984250880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3819
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085986882354024858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animeposts: 😭 https://t.co/nRPXlCM35v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2085986879984250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLqA-uWMAAivUH.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085986879984250880"
+          ]
+        },
+        "author_id": "1133355060732354560",
+        "conversation_id": "2085986882354024858",
+        "created_at": "2026-08-08T07:10:03.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085986882354024858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRPXlCM35v",
+              "end": 25,
+              "expanded_url": "https://x.com/animeposts/status/2085986882354024858/photo/1",
+              "media_key": "3_2085986879984250880",
+              "start": 2,
+              "url": "https://t.co/nRPXlCM35v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085986882354024858",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2085986879984250880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1559,
+          "impression_count": 502461,
+          "like_count": 36796,
+          "quote_count": 79,
+          "reply_count": 118,
+          "retweet_count": 3819
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/nRPXlCM35v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085986879984250880"
+          ],
+          "media_source_tweet_id": [
+            "2085986882354024858"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2086359371911713239",
+        "created_at": "2026-08-09T07:50:11.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086359371911713239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1133355060732354560",
+              "start": 3,
+              "username": "animeposts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRPXlCM35v",
+              "end": 41,
+              "expanded_url": "https://x.com/animeposts/status/2085986882354024858/photo/1",
+              "media_key": "3_2085986879984250880",
+              "start": 18,
+              "url": "https://t.co/nRPXlCM35v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086359371911713239",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2085986879984250880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3819
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085986882354024858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animeposts: 😭 https://t.co/nRPXlCM35v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "1nmru_"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 92,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 69,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2086359371911713239",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 525,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-28T12:51:17.000Z",
+        "description": "Posting Daily Anime Content",
+        "id": "1133355060732354560",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086356815529263381",
+        "name": "Anime Posts",
+        "pinned_tweet_id": "2085473494742004127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133355060732354560/1761618131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982996644514648064/8vIjFeVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817524,
+          "following_count": 48,
+          "like_count": 5751,
+          "listed_count": 731,
+          "media_count": 14857,
+          "tweet_count": 15387
+        },
+        "url": "",
+        "username": "animeposts",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

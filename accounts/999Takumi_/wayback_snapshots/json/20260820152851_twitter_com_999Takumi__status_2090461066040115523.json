@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2090455424512504272",
+    "created_at": "2026-08-20T15:28:51.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090461066040115523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090461066040115523",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090455424512504272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 祈祷一个没有眼泪的一生"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090455424512504272].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090455424512504272",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090455424512504272"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2090455424512504272",
+        "created_at": "2026-08-20T15:28:51.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090461066040115523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090461066040115523",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090455424512504272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 祈祷一个没有眼泪的一生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2090461066040115523",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 482,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "Desperado 邊緣人\n🇭🇰｜loser joker gooner｜這只是一個小號",
+        "id": "1938823083835396096",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2006050594226622842",
+        "name": "Ni Dios estudia al",
+        "pinned_tweet_id": "2086113351957156180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938823083835396096/1782495430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574208509272065/3QP1x93__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 169,
+          "like_count": 11611,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 4712
+        },
+        "url": "",
+        "username": "VaguelyHuman233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

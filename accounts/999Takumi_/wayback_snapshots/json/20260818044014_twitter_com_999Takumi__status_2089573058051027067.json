@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2089573058051027067",
+    "created_at": "2026-08-18T04:40:14.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089573058051027067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ADantonyms/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ADantonyms/status/2089359074509103610",
+          "start": 14,
+          "url": "https://t.co/Upk1j84ksC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089573058051027067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089359074509103610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持碇源堂的人类补全计划 https://t.co/Upk1j84ksC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14489,
+        "height": 3840,
+        "media_key": "13_2089358941352525824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089358941352525824/img/thvs5CKuOs9RtA0d.jpg",
+        "public_metrics": {
+          "view_count": 428297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/vid/avc1/320x568/5KHIvEn8bYmD1xHZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/vid/avc1/1080x1920/hLSjFqhu4_OHK7C-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/vid/avc1/720x1280/WY2JEAdo1k3qDqv6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/pl/akgrOvYLjLZksY_Y.m3u8?v=7f3"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/vid/avc1/480x852/yIx0F6pKxpiVCF6m.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358941352525824/vid/avc1/2160x3840/0zfDlmwIvnywEOeY.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2089573058051027067",
+        "created_at": "2026-08-18T04:40:14.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089573058051027067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ADantonyms/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ADantonyms/status/2089359074509103610",
+              "start": 14,
+              "url": "https://t.co/Upk1j84ksC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089573058051027067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089359074509103610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持碇源堂的人类补全计划 https://t.co/Upk1j84ksC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089358941352525824"
+          ]
+        },
+        "author_id": "1763910484107968512",
+        "conversation_id": "2089359074509103610",
+        "created_at": "2026-08-17T14:29:56.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089359074509103610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okSkgCn1XL",
+              "end": 50,
+              "expanded_url": "https://x.com/ADantonyms/status/2089359074509103610/video/1",
+              "media_key": "13_2089358941352525824",
+              "start": 27,
+              "url": "https://t.co/okSkgCn1XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089359074509103610",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089358941352525824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2537,
+          "impression_count": 924074,
+          "like_count": 14141,
+          "quote_count": 99,
+          "reply_count": 341,
+          "retweet_count": 1314
+        },
+        "reply_settings": "everyone",
+        "text": "Nuke the entire planet 🥀🥀🥀 https://t.co/okSkgCn1XL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089573058051027067",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 489,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-02T12:53:40.000Z",
+        "description": "",
+        "id": "1763910484107968512",
+        "is_identity_verified": true,
+        "location": "thinking",
+        "most_recent_tweet_id": "2089359074509103610",
+        "name": "ADantonyms",
+        "pinned_tweet_id": "2089359074509103610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763910484107968512/1781696636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078307866956722176/Pa6HCyaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 1145,
+          "like_count": 60180,
+          "listed_count": 8,
+          "media_count": 3255,
+          "tweet_count": 37693
+        },
+        "url": "",
+        "username": "ADantonyms",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

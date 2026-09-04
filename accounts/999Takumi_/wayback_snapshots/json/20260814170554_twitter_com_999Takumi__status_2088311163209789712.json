@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088311156784128000"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "conversation_id": "2088311163209789712",
+    "created_at": "2026-08-14T17:05:54.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088311163209789712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kb3STwynf0",
+          "end": 155,
+          "expanded_url": "https://x.com/999Takumi_/status/2088311163209789712/photo/1",
+          "media_key": "3_2088311156784128000",
+          "start": 132,
+          "url": "https://t.co/kb3STwynf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088311163209789712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088311156784128000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭， 我真的很无力，我奶送我的玉佩炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了， 菩萨也断臂求生了， 黄金银器全发黑了 ，我额头越来越黑了 ，我好崩溃 https://t.co/kb3STwynf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2088311156784128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsr7siaYAA8m7g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088311156784128000"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2088311163209789712",
+        "created_at": "2026-08-14T17:05:54.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088311163209789712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kb3STwynf0",
+              "end": 155,
+              "expanded_url": "https://x.com/999Takumi_/status/2088311163209789712/photo/1",
+              "media_key": "3_2088311156784128000",
+              "start": 132,
+              "url": "https://t.co/kb3STwynf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088311163209789712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088311156784128000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白，我一个普通的老百姓，为什么要让我看这些，我真的很崩溃，我真的好想哭， 我真的很无力，我奶送我的玉佩炸了，我爷给我的符纸自燃了，我拜过的神仙陨落了，给我护道的狐仙被配，家里玉佩全碎了， 菩萨也断臂求生了， 黄金银器全发黑了 ，我额头越来越黑了 ，我好崩溃 https://t.co/kb3STwynf0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2088311163209789712",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1785853630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 496,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

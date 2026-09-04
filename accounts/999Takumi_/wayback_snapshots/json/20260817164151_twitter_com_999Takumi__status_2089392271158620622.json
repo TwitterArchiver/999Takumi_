@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089206347082706944"
+      ],
+      "media_source_tweet_id": [
+        "2089247053960679820"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089392271158620622",
+    "created_at": "2026-08-17T16:41:51.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089392271158620622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904143635563872256",
+          "start": 3,
+          "username": "dogewlfi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AL1Zeicuvz",
+          "end": 64,
+          "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820/video/1",
+          "media_key": "13_2089206347082706944",
+          "start": 41,
+          "url": "https://t.co/AL1Zeicuvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089392271158620622",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089206347082706944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1687
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089247053960679820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogewlfi: 找到了 牛来 电影的完整版本 大家不用担心被下架啦。 https://t.co/AL1Zeicuvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5186873,
+        "height": 480,
+        "media_key": "13_2089206347082706944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089206347082706944/img/mZokIaEV4vmnED9Y.jpg",
+        "public_metrics": {
+          "view_count": 398359
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/478x270/hxAR04UYTYi6FBgn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/638x360/5yOfAKbjLn9FV8ex.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/852x480/LNmI7TM9maM4Gf-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/pl/n-9uKoaRLGb2M1hn.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089206347082706944"
+          ],
+          "media_source_tweet_id": [
+            "2089247053960679820"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089392271158620622",
+        "created_at": "2026-08-17T16:41:51.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089392271158620622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904143635563872256",
+              "start": 3,
+              "username": "dogewlfi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL1Zeicuvz",
+              "end": 64,
+              "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820/video/1",
+              "media_key": "13_2089206347082706944",
+              "start": 41,
+              "url": "https://t.co/AL1Zeicuvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089392271158620622",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089206347082706944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1687
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089247053960679820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogewlfi: 找到了 牛来 电影的完整版本 大家不用担心被下架啦。 https://t.co/AL1Zeicuvz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089206347082706944"
+          ]
+        },
+        "author_id": "1904143635563872256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089247053960679820",
+        "created_at": "2026-08-17T07:04:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089247053960679820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL1Zeicuvz",
+              "end": 50,
+              "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820/video/1",
+              "media_key": "13_2089206347082706944",
+              "start": 27,
+              "url": "https://t.co/AL1Zeicuvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089247053960679820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089206347082706944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7965,
+          "impression_count": 895815,
+          "like_count": 16039,
+          "quote_count": 178,
+          "reply_count": 507,
+          "retweet_count": 1696
+        },
+        "reply_settings": "everyone",
+        "text": "找到了 牛来 电影的完整版本 大家不用担心被下架啦。 https://t.co/AL1Zeicuvz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2089392271158620622",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 487,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-24T12:10:14.000Z",
+        "description": "#狗狗币 10X建设者   | $WLFI $DOGE 持有者 💎✋️ ⚠️ 推文非投资建议 · DYOR",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "WLFI"
+              },
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "DOGE"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1904143635563872256",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089390183376670745",
+        "name": "JY",
+        "pinned_tweet_id": "1935730484400783813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904143635563872256/1786190848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083191924530532352/DC9tZnGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13024,
+          "following_count": 8386,
+          "like_count": 36839,
+          "listed_count": 18,
+          "media_count": 1209,
+          "tweet_count": 15344
+        },
+        "url": "",
+        "username": "dogewlfi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

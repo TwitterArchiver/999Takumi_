@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884772546111049728",
+    "conversation_id": "2085378812498542627",
+    "created_at": "2026-08-06T16:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085401191270560202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084648559308378112",
+          "start": 0,
+          "username": "iiiiyuuuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085401191270560202",
+    "in_reply_to_user_id": "2084648559308378112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085378812498542627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiiiyuuuovo 必要时记得要好好照顾自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2085378812498542627",
+        "created_at": "2026-08-06T16:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085401191270560202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084648559308378112",
+              "start": 0,
+              "username": "iiiiyuuuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085401191270560202",
+        "in_reply_to_user_id": "2084648559308378112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085378812498542627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiiiyuuuovo 必要时记得要好好照顾自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084648559308378112",
+        "conversation_id": "2085378812498542627",
+        "created_at": "2026-08-06T14:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085378812498542627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085378812498542627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就回老家了 我不想回去 我跟我奶奶一点都不熟…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@Zhu171717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Zhu171717"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "距离你0.1km",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 516,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-04T14:40:11.000Z",
+        "description": "我想发什么发什么\n跟你们一起玩好幸福呀",
+        "id": "2084648559308378112",
+        "location": "🚪",
+        "name": "魚4.0",
+        "pinned_tweet_id": "2085012324432445841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084650943954694144/vyX4NKlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 22,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "iiiiyuuuovo",
+        "verified": false
+      }
+    ]
+  }
+}

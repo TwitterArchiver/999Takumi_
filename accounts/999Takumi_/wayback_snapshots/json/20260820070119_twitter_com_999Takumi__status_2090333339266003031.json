@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090282833877045248",
+        "3_2090282842215391232",
+        "3_2090282850088091648",
+        "3_2090282858648633344"
+      ],
+      "media_source_tweet_id": [
+        "2090282866299011223",
+        "2090282866299011223",
+        "2090282866299011223",
+        "2090282866299011223"
+      ]
+    },
+    "author_id": "1884772546111049728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090333339266003031",
+    "created_at": "2026-08-20T07:01:19.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090333339266003031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090032448050524161",
+          "start": 3,
+          "username": "Yuki1161taff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WdTMTr78AN",
+          "end": 41,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+          "media_key": "3_2090282833877045248",
+          "start": 18,
+          "url": "https://t.co/WdTMTr78AN"
+        },
+        {
+          "display_url": "pic.x.com/WdTMTr78AN",
+          "end": 41,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+          "media_key": "3_2090282842215391232",
+          "start": 18,
+          "url": "https://t.co/WdTMTr78AN"
+        },
+        {
+          "display_url": "pic.x.com/WdTMTr78AN",
+          "end": 41,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+          "media_key": "3_2090282850088091648",
+          "start": 18,
+          "url": "https://t.co/WdTMTr78AN"
+        },
+        {
+          "display_url": "pic.x.com/WdTMTr78AN",
+          "end": 41,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+          "media_key": "3_2090282858648633344",
+          "start": 18,
+          "url": "https://t.co/WdTMTr78AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090333339266003031",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090282833877045248"
+      },
+      {
+        "media_key": "3_2090282842215391232"
+      },
+      {
+        "media_key": "3_2090282850088091648"
+      },
+      {
+        "media_key": "3_2090282858648633344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090282866299011223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161taff: https://t.co/WdTMTr78AN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2090282833877045248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQItKaFWkAAE5ob.jpg",
+        "width": 1080
+      },
+      {
+        "height": 794,
+        "media_key": "3_2090282842215391232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQItK5JXoAAMz0m.jpg",
+        "width": 1029
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2090282850088091648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQItLWeXgAAPKRu.jpg",
+        "width": 929
+      },
+      {
+        "height": 1173,
+        "media_key": "3_2090282858648633344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQItL2XXAAAfRNo.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090282833877045248",
+            "3_2090282842215391232",
+            "3_2090282850088091648",
+            "3_2090282858648633344"
+          ],
+          "media_source_tweet_id": [
+            "2090282866299011223",
+            "2090282866299011223",
+            "2090282866299011223",
+            "2090282866299011223"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090333339266003031",
+        "created_at": "2026-08-20T07:01:19.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090333339266003031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090032448050524161",
+              "start": 3,
+              "username": "Yuki1161taff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 41,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282833877045248",
+              "start": 18,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 41,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282842215391232",
+              "start": 18,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 41,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282850088091648",
+              "start": 18,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 41,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282858648633344",
+              "start": 18,
+              "url": "https://t.co/WdTMTr78AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090333339266003031",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090282833877045248"
+          },
+          {
+            "media_key": "3_2090282842215391232"
+          },
+          {
+            "media_key": "3_2090282850088091648"
+          },
+          {
+            "media_key": "3_2090282858648633344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090282866299011223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161taff: https://t.co/WdTMTr78AN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090282833877045248",
+            "3_2090282842215391232",
+            "3_2090282850088091648",
+            "3_2090282858648633344"
+          ]
+        },
+        "author_id": "2090032448050524161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090282866299011223",
+        "created_at": "2026-08-20T03:40:45.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090282866299011223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282833877045248",
+              "start": 0,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282842215391232",
+              "start": 0,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282850088091648",
+              "start": 0,
+              "url": "https://t.co/WdTMTr78AN"
+            },
+            {
+              "display_url": "pic.x.com/WdTMTr78AN",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090282866299011223/photo/1",
+              "media_key": "3_2090282858648633344",
+              "start": 0,
+              "url": "https://t.co/WdTMTr78AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090282866299011223",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090282833877045248"
+          },
+          {
+            "media_key": "3_2090282842215391232"
+          },
+          {
+            "media_key": "3_2090282850088091648"
+          },
+          {
+            "media_key": "3_2090282858648633344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WdTMTr78AN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问https://t.co/XFaehGkC0X\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Zhu171717"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "1nmru_"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Takumieve77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/takumi80497",
+                "end": 86,
+                "expanded_url": "http://ngl.link/takumi80497",
+                "start": 63,
+                "url": "https://t.co/XFaehGkC0X"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "is_identity_verified": false,
+        "location": "距离您0.1km",
+        "most_recent_tweet_id": "2090333339266003031",
+        "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884772546111049728/1786786759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 479,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。",
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090295530207297657",
+        "name": "岐哥，梦想死了。5.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 87,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
