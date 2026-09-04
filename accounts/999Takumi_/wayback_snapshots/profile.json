@@ -1,8 +1,8 @@
 {
   "name": "⁺. ♡̷Takumi⁺ . ִ ֗",
   "username": "@999Takumi_",
-  "bio": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你 粪养小香猪:@Zhu171717",
-  "location": "距离你0.1km",
+  "bio": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/高三生/互fo/点赞就是喜欢你/匿名箱欢迎提问http://ngl.link/takumi80497\n肉块:@Zhu171717 @1nmru_\n防炸备用:@Takumieve77",
+  "location": "距离您0.1km",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,9 +10,28 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 86,
-        "start": 76,
+        "end": 100,
+        "start": 90,
         "username": "Zhu171717"
+      },
+      {
+        "end": 108,
+        "start": 101,
+        "username": "1nmru_"
+      },
+      {
+        "end": 126,
+        "start": 114,
+        "username": "Takumieve77"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/takumi80497",
+        "end": 86,
+        "expanded_url": "http://ngl.link/takumi80497",
+        "start": 63,
+        "url": "https://t.co/XFaehGkC0X"
       }
     ]
   },

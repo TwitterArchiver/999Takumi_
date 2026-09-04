@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-04T17:49:38",
+  "last_updated": "2026-09-04T17:51:53",
   "html": {
     "https://web.archive.org/web/20250711155458if_/https://twitter.com/999Takumi_/status/1943700553487327572": {
       "status": "done",
@@ -7303,9 +7303,9 @@
       "referenced_by": [
         "20250715141918_twitter_com_999Takumi__status_1945126028575113283.json"
       ],
-      "last_updated": "2026-08-07T15:12:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250715141918if_/https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd3f20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250715141918if_/https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ef9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1943328606341799936/DmsgPxl1_normal.jpg": {
       "status": "done",
@@ -7331,18 +7331,18 @@
         "20250801061653_twitter_com_999Takumi__status_1951165217368580152.json",
         "20250804005434_twitter_com_999Takumi__status_1952171269434351824.json"
       ],
-      "last_updated": "2026-08-07T15:12:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250804005434if_/https://pbs.twimg.com/profile_images/1900579565518602240/oCVdKfzu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd1ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250804005434if_/https://pbs.twimg.com/profile_images/1900579565518602240/oCVdKfzu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ec710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1945709031060127744/9L50MxQ9_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250717143319_twitter_com_999Takumi__status_1945854331338822010.json"
       ],
-      "last_updated": "2026-08-07T15:12:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717143319if_/https://pbs.twimg.com/profile_images/1945709031060127744/9L50MxQ9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd2b10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717143319if_/https://pbs.twimg.com/profile_images/1945709031060127744/9L50MxQ9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497eeea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1008849711459995648/fujHPGBm_normal.jpg": {
       "status": "done",
@@ -7363,9 +7363,9 @@
         "20250722000959_twitter_com_999Takumi__status_1947449005547585899.json",
         "20250722134918_twitter_com_999Takumi__status_1947655194575311145.json"
       ],
-      "last_updated": "2026-08-07T15:12:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250722134918if_/https://pbs.twimg.com/profile_images/1946560204319129600/qYvBG5vh_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc64380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250722134918if_/https://pbs.twimg.com/profile_images/1946560204319129600/qYvBG5vh_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497febd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1900199398664966144/01xWpveG_normal.jpg": {
       "status": "done",
@@ -7393,9 +7393,9 @@
         "20250727122053_twitter_com_999Takumi__status_1949444881740648955.json",
         "20250729051122_twitter_com_999Takumi__status_1950061566042288532.json"
       ],
-      "last_updated": "2026-08-07T15:12:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250729051122if_/https://pbs.twimg.com/profile_images/1947661058476544005/MYkhgC8C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc65550>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250729051122if_/https://pbs.twimg.com/profile_images/1947661058476544005/MYkhgC8C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ecda0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1948052448322428928/va6OBbnh_normal.jpg": {
       "status": "done",
@@ -7507,9 +7507,9 @@
       "referenced_by": [
         "20250725144005_twitter_com_999Takumi__status_1948755136429654335.json"
       ],
-      "last_updated": "2026-08-07T15:12:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250725144005if_/https://pbs.twimg.com/profile_images/1942166568693280768/00PGyaRj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc64050>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250725144005if_/https://pbs.twimg.com/profile_images/1942166568693280768/00PGyaRj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497fff20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg": {
       "status": "done",
@@ -7526,9 +7526,9 @@
       "referenced_by": [
         "20250727055645_twitter_com_999Takumi__status_1949348213561156070.json"
       ],
-      "last_updated": "2026-08-07T15:12:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250727055645if_/https://pbs.twimg.com/profile_images/1948558580149600256/kVNKpMN8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc64f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250727055645if_/https://pbs.twimg.com/profile_images/1948558580149600256/kVNKpMN8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8ce30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg": {
       "status": "failed",
@@ -7538,72 +7538,72 @@
         "20250728132502_twitter_com_999Takumi__status_1949823414811644240.json",
         "20250728233647_twitter_com_999Takumi__status_1949977364466749735.json"
       ],
-      "last_updated": "2026-08-07T15:12:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728233647if_/https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc64da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728233647if_/https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8dd60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1948640870389231616/ieMILTOd_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250728052340_twitter_com_999Takumi__status_1949702273682022655.json"
       ],
-      "last_updated": "2026-08-07T15:12:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1948640870389231616/ieMILTOd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd2270>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1948640870389231616/ieMILTOd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8c0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1883807079728918528/kfWCw0da_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250728052340_twitter_com_999Takumi__status_1949702273682022655.json"
       ],
-      "last_updated": "2026-08-07T15:12:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1883807079728918528/kfWCw0da_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc66ba0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1883807079728918528/kfWCw0da_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8cc50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1885072643386466305/uCTto1_b_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250728052340_twitter_com_999Takumi__status_1949702273682022655.json"
       ],
-      "last_updated": "2026-08-07T15:12:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1885072643386466305/uCTto1_b_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc65e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728052340if_/https://pbs.twimg.com/profile_images/1885072643386466305/uCTto1_b_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5e360>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1948843598058803201/opLIXZE2_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250728081522_twitter_com_999Takumi__status_1949745483032957257.json"
       ],
-      "last_updated": "2026-08-07T15:12:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728081522if_/https://pbs.twimg.com/profile_images/1948843598058803201/opLIXZE2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc30410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728081522if_/https://pbs.twimg.com/profile_images/1948843598058803201/opLIXZE2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8ef30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1949400243545505792/be2QYdwF_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250728223749_twitter_com_999Takumi__status_1949962528395502043.json"
       ],
-      "last_updated": "2026-08-07T15:12:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728223749if_/https://pbs.twimg.com/profile_images/1949400243545505792/be2QYdwF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf024e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250728223749if_/https://pbs.twimg.com/profile_images/1949400243545505792/be2QYdwF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8fda0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1950185139822350336/jPqZYhPL_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250729135041_twitter_com_999Takumi__status_1950192256830280154.json"
       ],
-      "last_updated": "2026-08-07T15:12:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250729135041if_/https://pbs.twimg.com/profile_images/1950185139822350336/jPqZYhPL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd3560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250729135041if_/https://pbs.twimg.com/profile_images/1950185139822350336/jPqZYhPL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8f320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1950260097164132354/gaWoHz9v_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250730014938_twitter_com_999Takumi__status_1950373187654693300.json"
       ],
-      "last_updated": "2026-08-07T15:12:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250730014938if_/https://pbs.twimg.com/profile_images/1950260097164132354/gaWoHz9v_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc67fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250730014938if_/https://pbs.twimg.com/profile_images/1950260097164132354/gaWoHz9v_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8c200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg": {
       "status": "failed",
@@ -7643,9 +7643,9 @@
         "20250823152729_twitter_com_999Takumi__status_1959276313975587059.json",
         "20250824125927_twitter_com_999Takumi__status_1959601447672422406.json"
       ],
-      "last_updated": "2026-08-07T15:12:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250824125927if_/https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc65d00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250824125927if_/https://pbs.twimg.com/profile_images/1950402769703358465/slWjxXMx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497eef30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/634514155261833216/czgYrPLQ_normal.jpg": {
       "status": "done",
@@ -7667,9 +7667,9 @@
         "20250731031648_twitter_com_999Takumi__status_1950757508890423654.json",
         "20250807113336_twitter_com_999Takumi__status_1953419249537478922.json"
       ],
-      "last_updated": "2026-08-07T15:12:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250807113336if_/https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd22d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250807113336if_/https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ef860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1922547405557530625/JzFSh5M8_normal.jpg": {
       "status": "done",
@@ -7683,9 +7683,9 @@
       "referenced_by": [
         "20250802081026_twitter_com_999Takumi__status_1951556183111954569.json"
       ],
-      "last_updated": "2026-08-07T15:12:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250802081026if_/https://pbs.twimg.com/profile_images/1949515289122713600/SJK7g6ZB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc67b30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250802081026if_/https://pbs.twimg.com/profile_images/1949515289122713600/SJK7g6ZB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5c950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1952211526443737088/M5F1fdmW_normal.jpg": {
       "status": "done",
@@ -7776,9 +7776,9 @@
       "referenced_by": [
         "20250805030904_twitter_com_999Takumi__status_1952567501864456445.json"
       ],
-      "last_updated": "2026-08-07T15:12:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250805030904if_/https://pbs.twimg.com/profile_images/1904166405731426305/EiZVo4HQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc33f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250805030904if_/https://pbs.twimg.com/profile_images/1904166405731426305/EiZVo4HQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5f860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1938824454441742336/08JW3LYz_normal.jpg": {
       "status": "failed",
@@ -7792,18 +7792,18 @@
         "20250830125132_twitter_com_999Takumi__status_1961773781032349920.json",
         "20251002100402_twitter_com_999Takumi__status_1973690428550709540.json"
       ],
-      "last_updated": "2026-08-07T15:12:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251002100402if_/https://pbs.twimg.com/profile_images/1938824454441742336/08JW3LYz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc326c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251002100402if_/https://pbs.twimg.com/profile_images/1938824454441742336/08JW3LYz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a8cbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1951941045198991360/lryZl5dy_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250805043349_twitter_com_999Takumi__status_1952588830969852399.json"
       ],
-      "last_updated": "2026-08-07T15:12:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250805043349if_/https://pbs.twimg.com/profile_images/1951941045198991360/lryZl5dy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc31e50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250805043349if_/https://pbs.twimg.com/profile_images/1951941045198991360/lryZl5dy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5d1c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg": {
       "status": "failed",
@@ -7816,36 +7816,36 @@
         "20250817130816_twitter_com_999Takumi__status_1957066949969486160.json",
         "20251031115426_twitter_com_999Takumi__status_1984227461488615693.json"
       ],
-      "last_updated": "2026-08-07T15:12:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031115426if_/https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc32510>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:50:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031115426if_/https://pbs.twimg.com/profile_images/1952264244231380992/Ku0nixtC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffd70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1946559870297116673/spaOKcdT_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250806144657_twitter_com_999Takumi__status_1953105521625710688.json"
       ],
-      "last_updated": "2026-08-07T15:12:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250806144657if_/https://pbs.twimg.com/profile_images/1946559870297116673/spaOKcdT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc65be0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250806144657if_/https://pbs.twimg.com/profile_images/1946559870297116673/spaOKcdT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffc80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1886736338285723648/rrFomZRY_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250807162301_twitter_com_999Takumi__status_1953492083005628513.json"
       ],
-      "last_updated": "2026-08-07T15:12:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250807162301if_/https://pbs.twimg.com/profile_images/1886736338285723648/rrFomZRY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc32b70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250807162301if_/https://pbs.twimg.com/profile_images/1886736338285723648/rrFomZRY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffe90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1952797887743524864/ejZCh4YB_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250808010551_twitter_com_999Takumi__status_1953623658561499377.json"
       ],
-      "last_updated": "2026-08-07T15:12:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808010551if_/https://pbs.twimg.com/profile_images/1952797887743524864/ejZCh4YB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf20140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808010551if_/https://pbs.twimg.com/profile_images/1952797887743524864/ejZCh4YB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497fd6a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1862077554884030464/1IH4AwSO_normal.jpg": {
       "status": "done",
@@ -7859,9 +7859,9 @@
       "referenced_by": [
         "20250808024102_twitter_com_999Takumi__status_1953647610579050932.json"
       ],
-      "last_updated": "2026-08-07T15:12:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808024102if_/https://pbs.twimg.com/profile_images/1926766589686231040/HeqghNUQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf202c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808024102if_/https://pbs.twimg.com/profile_images/1926766589686231040/HeqghNUQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5d9d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1953708919345623042/HCyyNAbc_normal.jpg": {
       "status": "done",
@@ -7944,27 +7944,27 @@
       "referenced_by": [
         "20250808124922_twitter_com_999Takumi__status_1953800705287798838.json"
       ],
-      "last_updated": "2026-08-07T15:13:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808124922if_/https://pbs.twimg.com/profile_images/1952777774772506625/OES61DyF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf03890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808124922if_/https://pbs.twimg.com/profile_images/1952777774772506625/OES61DyF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649b4a1e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1953270115233087488/c5128PcS_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250809154328_twitter_com_999Takumi__status_1954206905121046599.json"
       ],
-      "last_updated": "2026-08-07T15:13:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809154328if_/https://pbs.twimg.com/profile_images/1953270115233087488/c5128PcS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf01ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809154328if_/https://pbs.twimg.com/profile_images/1953270115233087488/c5128PcS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ee360>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1953905618387128320/wHpFdCPx_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250810132647_twitter_com_999Takumi__status_1954534898020073516.json"
       ],
-      "last_updated": "2026-08-07T15:13:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250810132647if_/https://pbs.twimg.com/profile_images/1953905618387128320/wHpFdCPx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf030b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250810132647if_/https://pbs.twimg.com/profile_images/1953905618387128320/wHpFdCPx_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ee180>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1957297369667751936/JE4te9zN_normal.jpg": {
       "status": "done",
@@ -8066,9 +8066,9 @@
         "20250907063724_twitter_com_999Takumi__status_1964578732620075407.json",
         "20250907063728_twitter_com_999Takumi__status_1964578747421774339.json"
       ],
-      "last_updated": "2026-08-07T15:13:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250907063728if_/https://pbs.twimg.com/profile_images/1959806997626494976/NHR1dODY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc67350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250907063728if_/https://pbs.twimg.com/profile_images/1959806997626494976/NHR1dODY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497fc800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1960497573434941441/yMCbvHyg_normal.jpg": {
       "status": "done",
@@ -8082,9 +8082,9 @@
       "referenced_by": [
         "20250828025838_twitter_com_999Takumi__status_1960899800699945249.json"
       ],
-      "last_updated": "2026-08-07T15:13:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250828025838if_/https://pbs.twimg.com/profile_images/1959742651043094528/7-hAuOrw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf02120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250828025838if_/https://pbs.twimg.com/profile_images/1959742651043094528/7-hAuOrw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
       "status": "failed_all",
@@ -8123,9 +8123,9 @@
         "20251018031805_twitter_com_999Takumi__status_1979386473125417410.json",
         "20251107163643_twitter_com_999Takumi__status_1986835215512445139.json"
       ],
-      "last_updated": "2026-08-07T15:13:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251107163643if_/https://pbs.twimg.com/profile_images/1964691900692332544/j8tZ50-W_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc309e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251107163643if_/https://pbs.twimg.com/profile_images/1964691900692332544/j8tZ50-W_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497efbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg": {
       "status": "done",
@@ -8313,13 +8313,13 @@
       "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/1976741567936503808/JDjxRGex_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20251011174620_twitter_com_999Takumi__status_1977068262858146011.json"
       ],
-      "last_updated": "2026-08-07T15:13:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251011174620if_/https://pbs.twimg.com/profile_images/1976741567936503808/JDjxRGex_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc333b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251011174620if_/https://pbs.twimg.com/profile_images/1976741567936503808/JDjxRGex_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f603f562420>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/1974092254383091712/J6gpgXMt_normal.jpg": {
       "status": "failed_all",
@@ -8381,9 +8381,9 @@
       "referenced_by": [
         "20260124073529_twitter_com_999Takumi__status_2014965261515026667.json"
       ],
-      "last_updated": "2026-08-07T15:13:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124073529if_/https://pbs.twimg.com/profile_images/2014902208790216704/uHa7O_q4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7d6e7dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124073529if_/https://pbs.twimg.com/profile_images/2014902208790216704/uHa7O_q4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497fd700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2003035395999531008/_63L4J_U_normal.jpg": {
       "status": "done",
@@ -8398,9 +8398,9 @@
         "20260131140334_twitter_com_999Takumi__status_2017599642016588141.json",
         "20260131140409_twitter_com_999Takumi__status_2017599787189887342.json"
       ],
-      "last_updated": "2026-08-07T15:13:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131140409if_/https://pbs.twimg.com/profile_images/2016305030467616771/pswZN90X_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc31700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131140409if_/https://pbs.twimg.com/profile_images/2016305030467616771/pswZN90X_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5edb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1909111931367247872/2RgH_r1N_normal.jpg": {
       "status": "done",
@@ -8414,18 +8414,18 @@
       "referenced_by": [
         "20260131171102_twitter_com_999Takumi__status_2017646817807372354.json"
       ],
-      "last_updated": "2026-08-07T15:13:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131171102if_/https://pbs.twimg.com/profile_images/2017514717053689856/DKpBgm7Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc658e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260131171102if_/https://pbs.twimg.com/profile_images/2017514717053689856/DKpBgm7Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffa10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1968795536322142209/5yh1Uhle_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260209130014_twitter_com_999Takumi__status_2020845193734566348.json"
       ],
-      "last_updated": "2026-08-07T15:13:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209130014if_/https://pbs.twimg.com/profile_images/1968795536322142209/5yh1Uhle_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf21ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209130014if_/https://pbs.twimg.com/profile_images/1968795536322142209/5yh1Uhle_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ee510>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2022536422088126464/vkfV1jhm_normal.jpg": {
       "status": "done",
@@ -8513,9 +8513,9 @@
         "20260222161123_twitter_com_999Takumi__status_2025604341789524422.json",
         "20260223035453_twitter_com_999Takumi__status_2025781383717904662.json"
       ],
-      "last_updated": "2026-08-07T15:13:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223035453if_/https://pbs.twimg.com/profile_images/2020549415568916480/284434qj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc65be0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223035453if_/https://pbs.twimg.com/profile_images/2020549415568916480/284434qj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ef470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg": {
       "status": "failed",
@@ -8525,9 +8525,9 @@
         "20260222061729_twitter_com_999Takumi__status_2025454880144720346.json",
         "20260522033713_twitter_com_999Takumi__status_2057667067034374145.json"
       ],
-      "last_updated": "2026-08-07T15:13:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522033713if_/https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf00dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522033713if_/https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5fef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg": {
       "status": "done",
@@ -8587,9 +8587,9 @@
       "referenced_by": [
         "20260228140633_twitter_com_999Takumi__status_2027747251125424232.json"
       ],
-      "last_updated": "2026-08-07T15:13:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260228140633if_/https://pbs.twimg.com/profile_images/2024806140111196160/XbqSrOmG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf00e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260228140633if_/https://pbs.twimg.com/profile_images/2024806140111196160/XbqSrOmG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab1f70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1785154317651267584/GA_B2P3x_normal.jpg": {
       "status": "done",
@@ -8690,9 +8690,9 @@
       "referenced_by": [
         "20260516062030_twitter_com_999Takumi__status_2055533832364015836.json"
       ],
-      "last_updated": "2026-08-07T15:13:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516062030if_/https://pbs.twimg.com/profile_images/1988112271642710017/cZKdcguI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd3470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516062030if_/https://pbs.twimg.com/profile_images/1988112271642710017/cZKdcguI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab0140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2055578075099021312/T4_JFa45_normal.jpg": {
       "status": "done",
@@ -8770,18 +8770,18 @@
       "referenced_by": [
         "20260522054612_twitter_com_999Takumi__status_2057699528472690752.json"
       ],
-      "last_updated": "2026-08-07T15:13:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522054612if_/https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd2ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522054612if_/https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ed6a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2057091882497490944/xOiE9ska_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260522102537_twitter_com_999Takumi__status_2057769846222540847.json"
       ],
-      "last_updated": "2026-08-07T15:13:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522102537if_/https://pbs.twimg.com/profile_images/2057091882497490944/xOiE9ska_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc31d30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522102537if_/https://pbs.twimg.com/profile_images/2057091882497490944/xOiE9ska_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab3380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg": {
       "status": "done",
@@ -9009,9 +9009,9 @@
       "referenced_by": [
         "20260613083415_twitter_com_999Takumi__status_2065714354339868807.json"
       ],
-      "last_updated": "2026-08-07T15:13:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613083415if_/https://pbs.twimg.com/profile_images/2048973358872866816/WAyZbLS1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf014c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613083415if_/https://pbs.twimg.com/profile_images/2048973358872866816/WAyZbLS1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab16d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg": {
       "status": "done",
@@ -9025,9 +9025,9 @@
       "referenced_by": [
         "20260613093200_twitter_com_999Takumi__status_2065728886487527808.json"
       ],
-      "last_updated": "2026-08-07T15:13:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613093200if_/https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd2db0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613093200if_/https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5f020>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg": {
       "status": "done",
@@ -9092,9 +9092,9 @@
         "20260703122933_twitter_com_999Takumi__status_2073021325472661753.json",
         "20260704085449_twitter_com_999Takumi__status_2073329675104039308.json"
       ],
-      "last_updated": "2026-08-07T15:13:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704085449if_/https://pbs.twimg.com/profile_images/2070577309258760192/_9BgobTi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cf002f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704085449if_/https://pbs.twimg.com/profile_images/2070577309258760192/_9BgobTi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab1970>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg": {
       "status": "done",
@@ -9591,31 +9591,31 @@
       "last_updated": "2026-07-27T16:05:07"
     },
     "https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260717231226_twitter_com_999Takumi__status_2078256540969300318.json"
       ],
-      "last_updated": "2026-08-07T15:13:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717231226if_/https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc337d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717231226if_/https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f603c11e780>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2077853735024275456/AX5yY34G_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260718000920_twitter_com_999Takumi__status_2078270861702742313.json"
       ],
-      "last_updated": "2026-08-07T15:13:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718000920if_/https://pbs.twimg.com/profile_images/2077853735024275456/AX5yY34G_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cbd16a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718000920if_/https://pbs.twimg.com/profile_images/2077853735024275456/AX5yY34G_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497fec90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2076352743241846784/-v3HfExk_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260718014124_twitter_com_999Takumi__status_2078294031381963004.json"
       ],
-      "last_updated": "2026-08-07T15:13:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718014124if_/https://pbs.twimg.com/profile_images/2076352743241846784/-v3HfExk_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faf7cc67f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-04T17:51:48",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718014124if_/https://pbs.twimg.com/profile_images/2076352743241846784/-v3HfExk_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ffaa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/1995877533355823104/xDQZY9zw_normal.jpg": {
       "status": "done",
@@ -9807,352 +9807,417 @@
       "last_updated": "2026-08-07T15:11:57"
     },
     "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260806162904_twitter_com_999Takumi__status_2085402787815510310.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260807033900_twitter_com_999Takumi__status_2085571381669060662.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260807085403_twitter_com_999Takumi__status_2085650669260927009.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260807085527_twitter_com_999Takumi__status_2085651022257758218.json",
         "20260814065012_twitter_com_999Takumi__status_2088156214400356454.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260807180323_twitter_com_999Takumi__status_2085788912942002569.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2085100781049647104/IKRK10rs_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260807232840_twitter_com_999Takumi__status_2085870771709329764.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:51:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260807232840if_/https://pbs.twimg.com/profile_images/2085100781049647104/IKRK10rs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6497ff0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2084578078647586816/kRhZ6tww_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809034142_twitter_com_999Takumi__status_2086296838492311740.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1982996644514648064/8vIjFeVR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809075011_twitter_com_999Takumi__status_2086359371911713239.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1875396502098411520/KkuRViA3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809075500_twitter_com_999Takumi__status_2086360581792252405.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1989947553568210946/u4f96xul_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809081214_twitter_com_999Takumi__status_2086364919725973712.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2086342687171719168/jf3n2JTd_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809155703_twitter_com_999Takumi__status_2086481895215538226.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809180640_twitter_com_999Takumi__status_2086514515257278641.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810042949_twitter_com_999Takumi__status_2086671337293271042.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2033661883077824512/e6G9Du_-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810054602_twitter_com_999Takumi__status_2086690517547647025.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810054946_twitter_com_999Takumi__status_2086691456778154389.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1942114129327841280/00ON8H3e_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260813175735_twitter_com_999Takumi__status_2087961781692162159.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:51:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260813175735if_/https://pbs.twimg.com/profile_images/1942114129327841280/00ON8H3e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f602cf532c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2080958504391823360/e9In8V90_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260814063641_twitter_com_999Takumi__status_2088152812421325189.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260814065012_twitter_com_999Takumi__status_2088156214400356454.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260816122746_twitter_com_999Takumi__status_2088965940709142769.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:12"
     },
     "https://pbs.twimg.com/profile_images/1993163541101297665/PQdOiAIz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817162405_twitter_com_999Takumi__status_2089387802744213733.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2064015117419970560/A2gu8hFP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817163405_twitter_com_999Takumi__status_2089390318974324887.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817163709_twitter_com_999Takumi__status_2089391091632242996.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2043617995340288000/Ggj4GW0K_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817164031_twitter_com_999Takumi__status_2089391937761800374.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2083191924530532352/DC9tZnGc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817164151_twitter_com_999Takumi__status_2089392271158620622.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/1987540438883135489/WpiAZ2F1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260817164208_twitter_com_999Takumi__status_2089392342910599597.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2084839645486202880/uO_Cyg5o_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818020037_twitter_com_999Takumi__status_2089532889902059763.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818031146_twitter_com_999Takumi__status_2089550797193564382.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818032032_twitter_com_999Takumi__status_2089553001602265480.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818043554_twitter_com_999Takumi__status_2089571967997526310.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2088507505764614144/Jk83gbo4_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260818043638_twitter_com_999Takumi__status_2089572154685972657.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:51:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260818043638if_/https://pbs.twimg.com/profile_images/2088507505764614144/Jk83gbo4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649a5d310>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2078307866956722176/Pa6HCyaX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818043943_twitter_com_999Takumi__status_2089572931391422730.json",
         "20260818044014_twitter_com_999Takumi__status_2089573058051027067.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818044225_twitter_com_999Takumi__status_2089573609014739117.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818044521_twitter_com_999Takumi__status_2089574348097286147.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818122638_twitter_com_999Takumi__status_2089690435266728260.json",
         "20260818123410_twitter_com_999Takumi__status_2089692329120805239.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818123726_twitter_com_999Takumi__status_2089693152596951465.json",
         "20260825154937_twitter_com_999Takumi__status_2092278232427204888.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2087263302372274176/lQyIL0Ix_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818123726_twitter_com_999Takumi__status_2089693152596951465.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2086423386897453056/3XCafJmV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818123726_twitter_com_999Takumi__status_2089693152596951465.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2088052258986659840/3gfAXlVj_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818202507_twitter_com_999Takumi__status_2089810846793027681.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2048820626820067329/-IrmP8JP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260819091635_twitter_com_999Takumi__status_2090004994120724499.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260819152032_twitter_com_999Takumi__status_2090096586085003379.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820070119_twitter_com_999Takumi__status_2090333339266003031.json",
         "20260820092620_twitter_com_999Takumi__status_2090369832848159165.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2089317413003427840/BK2mq5KD_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820151416_twitter_com_999Takumi__status_2090457395181027831.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820151416_twitter_com_999Takumi__status_2090457395181027831.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260821021826_twitter_com_999Takumi__status_2090624539239788549.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:51:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260821021826if_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb649ab3c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2090749356563435520/4YysT5u8_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821122348_twitter_com_999Takumi__status_2090776881788555560.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2089785884350500864/P-WLGsIw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821122400_twitter_com_999Takumi__status_2090776933026177384.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:13"
     },
     "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821122631_twitter_com_999Takumi__status_2090777565774672105.json",
         "20260824104959_twitter_com_999Takumi__status_2091840436755435645.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2091167548872208384/BzMOcuY-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822163451_twitter_com_999Takumi__status_2091202449084436518.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2090460220401283073/u0E45ziV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260824052245_twitter_com_999Takumi__status_2091758088508543233.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2008881883036418048/IUZnjGLl_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260824104717_twitter_com_999Takumi__status_2091839759253680601.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260825153124_twitter_com_999Takumi__status_2092273645263753230.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2089552359878017024/x3E7LPp8_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260825154211_twitter_com_999Takumi__status_2092276359603339624.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2089413257757077504/F4nnGYEx_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826054556_twitter_com_999Takumi__status_2092488695115051067.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2083578791759368192/-iqleWYu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826054636_twitter_com_999Takumi__status_2092488862652420328.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/1757079159065686016/diKiAx2F_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826054722_twitter_com_999Takumi__status_2092489058069205368.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2078357509883195392/0Z7G02FH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826055340_twitter_com_999Takumi__status_2092490644795355210.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     },
     "https://pbs.twimg.com/profile_images/2089344460782194688/JQksYtPJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826055643_twitter_com_999Takumi__status_2092491410159391199.json"
-      ]
+      ],
+      "last_updated": "2026-09-04T17:50:14"
     }
   },
   "media": {
@@ -16182,7 +16247,7 @@
       "miss_count": 2
     },
     "20251011174620_twitter_com_999Takumi__status_1977068262858146011.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G2_seWDaoAAy38D.jpg"
@@ -16193,7 +16258,7 @@
           "https://pbs.twimg.com/profile_images/1976741567936503808/JDjxRGex_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10",
+      "last_updated": "2026-09-04T17:51:18",
       "miss_count": 6
     },
     "20251012044006_twitter_com_999Takumi__status_1977232787486003694.json": {
@@ -19695,7 +19760,7 @@
       "last_updated": "2026-07-27T16:05:07"
     },
     "20260717231226_twitter_com_999Takumi__status_2078256540969300318.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19704,7 +19769,7 @@
           "https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10",
+      "last_updated": "2026-09-04T17:51:44",
       "miss_count": 6
     },
     "20260717231703_twitter_com_999Takumi__status_2078257704142082048.json": {
@@ -21397,7 +21462,7 @@
       "last_updated": "2026-09-04T17:33:39"
     },
     "20260806162904_twitter_com_999Takumi__status_2085402787815510310.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21406,7 +21471,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260806163143_twitter_com_999Takumi__status_2085403455737540678.json": {
       "status": "done",
@@ -21421,7 +21486,7 @@
       "last_updated": "2026-09-04T17:33:39"
     },
     "20260807033900_twitter_com_999Takumi__status_2085571381669060662.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21430,7 +21495,7 @@
           "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260807034630_twitter_com_999Takumi__status_2085573270385148392.json": {
       "status": "done",
@@ -21477,7 +21542,7 @@
       "last_updated": "2026-09-04T17:33:39"
     },
     "20260807085403_twitter_com_999Takumi__status_2085650669260927009.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21486,10 +21551,10 @@
           "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260807085527_twitter_com_999Takumi__status_2085651022257758218.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO9Y3XgWMAARCXT.jpg"
@@ -21500,7 +21565,7 @@
           "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260807180039_twitter_com_999Takumi__status_2085788225042620530.json": {
       "status": "done",
@@ -21525,7 +21590,7 @@
       "last_updated": "2026-09-04T17:33:39"
     },
     "20260807180323_twitter_com_999Takumi__status_2085788912942002569.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO8r6X_bgAA7q13.jpg"
@@ -21536,7 +21601,7 @@
           "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260807222551_twitter_com_999Takumi__status_2085854965508235765.json": {
       "status": "done",
@@ -21554,7 +21619,7 @@
       "last_updated": "2026-09-04T17:33:40"
     },
     "20260807232840_twitter_com_999Takumi__status_2085870771709329764.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPArZRLa4AASA2v.jpg"
@@ -21565,7 +21630,7 @@
           "https://pbs.twimg.com/profile_images/2085100781049647104/IKRK10rs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260808043222_twitter_com_999Takumi__status_2085947199767339513.json": {
       "status": "failed",
@@ -21605,7 +21670,7 @@
       "last_updated": "2026-09-04T17:33:40"
     },
     "20260809034142_twitter_com_999Takumi__status_2086296838492311740.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21614,7 +21679,7 @@
           "https://pbs.twimg.com/profile_images/2084578078647586816/kRhZ6tww_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260809052111_twitter_com_999Takumi__status_2086321874510967019.json": {
       "status": "done",
@@ -21640,7 +21705,7 @@
       "last_updated": "2026-09-04T17:33:40"
     },
     "20260809075011_twitter_com_999Takumi__status_2086359371911713239.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPLqA-uWMAAivUH.jpg"
@@ -21651,10 +21716,10 @@
           "https://pbs.twimg.com/profile_images/1982996644514648064/8vIjFeVR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260809075500_twitter_com_999Takumi__status_2086360581792252405.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21663,10 +21728,10 @@
           "https://pbs.twimg.com/profile_images/1875396502098411520/KkuRViA3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260809081214_twitter_com_999Takumi__status_2086364919725973712.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPNQ7-IXcAAwbLF.jpg"
@@ -21677,10 +21742,10 @@
           "https://pbs.twimg.com/profile_images/1989947553568210946/u4f96xul_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260809155703_twitter_com_999Takumi__status_2086481895215538226.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPSZd9CaAAAKTST.jpg",
@@ -21694,7 +21759,7 @@
           "https://pbs.twimg.com/profile_images/2086342687171719168/jf3n2JTd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260809155759_twitter_com_999Takumi__status_2086482131166089494.json": {
       "status": "failed",
@@ -21711,7 +21776,7 @@
       "miss_count": 2
     },
     "20260809180640_twitter_com_999Takumi__status_2086514515257278641.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPS-IYnaoAAw3ul.jpg"
@@ -21722,7 +21787,7 @@
           "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260810042539_twitter_com_999Takumi__status_2086670284938170446.json": {
       "status": "done",
@@ -21736,7 +21801,7 @@
       "last_updated": "2026-09-04T17:33:40"
     },
     "20260810042949_twitter_com_999Takumi__status_2086671337293271042.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPQwkkjbUAA71S3.jpg"
@@ -21747,10 +21812,10 @@
           "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260810054602_twitter_com_999Takumi__status_2086690517547647025.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMoQUs3bMAMrHsy.jpg",
@@ -21765,10 +21830,10 @@
           "https://pbs.twimg.com/profile_images/2033661883077824512/e6G9Du_-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:11"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260810054946_twitter_com_999Takumi__status_2086691456778154389.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21777,7 +21842,7 @@
           "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260810135103_twitter_com_999Takumi__status_2086812574834983096.json": {
       "status": "done",
@@ -21913,7 +21978,7 @@
       "last_updated": "2026-09-04T17:33:40"
     },
     "20260813175735_twitter_com_999Takumi__status_2087961781692162159.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21922,10 +21987,10 @@
           "https://pbs.twimg.com/profile_images/1942114129327841280/00ON8H3e_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:51:49"
     },
     "20260814063641_twitter_com_999Takumi__status_2088152812421325189.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPqTdDFb0AALXHt.jpg",
@@ -21937,7 +22002,7 @@
           "https://pbs.twimg.com/profile_images/2080958504391823360/e9In8V90_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260814063829_twitter_com_999Takumi__status_2088153268828635279.json": {
       "status": "done",
@@ -21951,7 +22016,7 @@
       "last_updated": "2026-09-04T17:33:41"
     },
     "20260814065012_twitter_com_999Takumi__status_2088156214400356454.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21961,7 +22026,7 @@
           "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260814073811_twitter_com_999Takumi__status_2088168291982577931.json": {
       "status": "failed",
@@ -22025,7 +22090,7 @@
       "last_updated": "2026-09-04T17:33:41"
     },
     "20260816122746_twitter_com_999Takumi__status_2088965940709142769.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP0r9j-WAAATaIh.jpg",
@@ -22037,7 +22102,7 @@
           "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:12"
     },
     "20260817143434_twitter_com_999Takumi__status_2089360239372234766.json": {
       "status": "done",
@@ -22062,7 +22127,7 @@
       "last_updated": "2026-09-04T17:33:42"
     },
     "20260817162405_twitter_com_999Takumi__status_2089387802744213733.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP4-qPnbkAAoPrT.jpg"
@@ -22073,7 +22138,7 @@
           "https://pbs.twimg.com/profile_images/1993163541101297665/PQdOiAIz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817162859_twitter_com_999Takumi__status_2089389034875609374.json": {
       "status": "done",
@@ -22087,7 +22152,7 @@
       "last_updated": "2026-09-04T17:33:42"
     },
     "20260817163405_twitter_com_999Takumi__status_2089390318974324887.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPOK3u0aEAA0AFx.jpg",
@@ -22101,10 +22166,10 @@
           "https://pbs.twimg.com/profile_images/2064015117419970560/A2gu8hFP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817163709_twitter_com_999Takumi__status_2089391091632242996.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22113,10 +22178,10 @@
           "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817164031_twitter_com_999Takumi__status_2089391937761800374.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22125,10 +22190,10 @@
           "https://pbs.twimg.com/profile_images/2043617995340288000/Ggj4GW0K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817164151_twitter_com_999Takumi__status_2089392271158620622.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -22139,10 +22204,10 @@
           "https://pbs.twimg.com/profile_images/2083191924530532352/DC9tZnGc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:36"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817164208_twitter_com_999Takumi__status_2089392342910599597.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22151,7 +22216,7 @@
           "https://pbs.twimg.com/profile_images/1987540438883135489/WpiAZ2F1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260817171043_twitter_com_999Takumi__status_2089399537475740089.json": {
       "status": "failed",
@@ -22168,7 +22233,7 @@
       "miss_count": 2
     },
     "20260818020037_twitter_com_999Takumi__status_2089532889902059763.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP8N3tgbEAAlkzC.jpg"
@@ -22179,7 +22244,7 @@
           "https://pbs.twimg.com/profile_images/2084839645486202880/uO_Cyg5o_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818025224_twitter_com_999Takumi__status_2089545922468552869.json": {
       "status": "failed",
@@ -22196,7 +22261,7 @@
       "miss_count": 1
     },
     "20260818031146_twitter_com_999Takumi__status_2089550797193564382.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22205,7 +22270,7 @@
           "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818031726_twitter_com_999Takumi__status_2089552221772100026.json": {
       "status": "done",
@@ -22230,7 +22295,7 @@
       "last_updated": "2026-09-04T17:33:43"
     },
     "20260818032032_twitter_com_999Takumi__status_2089553001602265480.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP9VTjjbYAAwhmY.jpg"
@@ -22241,10 +22306,10 @@
           "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818043554_twitter_com_999Takumi__status_2089571967997526310.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP05y6VagAApXjS.jpg"
@@ -22255,10 +22320,10 @@
           "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818043638_twitter_com_999Takumi__status_2089572154685972657.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22267,10 +22332,10 @@
           "https://pbs.twimg.com/profile_images/2088507505764614144/Jk83gbo4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:15"
     },
     "20260818043943_twitter_com_999Takumi__status_2089572931391422730.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -22281,10 +22346,10 @@
           "https://pbs.twimg.com/profile_images/2078307866956722176/Pa6HCyaX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:12"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818044014_twitter_com_999Takumi__status_2089573058051027067.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -22295,10 +22360,10 @@
           "https://pbs.twimg.com/profile_images/2078307866956722176/Pa6HCyaX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:12"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818044225_twitter_com_999Takumi__status_2089573609014739117.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -22309,10 +22374,10 @@
           "https://pbs.twimg.com/profile_images/2049330628609605632/E029CVB5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:11"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818044521_twitter_com_999Takumi__status_2089574348097286147.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP5tUdfboAARf8g.jpg"
@@ -22323,7 +22388,7 @@
           "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818090002_twitter_com_999Takumi__status_2089638441415999726.json": {
       "status": "done",
@@ -22337,7 +22402,7 @@
       "last_updated": "2026-09-04T17:33:43"
     },
     "20260818122638_twitter_com_999Takumi__status_2089690435266728260.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22346,10 +22411,10 @@
           "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818123410_twitter_com_999Takumi__status_2089692329120805239.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP_6LP8bAAA-QLL.jpg"
@@ -22360,10 +22425,10 @@
           "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818123726_twitter_com_999Takumi__status_2089693152596951465.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPsvzhOWgAAlh2v.jpg"
@@ -22376,10 +22441,10 @@
           "https://pbs.twimg.com/profile_images/2086423386897453056/3XCafJmV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260818202507_twitter_com_999Takumi__status_2089810846793027681.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPpBkK6aQAIahIb.jpg"
@@ -22390,10 +22455,10 @@
           "https://pbs.twimg.com/profile_images/2088052258986659840/3gfAXlVj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260819091635_twitter_com_999Takumi__status_2090004994120724499.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQD5m2faoAApbEG.jpg",
@@ -22405,7 +22470,7 @@
           "https://pbs.twimg.com/profile_images/2048820626820067329/-IrmP8JP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260819091726_twitter_com_999Takumi__status_2090005209095585885.json": {
       "status": "failed",
@@ -22433,7 +22498,7 @@
       "last_updated": "2026-09-04T17:33:43"
     },
     "20260819152032_twitter_com_999Takumi__status_2090096586085003379.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22442,7 +22507,7 @@
           "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260819152357_twitter_com_999Takumi__status_2090097442385694970.json": {
       "status": "failed",
@@ -22460,7 +22525,7 @@
       "miss_count": 2
     },
     "20260820070119_twitter_com_999Takumi__status_2090333339266003031.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQItKaFWkAAE5ob.jpg",
@@ -22474,10 +22539,10 @@
           "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260820092620_twitter_com_999Takumi__status_2090369832848159165.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQFQ1EBX0AAh4Tn.jpg",
@@ -22489,7 +22554,7 @@
           "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260820151057_twitter_com_999Takumi__status_2090456562288726505.json": {
       "status": "done",
@@ -22503,7 +22568,7 @@
       "last_updated": "2026-09-04T17:33:43"
     },
     "20260820151416_twitter_com_999Takumi__status_2090457395181027831.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP7AMG_bYAEf_0w.jpg",
@@ -22517,7 +22582,7 @@
           "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260820151509_twitter_com_999Takumi__status_2090457615876727228.json": {
       "status": "done",
@@ -22543,7 +22608,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260821021826_twitter_com_999Takumi__status_2090624539239788549.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQITu6wa8AAF9-7.jpg",
@@ -22556,7 +22621,7 @@
           "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:16"
     },
     "20260821085727_twitter_com_999Takumi__status_2090724953482285378.json": {
       "status": "done",
@@ -22570,7 +22635,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260821122348_twitter_com_999Takumi__status_2090776881788555560.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQPrRmGXYAAB9IP.jpg"
@@ -22581,10 +22646,10 @@
           "https://pbs.twimg.com/profile_images/2090749356563435520/4YysT5u8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260821122400_twitter_com_999Takumi__status_2090776933026177384.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP8OH4dXwAA0qwF.jpg",
@@ -22598,10 +22663,10 @@
           "https://pbs.twimg.com/profile_images/2089785884350500864/P-WLGsIw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260821122631_twitter_com_999Takumi__status_2090777565774672105.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP03nlfbsAEoGpc.jpg"
@@ -22612,10 +22677,10 @@
           "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260822163451_twitter_com_999Takumi__status_2091202449084436518.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQVRjCbbwAAJ60k.jpg",
@@ -22627,7 +22692,7 @@
           "https://pbs.twimg.com/profile_images/2091167548872208384/BzMOcuY-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260823160509_twitter_com_999Takumi__status_2091557363883110568.json": {
       "status": "done",
@@ -22666,7 +22731,7 @@
       "miss_count": 2
     },
     "20260824052245_twitter_com_999Takumi__status_2091758088508543233.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22675,7 +22740,7 @@
           "https://pbs.twimg.com/profile_images/2090460220401283073/u0E45ziV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260824104610_twitter_com_999Takumi__status_2091839477308363057.json": {
       "status": "done",
@@ -22701,7 +22766,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260824104717_twitter_com_999Takumi__status_2091839759253680601.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22710,10 +22775,10 @@
           "https://pbs.twimg.com/profile_images/2008881883036418048/IUZnjGLl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260824104959_twitter_com_999Takumi__status_2091840436755435645.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22722,7 +22787,7 @@
           "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260825041224_twitter_com_999Takumi__status_2092102769557782971.json": {
       "status": "done",
@@ -22747,7 +22812,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260825153124_twitter_com_999Takumi__status_2092273645263753230.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22756,7 +22821,7 @@
           "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260825153750_twitter_com_999Takumi__status_2092275266475499898.json": {
       "status": "done",
@@ -22771,7 +22836,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260825154211_twitter_com_999Takumi__status_2092276359603339624.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQMOLowaAAAS_NG.jpg",
@@ -22783,7 +22848,7 @@
           "https://pbs.twimg.com/profile_images/2089552359878017024/x3E7LPp8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260825154614_twitter_com_999Takumi__status_2092277378030633068.json": {
       "status": "done",
@@ -22798,7 +22863,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260825154937_twitter_com_999Takumi__status_2092278232427204888.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22807,10 +22872,10 @@
           "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:13"
     },
     "20260826054556_twitter_com_999Takumi__status_2092488695115051067.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22819,10 +22884,10 @@
           "https://pbs.twimg.com/profile_images/2089413257757077504/F4nnGYEx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260826054636_twitter_com_999Takumi__status_2092488862652420328.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22831,10 +22896,10 @@
           "https://pbs.twimg.com/profile_images/2083578791759368192/-iqleWYu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260826054722_twitter_com_999Takumi__status_2092489058069205368.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -22843,7 +22908,7 @@
           "https://pbs.twimg.com/profile_images/1757079159065686016/diKiAx2F_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260826055242_twitter_com_999Takumi__status_2092490399507996948.json": {
       "status": "done",
@@ -22857,7 +22922,7 @@
       "last_updated": "2026-09-04T17:33:44"
     },
     "20260826055340_twitter_com_999Takumi__status_2092490644795355210.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQm24g1asAAp4Xt.jpg",
@@ -22869,10 +22934,10 @@
           "https://pbs.twimg.com/profile_images/2078357509883195392/0Z7G02FH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260826055643_twitter_com_999Takumi__status_2092491410159391199.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQn7Ggqa8AA6ppO.jpg"
@@ -22883,7 +22948,7 @@
           "https://pbs.twimg.com/profile_images/2089344460782194688/JQksYtPJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-04T17:49:10"
+      "last_updated": "2026-09-04T17:50:14"
     },
     "20260826101704_twitter_com_999Takumi__status_2092556928585249209.json": {
       "status": "done",
